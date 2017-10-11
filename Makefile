@@ -1,13 +1,16 @@
+# GNU make is required to run this file. To install on *BSD, run:
+#   gmake PREFIX=/usr/local install
+
 all:
 	#"There is no need to run 'make'. Just run 'sudo make install'"
 
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons/Pop
 	cp --no-preserve=mode,ownership -r \
-		Papirus/* \
+		./Papirus/* \
 		$(DESTDIR)/usr/share/icons/Pop
 	cp --no-preserve=mode,ownership -r \
-	    Pop\ Overrides/* \
+	    ./Pop\ Overrides/* \
 	    $(DESTDIR)/usr/share/icons/Pop
 	./icons-recolor.sh $(DESTDIR)/usr/share/icons/Pop/
 
@@ -26,6 +29,7 @@ push:
 
 release: _get_version push
 	git tag -f $(VERSION)
+	git push origin
 	git push origin --tags
 
 undo_release: _get_version
