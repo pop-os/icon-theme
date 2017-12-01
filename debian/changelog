@@ -4,6 +4,12 @@ pop-icon-theme (1.2.0) artful; urgency=medium
 
  -- Ian Santopietro <ian@system76.com>  Fri, 01 Dec 2017 11:52:04 -0700
 
+pop-icon-theme (1.1.14) artful; urgency=medium
+
+  * Fix inheritance problem that broke branding
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 01 Dec 2017 10:00:32 -0700
+
 pop-icon-theme (1.1.13) artful; urgency=medium
 
   * Add some Granite-specific icons.
