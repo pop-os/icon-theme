@@ -55,7 +55,7 @@ Pop has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows y
 <details>
 <summary>For Unity users</summary>
 
-For Unity users, we recommend installing patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik) and change an icon size to 33px.
+For Unity users, we recommend installing patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik) and changing the icon size to 33px.
 
 *~/.notify-osd* file:
 
@@ -89,6 +89,27 @@ bubble-as-desktop-bg = 0
 ![notify-fix](notify-fix.png)
 
 Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity) and [unity-tweak-tool icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity-tweak-tool). Look into the extra folder in the icon theme.
+</details>
+
+<details>
+<summary>For Xfce users</summary>
+
+Here are a few recommendations for Xfce users.
+
+#### Thunar File Manager
+
+Go to `Edit` → `Preferences...`. Click on `Side Pane` tab. Under `Side Pane`, look for `Icon Size` and set to `Very Small`.
+
+![thunar-prefecences](http://i.imgur.com/Iu1TIEa.png)
+
+#### Notification Area
+
+Go to `Settings Manager` → `Panel` → `Items` tab. Select `Notification Area` item and click on `Edit currently selected item` button. Under `Appearance` set the following options:
+
+- Set `Maximum icon size (px)` to `24`
+- Uncheck `Show frame`
+
+![xfce4-notification-area](http://i.imgur.com/MopCZBZ.png)
 </details>
 
 ## Icon request
