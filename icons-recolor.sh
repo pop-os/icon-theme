@@ -5,7 +5,7 @@
 
 # This program is part of the Pop Icon Theme. 
 # Copyright 2017 by Ian Santopietro <ian@system76.com>
-# This file is licenced under the GNU GPL V2. 
+# This file is licenced under either the GNU GPL V2 or the GNU LGPL V3.
 
 # Base command: find $1 -type f -exec sed -i 's/original/replaced/g' {} +
 
