@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Pop
 Comment=System76 Pop icon theme for Linux.
-Inherits=pop-os-branding,elementary,gnome,hicolor
+Inherits=pop-os-branding,ubuntu-mono-dark,ubuntu-mono-light,breeze,elementary,gnome,hicolor
 
 DesktopDefault=48
 ToolbarDefault=16
