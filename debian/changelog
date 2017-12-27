@@ -1,3 +1,9 @@
+pop-icon-theme (1.2.2) artful; urgency=medium
+
+  * GOA Nextcloud Icon workaround.
+
+ -- Ian Santopietro <ian@system76.com>  Wed, 27 Dec 2017 10:42:14 -0700
+
 pop-icon-theme (1.2.1) artful; urgency=medium
 
   * Merge fix for inheritance from 1.1.14.
