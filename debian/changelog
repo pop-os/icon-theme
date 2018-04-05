@@ -1,3 +1,27 @@
+pop-icon-theme (1.2.2) artful; urgency=medium
+
+  * GOA Nextcloud Icon workaround.
+
+ -- Ian Santopietro <ian@system76.com>  Wed, 27 Dec 2017 10:42:14 -0700
+
+pop-icon-theme (1.2.1) artful; urgency=medium
+
+  * Merge fix for inheritance from 1.1.14.
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 01 Dec 2017 11:55:31 -0700
+
+pop-icon-theme (1.2.0) artful; urgency=medium
+
+  * Icons from upstream.
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 01 Dec 2017 11:52:04 -0700
+
+pop-icon-theme (1.1.14) artful; urgency=medium
+
+  * Fix inheritance problem that broke branding
+
+ -- Ian Santopietro <ian@system76.com>  Fri, 01 Dec 2017 10:00:32 -0700
+
 pop-icon-theme (1.1.13) artful; urgency=medium
 
   * Add some Granite-specific icons.
