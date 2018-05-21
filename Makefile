@@ -14,11 +14,15 @@ install:
 	    $(DESTDIR)/usr/share/icons/Pop
 	./icons-recolor.sh $(DESTDIR)/usr/share/icons/Pop/
 
+	mkdir -p $(DESTDIR)/usr/share/icons/Pop-Extra
+	./icons-split.sh $(DESTDIR)/usr/share/icons/Pop/ $(DESTDIR)/usr/share/icons/Pop-Extra/
+
 post-install:
 	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Pop
+	-gtk-update-icon-cache -q $(DESTDIR)/usr/share/icons/Pop-Extra
 
 uninstall:
-	-rm -rf $(DESTDIR)/usr/share/icons/Pop
+	-rm -rf $(DESTDIR)/usr/share/icons/Pop $(DESTDIR)/usr/share/icons/Pop-Extra
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
