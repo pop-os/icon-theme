@@ -1,0 +1,16 @@
+Build started at 2019-01-23T09:15:29.287484
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.47.2
+Source dir: /home/ian/Documents/Pop/icon-theme-2
+Build dir: /home/ian/Documents/Pop/icon-theme-2/build
+Build type: native build
+Project name: pop-icon-theme
+Project version: 0.1
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Program meson/post_install.py found: YES (/usr/bin/env python3 /home/ian/Documents/Pop/icon-theme-2/meson/post_install.py)
+Build targets in project: 0
+Option prefix is: /usr/local [default: /usr]
+Found ninja-1.8.2 at /usr/bin/ninja

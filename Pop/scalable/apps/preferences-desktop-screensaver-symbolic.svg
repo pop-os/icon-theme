@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000427' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
+      </cc:Work>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Pop Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient6882' osb:paint='solid'>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
+      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
+    </filter>
+  </defs>
+  <g id='layer9' style='display:inline' transform='translate(-1105.0317,655.00331)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-1105.0317,655.00331)'/>
+  <g id='layer1' style='display:inline' transform='translate(-864.03145,38.003306)'/>
+  <g id='layer14' style='display:inline' transform='translate(-1105.0317,655.00331)'/>
+  <g id='layer15' style='display:inline' transform='translate(-1105.0317,655.00331)'/>
+  <g id='g71291' style='display:inline' transform='translate(-1105.0317,655.00331)'/>
+  <g id='layer2' style='display:inline' transform='translate(-864.03145,188.00331)'/>
+  <g id='layer3' transform='translate(-864.03145,-71.996694)'>
+    <path d='m 874.51295,76.69166 c 0.32144,0.38949 0.51637,0.8873 0.51637,1.43172 0,1.24441 -1.0088,2.25321 -2.25322,2.25321 -0.54442,0 -1.04223,-0.19492 -1.43172,-0.51635 0.27245,1.16131 1.31392,2.01849 2.55833,2.01849 1.45182,0 2.62874,-1.17693 2.62874,-2.62874 0,-1.24442 -0.85718,-2.28588 -2.0185,-2.55833 z' id='path5549' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <rect height='1' id='rect5595' rx='0.5' ry='0.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' width='1' x='871.03143' y='74.999992'/>
+    <path d='m 869.53143,79.499992 -0.49672,-1.50328 -1.50328,-0.49672 1.50328,-0.496719 0.49672,-1.503281 0.49672,1.503281 1.50328,0.496719 -1.50328,0.49672 z' id='path11638' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <rect height='1' id='rect8197' rx='0.5' ry='0.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' width='1' x='872.03143' y='76.999992'/>
+    <rect height='1' id='rect8199' rx='0.5' ry='0.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' width='1' x='876.03143' y='74.999992'/>
+    <rect height='1' id='rect8201' rx='0.5' ry='0.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' width='1' x='868.03143' y='79.999992'/>
+    
+    
+    <path d='m 866.03145,71.99999 c -1.99959,0 -2,2 -2,2 v 9 c 0,0 0,2 2,2 h 12 c 0,0 1.99953,0 2,-2 v -9 c 0,0 4.1e-4,-2 -2,-2 z m 0,2 h 12 v 9 l -12,-0.024 z m 1,13 2e-4,0.99664 h 10 l -2e-4,-0.99664 c 0,-1 -1,-1 -1,-1 h -8.02177 c 0,0 -0.97823,0 -0.97823,1 z' id='path7173-9' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+  </g>
+  <g id='layer12' style='display:inline' transform='translate(-1105.0317,655.00331)'/>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
+      </cc:Work>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Pop Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient6882' osb:paint='solid'>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
+      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
+    </filter>
+  </defs>
+  <g id='layer9' style='display:inline' transform='translate(-1005.0316,655.00001)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-1005.0316,655.00001)'/>
+  <g id='layer1' style='display:inline' transform='translate(-764.03145,38.00001)'/>
+  <g id='layer14' style='display:inline' transform='translate(-1005.0316,655.00001)'/>
+  <g id='layer15' style='display:inline' transform='translate(-1005.0316,655.00001)'/>
+  <g id='g71291' style='display:inline' transform='translate(-1005.0316,655.00001)'/>
+  <g id='layer2' style='display:inline' transform='translate(-764.03145,188.00001)'/>
+  <g id='layer3' transform='translate(-764.03145,-71.99999)'>
+    <path d='m 772.90645,79.99999 c -0.49245,0 -0.875,0.38256 -0.875,0.875 v 6.25 c 0,0.49244 0.38255,0.875 0.875,0.875 h 6.25 c 0.49245,0 0.875,-0.38256 0.875,-0.875 v -6.25 c 0,-0.49244 -0.38255,-0.875 -0.875,-0.875 z m 2.125,1 h 2 v 1 h -2 z m 0,2 h 2 v 4 h -2 z' id='path9233' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
+    
+    <path d='m 772.03145,73.99999 c -1.65686,0 -3,1.3432 -3,3 0,1.41084 0.9768,2.58597 2.28906,2.90625 0.33568,-0.53551 0.92746,-0.90625 1.58594,-0.90625 h 1.3457 c 0.47909,-0.53166 0.7793,-1.22801 0.7793,-2 0,-1.6568 -1.34314,-3 -3,-3 z m -1,8.04297 c -4.99721,0.42168 -5,3.96094 -5,3.96094 v 1 h 5 z m 2,0 v 4.95703 h 1 v -4 -0.82422 c -0.30834,-0.0595 -0.64227,-0.10295 -1,-0.13281 z' id='path6174-8-2' style='color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
+  </g>
+  <g id='layer12' style='display:inline' transform='translate(-1005.0316,655.00001)'/>
+</svg>

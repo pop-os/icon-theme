@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000443' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
+      </cc:Work>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Pop Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient6882' osb:paint='solid'>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
+      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
+    </filter>
+  </defs>
+  <g id='layer9' style='display:inline' transform='translate(-405.00367,614.99841)'>
+    
+    <path d='m 413.00411,-613.99414 c -1.44772,0 -2.89589,0.27617 -4.25782,0.82812 -0.68096,0.27608 -1.3414,0.62112 -1.96875,1.03516 -0.62734,0.41404 -1.22115,0.89726 -1.77343,1.44922 l 6.55078,7.93164 h 0.002 c 0.37724,0.39311 0.89852,0.61531 1.44336,0.61523 0.54638,-9.2e-4 1.0686,-0.22533 1.44531,-0.62109 h 0.004 l 6.55469,-7.92578 c -0.82908,-0.82858 -1.75412,-1.50178 -2.74024,-2.01953 -0.0223,-0.0117 -0.046,-0.0197 -0.0684,-0.0312 -0.35147,-0.18159 -0.71137,-0.34018 -1.07617,-0.48242 -0.13732,-0.0535 -0.27712,-0.0985 -0.41602,-0.14649 -0.25375,-0.0876 -0.50936,-0.1673 -0.76757,-0.23633 -0.1588,-0.0425 -0.31835,-0.0817 -0.47852,-0.11718 -0.26382,-0.0583 -0.53022,-0.10527 -0.79687,-0.14454 -0.14585,-0.0215 -0.29107,-0.0467 -0.4375,-0.0625 -0.40533,-0.0436 -0.81139,-0.0723 -1.21875,-0.0723 z' id='path6569' style='opacity:0.35;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+    <path d='m 413.00411,-606.99414 c -1.33647,0 -2.67367,0.50826 -3.69336,1.52734 l 2.24414,2.7168 h 0.002 c 0.37724,0.39311 0.89852,0.61531 1.44336,0.61523 0.54638,-9.2e-4 1.0686,-0.22533 1.44531,-0.62109 h 0.004 l 2.24414,-2.71289 c -1.01943,-1.01776 -2.35386,-1.52539 -3.68945,-1.52539 z' id='path6571' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+  </g>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-405.00367,614.99841)'/>
+  <g id='layer1' style='display:inline' transform='translate(-164.00347,-2.0015911)'/>
+  <g id='layer14' style='display:inline' transform='translate(-405.00367,614.99841)'/>
+  <g id='layer15' style='display:inline' transform='translate(-405.00367,614.99841)'/>
+  <g id='g71291' style='display:inline' transform='translate(-405.00367,614.99841)'/>
+  <g id='layer2' style='display:inline' transform='translate(-164.00347,147.99841)'/>
+  <g id='layer3' transform='translate(-164.00347,-112.00159)'/>
+  <g id='layer12' style='display:inline' transform='translate(-405.00367,614.99841)'/>
+</svg>

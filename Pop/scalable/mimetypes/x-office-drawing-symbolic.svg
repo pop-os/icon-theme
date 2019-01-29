@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
+      </cc:Work>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Pop Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient6882' osb:paint='solid'>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
+      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
+    </filter>
+  </defs>
+  <g id='layer9' style='display:inline' transform='translate(-765.00018,575.00336)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-765.00018,575.00336)'/>
+  <g id='layer1' style='display:inline' transform='translate(-523.99998,-41.996643)'/>
+  <g id='layer14' style='display:inline' transform='translate(-765.00018,575.00336)'>
+    
+    <path d='m 768.0002,-574.00391 c -2,0.004 -2,2.00391 -2,2.00391 0.0185,3.39797 -0.014,6.96863 0,10 0,2 2,2 2,2 h 10 c 0,0 2,0 2,-2 v -10 c 0,-2 -2,-2 -2,-2 l -10,-0.004 z m 2.5,3.00391 a 1.5,1.5 0 0 1 1.5,1.5 1.5,1.5 0 0 1 -1.5,1.5 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 1.5,-1.5 z m 3,5 c 0.44583,0 0.83239,0.21293 1.07227,0.47461 0.23987,0.26168 0.375,0.55273 0.5,0.80273 0.125,0.25 0.23987,0.45895 0.34375,0.57227 0.10387,0.11329 0.15481,0.15039 0.33398,0.15039 h 0.75 0.5 v 1 h -0.5 -0.75 c -0.44583,0 -0.83239,-0.21293 -1.07227,-0.47461 -0.23987,-0.26168 -0.375,-0.55273 -0.5,-0.80273 -0.125,-0.25 -0.23987,-0.45895 -0.34375,-0.57227 C 773.73031,-564.9629 773.67937,-565 773.5002,-565 c -0.17917,0 -0.23011,0.0371 -0.33398,0.15039 -0.10388,0.11332 -0.21875,0.32227 -0.34375,0.57227 -0.125,0.25 -0.26013,0.54105 -0.5,0.80273 -0.23988,0.26168 -0.62644,0.47461 -1.07227,0.47461 h -1.75 -0.5 v -1 h 0.5 1.75 c 0.17917,0 0.23011,-0.0371 0.33398,-0.15039 0.10388,-0.11332 0.21875,-0.32227 0.34375,-0.57227 0.125,-0.25 0.26013,-0.54105 0.5,-0.80273 0.23988,-0.26168 0.62644,-0.47461 1.07227,-0.47461 z' id='path14242' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;filter:url(#filter14069);enable-background:new'/>
+  </g>
+  <g id='layer15' style='display:inline' transform='translate(-765.00018,575.00336)'/>
+  <g id='g71291' style='display:inline' transform='translate(-765.00018,575.00336)'/>
+  <g id='layer2' style='display:inline' transform='translate(-523.99998,108.00336)'/>
+  <g id='layer3' transform='translate(-523.99998,-151.99664)'/>
+  <g id='layer12' style='display:inline' transform='translate(-765.00018,575.00336)'/>
+</svg>

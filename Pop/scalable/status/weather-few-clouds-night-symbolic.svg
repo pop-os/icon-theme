@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16.00531' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.001818' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
+      </cc:Work>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Pop Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient6882' osb:paint='solid'>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
+      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
+    </filter>
+  </defs>
+  <g id='layer9' style='display:inline' transform='translate(-444.99838,335.00531)'>
+    <path d='m 452.7502,-333.96875 c -2.76278,0.10144 -5.3087,1.80458 -6.3125,4.5625 -1.26383,3.47234 0.36867,7.32457 3.6875,8.8125 -0.0932,-0.33746 -0.14688,-0.70692 -0.125,-1.0625 0.0277,-1.00125 0.58397,-1.88737 1.375,-2.46875 -1.56688,-1.73319 -2.13559,-4.24646 -1.28125,-6.59375 0.51416,-1.41265 1.47444,-2.50836 2.65625,-3.25 z' id='path6240' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    
+    <circle cx='313.83939' cy='-462.21793' id='path6317' r='7' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0;fill:#8c5f5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='rotate(20)'/>
+    <path d='m 456.0002,-326 c -1.31168,0 -2.40482,0.85843 -2.8125,2.03125 -1.23083,0.15597 -2.1875,1.19557 -2.1875,2.46875 0,1.38071 1.11929,2.5 2.5,2.5 h 2.5 2.5 c 1.38071,0 2.5,-1.11929 2.5,-2.5 0,-1.27318 -0.95667,-2.31278 -2.1875,-2.46875 C 458.40502,-325.14157 457.31188,-326 456.0002,-326 Z' id='path6258' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+  </g>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-444.99838,335.00531)'/>
+  <g id='layer1' style='display:inline' transform='translate(-203.99818,-281.99469)'/>
+  <g id='layer14' style='display:inline' transform='translate(-444.99838,335.00531)'/>
+  <g id='layer15' style='display:inline' transform='translate(-444.99838,335.00531)'/>
+  <g id='g71291' style='display:inline' transform='translate(-444.99838,335.00531)'/>
+  <g id='layer2' style='display:inline' transform='translate(-203.99818,-131.99469)'/>
+  <g id='layer3' transform='translate(-203.99818,-391.99469)'/>
+  <g id='layer12' style='display:inline' transform='translate(-444.99838,335.00531)'/>
+</svg>

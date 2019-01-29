@@ -1,150 +1,75 @@
-<p align="center">
-  <img src="https://github.com/system76/pop-icon-theme/raw/master/Pop_icons-logo.png" alt="preview"/>
-</p>
+Paper Icon Theme
+================
 
--------------------
+Paper is a modern freedesktop icon theme whose design is based around the use of bold colours and simple geometric shapes to compose icons. Each icon has been meticulously designed for pixel-perfect viewing.
 
-Pop is a free and open source SVG icon theme for Linux, based on [Paper Icon Set](https://github.com/snwh/paper-icon-theme) and [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
-<p align="center">
-<img src="https://github.com/system76/pop-icon-theme/raw/master/preview.png"/>
-</p>
+While it does take some inspiration from the icons in Google's Material Design, some aspects have been adjusted to better suit a desktop environment.
 
+## Copying or Reusing
 
--------------------
+This project has mixed licencing. You are free to copy, redistribute and/or modify aspects of this work under the terms of each licence accordingly (unless otherwise specified).
 
+The Moka icon assets (any and all source `.svg` files or rendered `.png` files) are licenced under the terms of the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Installation
-You can install Pop from our official [PPA](https://launchpad.net/~system76-dev/+archive/ubuntu/stable):
+Included scripts are free software licenced under the terms of the [GNU General Public License, version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
-```
-sudo add-apt-repository ppa:system76/pop
-sudo apt-get update
-sudo apt-get install pop-theme
-```
+When reusing this work please include a proper attribution:
 
-This will install the complete look; individual components can be installed separately:
-```
-sudo apt install pop-icon-theme
-```
-#### HOME directory for GTK
+> "[Paper Icons](http://snwh.org/paper/icons)" by [Sam Hewitt](http://samuelhewitt.com/) is licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
+## Downloading Paper
 
-You can also install the Pop icon set from git by cloning the repository, and using these commands:
-```
-sudo make install
-sudo make post-install
-```
-Note that an initial `./configure` or `make` is not required. 
+Download instructions for all sorts of systems are available [here](https://snwh.org/paper/download).
 
+## Installing & Using
 
-#### Remove
-Pop has [Folder colors](http://foldercolor.tuxfamily.org/) support that allows you to change a global color of folders or just one of them.
+You can build and install Paper from source using Meson.
 
-
-### Unofficial packages
-- For GTK, use icons alongside [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
- > Window Titles: Fira Sans SemiBold 10
-
- > Interface: Fira Sans Book 10
-
- > Documents: Roboto Slab Regular 11
-
- > Monospace: Fira Mono Regular 11
-
-
-<details>
-<summary>For Unity users</summary>
-
-For Unity users, we recommend installing patched [Notify-OSD](https://launchpad.net/~leolik/+archive/ubuntu/leolik) and changing the icon size to 33px.
-
-*~/.notify-osd* file:
-
-```
-slot-allocation = dynamic
-bubble-expire-timeout = 10sec
-bubble-vertical-gap = 10px
-bubble-horizontal-gap = 10px
-bubble-corner-radius = 24px
-bubble-icon-size = 33px
-bubble-gauge-size = 6px
-bubble-width = 240px
-bubble-background-color = 2f343f
-bubble-background-opacity = 95%
-text-margin-size = 10px
-text-title-size = 100%
-text-title-weight = bold
-text-title-color = adb7bf
-text-title-opacity = 100%
-text-body-size = 90%
-text-body-weight = normal
-text-body-color = eaeaea
-text-body-opacity = 100%
-text-shadow-opacity = 50%
-location = 1
-bubble-prevent-fade = 1
-bubble-close-on-click = 1
-bubble-as-desktop-bg = 0
+```bash
+# build
+meson "build" --prefix=/usr
+# install
+sudo ninja -C "build" install
 ```
 
-![notify-fix](notify-fix.png)
+By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local` or `$HOME/.local`.
 
-Also, you can change [Unity launcher icon](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity) and [unity-tweak-tool icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/tree/master/Papirus/extra/unity-tweak-tool). Look into the extra folder in the icon theme.
-</details>
+After which you should be able to pick Paper as your icon or cursor theme in GNOME Tweak tool, or you can set either from a terminal with:
 
-<details>
-<summary>For Xfce users</summary>
+```bash
+# set the icon theme
+gsettings set org.gnome.desktop.interface icon-theme "Paper"
+# or the cursor theme
+gsettings set org.gnome.desktop.interface cursor-theme "Paper"
+```
 
-Here are a few recommendations for Xfce users.
+### Uninstalling Paper
 
-#### Thunar File Manager
+To uninstall Paper, simply run the following. (If you installed it without superuser priveleges just omit the  `sudo`.)
 
-Go to `Edit` → `Preferences...`. Click on `Side Pane` tab. Under `Side Pane`, look for `Icon Size` and set to `Very Small`.
+```bash
+sudo ninja -C "build" uninstall
+```
 
-![thunar-prefecences](http://i.imgur.com/Iu1TIEa.png)
+Once uninstalled you can reset your icon and cursor theme to the default setting by running the following.
 
-#### Notification Area
+```bash
+# reset icon theme to default
+gsettings reset org.gnome.desktop.interface icon-theme
+# reset cursor theme to default
+gsettings reset org.gnome.desktop.interface cursor-theme
+```
 
-Go to `Settings Manager` → `Panel` → `Items` tab. Select `Notification Area` item and click on `Edit currently selected item` button. Under `Appearance` set the following options:
+## Missing Icons & Requests
 
-- Set `Maximum icon size (px)` to `24`
-- Uncheck `Show frame`
+You can file an icon request as a [GitHub issue](https://github.com/snwh/paper-icon-theme/issues/new). Filing an icon request or reporting a missing icon, please take care in providing the following useful information: 
 
-![xfce4-notification-area](http://i.imgur.com/MopCZBZ.png)
-</details>
+ - A screenshot of your issue or an image of the original icon you are requesting to be themed
+ - The file name for the missing icon or the requested icon, for example `gimp.png` or `system-shutdown.svg`
+ - A short description of the application or software that you are requesting an icon for.
 
-## Icon request
+Note: some software ships hardcoded icons, meaning when you install icons are not placed in the system-wide directory `/usr/share/icons` which makes them unthemeable.
 
-- Application name
-- Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
-- Original icon image
+## Donate & Support
 
-## Contribute
-
-We welcome user contributions. If you don't know where to start, we've compiled a list of things they would like to see in your pull request:
-
-- new icons for missing applications
-- symbolic links to an existing icon
-- resolving open issues
-- spelling, grammar, phrasing
-- improvements to our scripts
-
-Inside [tools/work](tools/work) you find a step-by-step guide, an environment, and tools that help you:
-
-- [create a new icon](tools/work#create-a-new-icon) from template
-- [make a symlink to an existing icon](tools/work#make-symlinks-to-an-existing-icon)
-- [edit an existing icon](tools/work#edit-an-existing-icon)
-- convert your icon to all variants the theme
-
-We are waiting for your pull requests and would love to see this icon theme become as complete as possible.
-
-## Donate
-
-
-Feel free to donate to the Papirus set to support the great work that goes into these icons!
-<span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
-
-BTC: `1HwE62Zb8PyyY1XAR6Ykweix2ht8NAjvf5`
-
-## License
-
-GNU LGPL v3.0
+If you would like to support development by making a donation you can do so [here](https://snwh.org/donate) or by becoming a supporter on [Patreon](http://patreon.com/snwh/) or [Liberapay](http://liberapay.com/snwh/). &#x1F60A;
