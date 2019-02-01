@@ -33,16 +33,16 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="493.6069"
-     inkscape:cy="248.3277"
-     inkscape:current-layer="g3404"
+     inkscape:zoom="4"
+     inkscape:cx="140.9347"
+     inkscape:cy="70.312895"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="2134"
-     inkscape:window-height="1372"
+     inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="32"
      width="400px"
@@ -166,26 +166,6 @@
          style="stop-color:#000000;stop-opacity:0.27450982"
          offset="1"
          id="stop3266" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2838"
-       inkscape:collect="always">
-      <stop
-         id="stop2830"
-         offset="0"
-         style="stop-color:#888888;stop-opacity:0.19607843" />
-      <stop
-         style="stop-color:#7f7f7f;stop-opacity:0.3137255"
-         offset="0.05882353"
-         id="stop2832" />
-      <stop
-         id="stop2834"
-         offset="0.94117647"
-         style="stop-color:#7f7f7f;stop-opacity:0.19607843" />
-      <stop
-         id="stop2836"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0.27450982" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -390,15 +370,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2838"
-       id="linearGradient2866"
-       x1="494"
-       y1="46"
-       x2="494"
-       y2="268"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3268"
        id="linearGradient3258"
        x1="500"
@@ -533,8 +504,7 @@
        style="display:none"
        inkscape:label="Baseplate"
        id="layer7"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <text
          y="337.74512"
          xml:space="preserve"
@@ -699,58 +669,6 @@
            x="15.605139"
            y="294.06894"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'">16</tspan></text>
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.19607843;stroke:url(#linearGradient2866);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.2745098"
-         id="rect2858"
-         width="224"
-         height="224"
-         x="480"
-         y="44"
-         ry="15" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.2745098"
-         id="rect2868"
-         width="112"
-         height="112"
-         x="320"
-         y="164"
-         ry="0" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.2745098"
-         id="rect2874"
-         width="56"
-         height="56"
-         x="228"
-         y="224"
-         ry="0" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.2745098"
-         id="rect2876"
-         width="40"
-         height="40"
-         x="160"
-         y="240" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.2745098"
-         id="rect2878"
-         width="28"
-         height="28"
-         x="102"
-         y="254" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.2745098"
-         id="rect2880"
-         width="22"
-         height="22"
-         x="57"
-         y="261" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.2745098"
-         id="rect2882"
-         width="14"
-         height="14"
-         x="17"
-         y="269" />
     </g>
     <g
        inkscape:groupmode="layer"

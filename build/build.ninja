@@ -30,7 +30,7 @@ rule CUSTOM_COMMAND_DEP
  restat = 1
 
 rule REGENERATE_BUILD
- command = /usr/bin/python3 /usr/bin/meson --internal regenerate /home/ian/Documents/Pop/icon-theme-2 /home/ian/Documents/Pop/icon-theme-2/build --backend ninja
+ command = /usr/bin/python3 /usr/bin/meson --internal regenerate /home/ian/Documents/Pop/icon-theme /home/ian/Documents/Pop/icon-theme/build --backend ninja
  description = Regenerating build files.
  generator = 1
 
@@ -67,7 +67,7 @@ build install: phony meson-install
 
 build meson-dist: CUSTOM_COMMAND PHONY
  DESC = Creating$ source$ packages
- COMMAND = /usr/bin/python3 /usr/bin/meson --internal dist /home/ian/Documents/Pop/icon-theme-2 /home/ian/Documents/Pop/icon-theme-2/build /usr/bin/python3 /usr/bin/meson
+ COMMAND = /usr/bin/python3 /usr/bin/meson --internal dist /home/ian/Documents/Pop/icon-theme /home/ian/Documents/Pop/icon-theme/build /usr/bin/python3 /usr/bin/meson
  pool = console
 
 build dist: phony meson-dist
@@ -75,7 +75,7 @@ build dist: phony meson-dist
 # Suffix
 
 build meson-scan-build: CUSTOM_COMMAND PHONY
- COMMAND = /usr/bin/python3 /usr/bin/meson --internal scanbuild /home/ian/Documents/Pop/icon-theme-2 /home/ian/Documents/Pop/icon-theme-2/build /usr/bin/python3 /usr/bin/meson
+ COMMAND = /usr/bin/python3 /usr/bin/meson --internal scanbuild /home/ian/Documents/Pop/icon-theme /home/ian/Documents/Pop/icon-theme/build /usr/bin/python3 /usr/bin/meson
  pool = console
 
 build scan-build: phony meson-scan-build
