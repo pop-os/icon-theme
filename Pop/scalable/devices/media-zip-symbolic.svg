@@ -30,16 +30,16 @@
       <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g id='layer9' style='display:inline' transform='translate(-465.00043,215.00338)'/>
-  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-465.00043,215.00338)'>
+  <g id='layer9' style='display:inline' transform='translate(-465.0002,214)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-465.0002,214)'>
     
-    <path d='m 468.0002,-214 c 0,0 -2,0 -2,2 v 11 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 v -11 c 0,0 0,-2 -2,-2 z m 0,1 c -0.277,0 -0.538,0.1005 -0.71875,0.28125 C 467.4622,-212.8995 467.7232,-213 468.0002,-213 Z m 10,0 c 0.277,0 0.538,0.1005 0.71875,0.28125 C 478.5382,-212.8995 478.2772,-213 478.0002,-213 Z m -10,1 h 1 v 3 h 8 v -3 h 1 v 10 h -10 z' id='path7007' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+    <path d='m 467.99997,-212.99662 c 0,0 -2,0 -2,2 v 11 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 v -11 c 0,0 0,-2 -2,-2 z m 0,1 c -0.277,0 -0.538,0.1005 -0.71875,0.28125 0.18075,-0.18075 0.44175,-0.28125 0.71875,-0.28125 z m 10,0 c 0.277,0 0.538,0.1005 0.71875,0.28125 -0.18075,-0.18075 -0.44175,-0.28125 -0.71875,-0.28125 z m -10,1 h 1 v 3 h 8 v -3 h 1 v 10 h -10 z' id='path7007' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
   </g>
-  <g id='layer1' style='display:inline' transform='translate(-224.00023,-401.99662)'/>
-  <g id='layer14' style='display:inline' transform='translate(-465.00043,215.00338)'/>
-  <g id='layer15' style='display:inline' transform='translate(-465.00043,215.00338)'/>
-  <g id='g71291' style='display:inline' transform='translate(-465.00043,215.00338)'/>
-  <g id='layer2' style='display:inline' transform='translate(-224.00023,-251.99662)'/>
-  <g id='layer3' transform='translate(-224.00023,-511.99662)'/>
-  <g id='layer12' style='display:inline' transform='translate(-465.00043,215.00338)'/>
+  <g id='layer1' style='display:inline' transform='translate(-224,-403)'/>
+  <g id='layer14' style='display:inline' transform='translate(-465.0002,214)'/>
+  <g id='layer15' style='display:inline' transform='translate(-465.0002,214)'/>
+  <g id='g71291' style='display:inline' transform='translate(-465.0002,214)'/>
+  <g id='layer2' style='display:inline' transform='translate(-224,-253)'/>
+  <g id='layer3' transform='translate(-224,-513)'/>
+  <g id='layer12' style='display:inline' transform='translate(-465.0002,214)'/>
 </svg>

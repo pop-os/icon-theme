@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000013' xmlns='http://www.w3.org/2000/svg'>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.031464' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata90'>
     <rdf:RDF>
       <cc:Work rdf:about=''>
@@ -30,17 +30,18 @@
       <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g id='layer9' style='display:inline' transform='translate(-1165.0317,635.00337)'/>
-  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-1165.0317,635.00337)'/>
-  <g id='layer1' style='display:inline' transform='translate(-924.03145,18.003367)'/>
-  <g id='layer14' style='display:inline' transform='translate(-1165.0317,635.00337)'/>
-  <g id='layer15' style='display:inline' transform='translate(-1165.0317,635.00337)'/>
-  <g id='g71291' style='display:inline' transform='translate(-1165.0317,635.00337)'/>
-  <g id='layer2' style='display:inline' transform='translate(-924.03145,168.00337)'/>
-  <g id='layer3' transform='translate(-924.03145,-91.996633)'>
-    <path d='m 931.7502,94.99999 c 0.16927,0.47184 0.28125,0.97209 0.28125,1.5 0,2.47344 -2.02656,4.5 -4.5,4.5 -0.92754,0 -1.78145,-0.29458 -2.5,-0.78125 v 3.78125 c 0,0.554 0.446,1 1,1 h 7 l 2,2 2,-2 h 1 c 0.554,0 1,-0.446 1,-1 v -8 c 0,-0.554 -0.446,-1 -1,-1 z' id='path8272' style='opacity:0.35;fill:#4c5263;fill-opacity:1;stroke:none'/>
+  <g id='layer9' style='display:inline' transform='translate(-1165.0002,635.00337)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-1165.0002,635.00337)'/>
+  <g id='layer1' style='display:inline' transform='translate(-924,18.003367)'/>
+  <g id='layer14' style='display:inline' transform='translate(-1165.0002,635.00337)'/>
+  <g id='layer15' style='display:inline' transform='translate(-1165.0002,635.00337)'/>
+  <g id='g71291' style='display:inline' transform='translate(-1165.0002,635.00337)'/>
+  <g id='layer2' style='display:inline' transform='translate(-924,168.00337)'/>
+  <g id='layer3' transform='translate(-924,-91.996633)'>
     
-    <path d='m 927.53145,92.99999 c -1.933,0 -3.5,1.567 -3.5,3.5 0,1.933 1.567,3.5 3.5,3.5 1.933,0 3.5,-1.567 3.5,-3.5 0,-1.933 -1.567,-3.5 -3.5,-3.5 z m -0.5,1 h 1 v 3 h -1 z m 0,4 h 1 v 1 h -1 z' id='path8295' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+    <path d='M 931.23828,94 A 4.5,4.5 0 0 1 932,96.5 4.5,4.5 0 0 1 927.5,101 4.5,4.5 0 0 1 925,100.24023 V 101 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 v -5 c 0,-1.108 -0.892,-2 -2,-2 z' id='rect4609-7-8' style='display:inline;opacity:0.5;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new'/>
+    <path d='m 936,103 -2,2 -2,-2 z' id='path4611-3-1' style='display:inline;opacity:0.5;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new'/>
+    <path d='m 927.5,93 a 3.5,3.5 0 0 0 -3.5,3.5 3.5,3.5 0 0 0 3.5,3.5 3.5,3.5 0 0 0 3.5,-3.5 3.5,3.5 0 0 0 -3.5,-3.5 z m -0.5,1 h 1 v 3 h -1 z m 0,4 h 1 v 1 h -1 z' id='path4648-2' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new'/>
   </g>
-  <g id='layer12' style='display:inline' transform='translate(-1165.0317,635.00337)'/>
+  <g id='layer12' style='display:inline' transform='translate(-1165.0002,635.00337)'/>
 </svg>

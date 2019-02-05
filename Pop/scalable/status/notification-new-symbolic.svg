@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16.003357' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000227' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata90'>
     <rdf:RDF>
       <cc:Work rdf:about=''>
@@ -30,16 +30,18 @@
       <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g id='layer9' style='display:inline' transform='translate(-645.00043,475.00336)'>
-    <path class='new' d='m 653.00034,-473.99999 c 0.55228,0 1,0.44772 1,1 -2.9e-4,0.0333 -0.002,0.0665 -0.006,0.0996 2.29032,0.45883 4.00603,2.47123 4.00586,4.90039 l -1.4e-4,1.99999 v 2.5 l 2,2 v 0.5 h -2 -10 -2 v -0.5 l 2,-2 1.4e-4,-4.49999 c 8e-5,-2.42916 1.71568,-4.44157 4.00586,-4.90039 -0.004,-0.0331 -0.006,-0.0663 -0.006,-0.0996 0,-0.55228 0.44772,-1 1,-1 z M 654.72872,-460 c -0.35663,0.61771 -1.01525,0.99874 -1.72852,1 -0.71397,-5.6e-4 -1.37349,-0.38169 -1.73047,-1 z' id='path6054' style='opacity:1;fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+  <g id='layer9' style='display:inline' transform='translate(-645.0002,475.00336)'>
     
+    <path d='m 652.23848,-472 a 4.5,4.5 0 0 1 0.76172,2.5 4.5,4.5 0 0 1 -4.5,4.5 4.5,4.5 0 0 1 -2.5,-0.75977 V -465 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 v -5 c 0,-1.108 -0.892,-2 -2,-2 z' id='rect4609-7' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new'/>
+    <path d='m 657.0002,-463 -2,3 -2,-3 z' id='path4611-3' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new'/>
+    <path d='m 648.5002,-473 a 3.5,3.5 0 0 0 -3.5,3.5 3.5,3.5 0 0 0 3.5,3.5 3.5,3.5 0 0 0 3.5,-3.5 3.5,3.5 0 0 0 -3.5,-3.5 z m -0.5,1 h 1 v 3 h -1 z m 0,4 h 1 v 1 h -1 z' id='path4648' style='opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1'/>
   </g>
-  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-645.00043,475.00336)'/>
-  <g id='layer1' style='display:inline' transform='translate(-404.00023,-141.99664)'/>
-  <g id='layer14' style='display:inline' transform='translate(-645.00043,475.00336)'/>
-  <g id='layer15' style='display:inline' transform='translate(-645.00043,475.00336)'/>
-  <g id='g71291' style='display:inline' transform='translate(-645.00043,475.00336)'/>
-  <g id='layer2' style='display:inline' transform='translate(-404.00023,8.0033569)'/>
-  <g id='layer3' transform='translate(-404.00023,-251.99664)'/>
-  <g id='layer12' style='display:inline' transform='translate(-645.00043,475.00336)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-645.0002,475.00336)'/>
+  <g id='layer1' style='display:inline' transform='translate(-404,-141.99664)'/>
+  <g id='layer14' style='display:inline' transform='translate(-645.0002,475.00336)'/>
+  <g id='layer15' style='display:inline' transform='translate(-645.0002,475.00336)'/>
+  <g id='g71291' style='display:inline' transform='translate(-645.0002,475.00336)'/>
+  <g id='layer2' style='display:inline' transform='translate(-404,8.0033569)'/>
+  <g id='layer3' transform='translate(-404,-251.99664)'/>
+  <g id='layer12' style='display:inline' transform='translate(-645.0002,475.00336)'/>
 </svg>

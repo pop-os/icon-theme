@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16.000013' xmlns='http://www.w3.org/2000/svg'>
   <metadata id='metadata90'>
     <rdf:RDF>
       <cc:Work rdf:about=''>
@@ -30,16 +30,16 @@
       <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g id='layer9' style='display:inline' transform='translate(-785.00021,235)'/>
-  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-785.00021,235)'/>
-  <g id='layer1' style='display:inline' transform='translate(-544.00001,-382)'/>
-  <g id='layer14' style='display:inline' transform='translate(-785.00021,235)'/>
-  <g id='layer15' style='display:inline' transform='translate(-785.00021,235)'/>
-  <g id='g71291' style='display:inline' transform='translate(-785.00021,235)'/>
-  <g id='layer2' style='display:inline' transform='translate(-544.00001,-232)'>
-    <path d='m 551.5,233 c -3.58985,0 -6.5,2.91015 -6.5,6.5 0,3.58985 2.91015,6.5 6.5,6.5 3.58985,0 6.5,-2.91015 6.5,-6.5 0,-3.58985 -2.91015,-6.5 -6.5,-6.5 z m 0,1 c 3.03757,0 5.5,2.46243 5.5,5.5 0,3.03757 -2.46243,5.5 -5.5,5.5 -3.03757,0 -5.5,-2.46243 -5.5,-5.5 0,-3.03757 2.46243,-5.5 5.5,-5.5 z m -0.5,2 v 3 h -2.25 v 1 h 2.25 1 v -1 -3 z' id='path6506' style='display:inline;opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new'/>
+  <g id='layer9' style='display:inline' transform='translate(-785.0002,235)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-785.0002,235)'/>
+  <g id='layer1' style='display:inline' transform='translate(-544,-382)'/>
+  <g id='layer14' style='display:inline' transform='translate(-785.0002,235)'/>
+  <g id='layer15' style='display:inline' transform='translate(-785.0002,235)'/>
+  <g id='g71291' style='display:inline' transform='translate(-785.0002,235)'/>
+  <g id='layer2' style='display:inline' transform='translate(-544,-232)'>
     
+    <path d='m 544.5,232.98021 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 h 0.5 v 8 c 0,1 1,1 1,1 h 5 v 1.25 l -2.7207,1.84375 c -0.25877,0.12539 -0.35118,0.51358 -0.1875,0.75 0.16368,0.23642 0.54155,0.26054 0.75,0.0625 l 2.6582,-1.8125 2.6582,1.8125 c 0.20845,0.19808 0.58632,0.17396 0.75,-0.0625 0.16368,-0.23642 0.0713,-0.62461 -0.1875,-0.75 L 552,244.23021 v -1.25 h 5 c 0,0 1.00788,-3e-5 1,-1 v -8 h 0.5 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 H 558 545.5 545 Z m 2.5,2 h 9 v 6 h -1 l -3.5,-3.5 -3.5,3.5 h -1 z' id='path8534-1' style='color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new'/>
   </g>
-  <g id='layer3' transform='translate(-544.00001,-492)'/>
-  <g id='layer12' style='display:inline' transform='translate(-785.00021,235)'/>
+  <g id='layer3' transform='translate(-544,-492)'/>
+  <g id='layer12' style='display:inline' transform='translate(-785.0002,235)'/>
 </svg>

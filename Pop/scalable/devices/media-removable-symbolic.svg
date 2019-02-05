@@ -30,16 +30,17 @@
       <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g id='layer9' style='display:inline' transform='translate(-525.00038,215.00336)'/>
-  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-525.00038,215.00336)'>
-    <path d='m 529.84415,-214.00336 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 v 9 c 0,0 0,1 1,1 h 6 c 1,0 1,-1 1,-1 v -9 c 0,-1 -1,-1 -1,-1 h -6 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,12 v 2 h 6 v -2 z' id='rect9463' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+  <g id='layer9' style='display:inline' transform='translate(-525.0002,215)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-525.0002,215)'>
+    <path d='m 531.0002,-214 c -1.108,0 -2,0.892 -2,2 v 7 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -7 c 0,-1.108 -0.892,-2 -2,-2 z' id='path4597' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+    <path d='m 530.00022,-202 v 2 h 6 v -2 z' id='rect9463' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
     
   </g>
-  <g id='layer1' style='display:inline' transform='translate(-284.00018,-401.99664)'/>
-  <g id='layer14' style='display:inline' transform='translate(-525.00038,215.00336)'/>
-  <g id='layer15' style='display:inline' transform='translate(-525.00038,215.00336)'/>
-  <g id='g71291' style='display:inline' transform='translate(-525.00038,215.00336)'/>
-  <g id='layer2' style='display:inline' transform='translate(-284.00018,-251.99664)'/>
-  <g id='layer3' transform='translate(-284.00018,-511.99664)'/>
-  <g id='layer12' style='display:inline' transform='translate(-525.00038,215.00336)'/>
+  <g id='layer1' style='display:inline' transform='translate(-284,-402)'/>
+  <g id='layer14' style='display:inline' transform='translate(-525.0002,215)'/>
+  <g id='layer15' style='display:inline' transform='translate(-525.0002,215)'/>
+  <g id='g71291' style='display:inline' transform='translate(-525.0002,215)'/>
+  <g id='layer2' style='display:inline' transform='translate(-284,-252)'/>
+  <g id='layer3' transform='translate(-284,-512)'/>
+  <g id='layer12' style='display:inline' transform='translate(-525.0002,215)'/>
 </svg>
