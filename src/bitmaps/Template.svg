@@ -13,7 +13,7 @@
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    width="736"
-   height="544"
+   height="300"
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -33,11 +33,11 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="91.27372"
-     inkscape:cy="44.087707"
-     inkscape:current-layer="layer2"
-     showgrid="true"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="152.60343"
+     inkscape:cy="196.87167"
+     inkscape:current-layer="layer7"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
@@ -363,35 +363,34 @@
      style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="Icon"
-     id="layer1"
-     transform="translate(0,244)">
+     id="layer1">
     <g
        style="display:inline"
        inkscape:label="Baseplate"
        id="layer7"
        inkscape:groupmode="layer">
       <text
-         y="337.74512"
+         y="231.826"
          xml:space="preserve"
-         x="15.006836"
+         x="14.974"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="context"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-           y="337.74512"
-           x="15.006836"
+           y="231.826"
+           x="14.974"
            sodipodi:role="line"
            id="tspan3933">context</tspan></text>
       <text
-         y="337.74512"
+         y="155.81543"
          xml:space="preserve"
-         x="142.48828"
+         x="15.657227"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="icon-name"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'"
-           y="337.74512"
-           x="142.48828"
+           y="155.81543"
+           x="15.657227"
            sodipodi:role="line"
            id="tspan3937">icon-name</tspan></text>
       <rect
