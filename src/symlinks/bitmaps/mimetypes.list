@@ -1,3 +1,5 @@
+application-photoshop.png image-vnd.adobe.photoshop.png
+application-illustrator.png image-vnd.adobe.illustrator.png
 application-x-7zip.png application-7z.png
 application-x-7zip.png application-x-7z-compressed.png
 application-x-7zip.png gnome-mime-application-x-7z-compressed.png
@@ -13,6 +15,10 @@ application-x-deb.png application-vnd.debian.binary-package.png
 application-x-deb.png deb.png
 application-x-deb.png gnome-mime-application-x-deb.png
 application-x-deb.png package-gdebi.png
+application-x-desktop.png application-x-executable.png
+application-x-ebook.png application-x-fictionbook.png
+application-x-ebook.png application-x-fictionbook+xml.png
+application-x-epub.png application-epub+zip.png
 application-x-executable.png application-x-object.png
 application-x-executable.png binary.png
 application-x-executable.png exec.png
@@ -51,8 +57,7 @@ audio-x-generic.png audio-x-mpeg.png
 audio-x-generic.png audio-x-speex+ogg.png
 audio-x-generic.png audio-x-vorbis+ogg.png
 document-access.png application-vnd.ms-access.png
-document-illustrator.png application-illustrator.png
-document-photoshop.png image-vnd.adobe.photoshop.png
+x-office-spreadsheet.png x-office-chart.png
 package-x-generic.png application-archive.png
 package-x-generic.png application-x-archive.png
 package-x-generic.png application-x-compress.png
@@ -74,12 +79,15 @@ package-x-arc.png application-x-arc.png
 package-x-xar.png application-x-xar.png
 package-x-xz.png application-x-xz.png
 package-x-xz.png application-x-xz-compressed-tar.png
+playlist.png audio-x-playlist.png
+playlist.png playlist-automatic.png
+playlist.png playlist-queue.png
+playlist.png playlist-similar.png
 text-html.png html.png
 text-html.png text-htmlh.png
 text-x-c.png text-x-c++src.png
 text-x-c.png text-x-csrc.png
-text-x-generic-template.png text-x-preview.png
-text-x-generic.png unknown.png
+text-x-preview.png unknown.png
 text-x-generic.png application-x-generic.png
 text-x-generic.png application-x-awk.png
 text-x-generic.png text-plain.png
@@ -118,6 +126,7 @@ video-x-generic.png video-x-msvideo.png
 video-x-generic.png video-x-ogm+ogg.png
 video-x-generic.png video-x-theora+ogg.png
 video-x-generic.png video-x-wmv.png
+x-office-contact.png office-contact.png
 x-office-database.png office-database.png
 x-office-database.png application-ms-access.png
 x-office-database.png application-vnd.ms-access.png
@@ -127,4 +136,5 @@ x-office-document.png office-document.png
 x-office-presentation.png application-vnd.ms-powerpoint.png
 x-office-presentation.png application-vnd.openxmlformats-officedocument.presentationml.presentation.png
 x-office-spreadsheet.png application-vnd.ms-excel.png 
+x-office-spreadsheet.png application-vnd.oasis.opendocument.chart.png
 x-office-spreadsheet.png application-vnd.openxmlformats-officedocument.spreadsheetml.sheet.png
