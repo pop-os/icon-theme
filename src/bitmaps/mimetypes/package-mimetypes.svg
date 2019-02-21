@@ -33,10 +33,10 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="181.50682"
-     inkscape:cy="3891.141"
-     inkscape:current-layer="g2821"
+     inkscape:zoom="0.35355341"
+     inkscape:cx="-364.25478"
+     inkscape:cy="2350.0795"
+     inkscape:current-layer="g2725"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -293,6 +293,83 @@
        x2="57"
        y2="350"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient1612"
+       x1="60"
+       x2="68"
+       y1="268"
+       y2="268"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1258"
+         style="stop-color:#949390"
+         offset="0" />
+      <stop
+         id="stop1260"
+         style="stop-color:#d5d3cf"
+         offset=".083333" />
+      <stop
+         id="stop1262"
+         style="stop-color:#949390"
+         offset=".16667" />
+      <stop
+         id="stop1264"
+         style="stop-color:#949390"
+         offset=".83333" />
+      <stop
+         id="stop1266"
+         style="stop-color:#d5d3cf"
+         offset=".91667" />
+      <stop
+         id="stop1268"
+         style="stop-color:#949390"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1612"
+       id="linearGradient2233"
+       gradientUnits="userSpaceOnUse"
+       x1="60"
+       y1="268"
+       x2="68"
+       y2="268" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1612"
+       id="linearGradient2253"
+       gradientUnits="userSpaceOnUse"
+       x1="60"
+       y1="268"
+       x2="68"
+       y2="268" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1612"
+       id="linearGradient2274"
+       gradientUnits="userSpaceOnUse"
+       x1="60"
+       y1="268"
+       x2="68"
+       y2="268" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1612"
+       id="linearGradient2295"
+       gradientUnits="userSpaceOnUse"
+       x1="60"
+       y1="268"
+       x2="68"
+       y2="268" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1612"
+       id="linearGradient2322"
+       gradientUnits="userSpaceOnUse"
+       x1="60"
+       y1="268"
+       x2="68"
+       y2="268" />
   </defs>
   <metadata
      id="metadata4">
@@ -363,13 +440,13 @@
      style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="package-x-generic (clone source)"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <g
        style="display:none"
        inkscape:label="Baseplate"
        id="layer7"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <text
          y="231.826"
          xml:space="preserve"
@@ -2978,6 +3055,271 @@
                style="opacity:1;vector-effect:none;fill:#131313;fill-opacity:0.50196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25098039" />
           </g>
         </g>
+        <g
+           id="g1352-52"
+           transform="translate(314,-379)"
+           style="enable-background:new">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1340-5"
+             d="m 62,258 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -16 c 0,-1.108 -0.892,-2 -2,-2 z m 0,14 h 4 v 4 h -4 z"
+             style="fill:url(#linearGradient2233)" />
+          <rect
+             id="rect1051-6-7-4"
+             x="56"
+             y="250"
+             width="16"
+             height="18"
+             rx="4"
+             ry="4"
+             style="fill:#3d3846;enable-background:new" />
+          <rect
+             id="rect1051-6-74"
+             x="56"
+             y="248"
+             width="16"
+             height="18"
+             rx="4"
+             ry="4"
+             style="fill:#5e5c64;enable-background:new" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect1335-4"
+             d="m 62,254 c -1.108,0 -2,0.892 -2,2 v 18 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -18 c 0,-1.108 -0.892,-2 -2,-2 z m 0,16 h 4 v 4 h -4 z"
+             style="fill:#ffffff" />
+          <rect
+             id="rect5037-3-3"
+             transform="scale(1,-1)"
+             x="62"
+             y="-260"
+             width="4"
+             height="10"
+             rx="2"
+             ry="2"
+             style="fill:#68676b;paint-order:normal;enable-background:new" />
+          <rect
+             id="rect1089-0"
+             transform="scale(1,-1)"
+             x="62"
+             y="-258"
+             width="4"
+             height="8"
+             rx="2"
+             ry="2"
+             style="fill:#949390;paint-order:normal;enable-background:new" />
+        </g>
+        <g
+           style="enable-background:new"
+           transform="translate(532,-495)"
+           id="g2249">
+          <path
+             style="fill:url(#linearGradient2253)"
+             d="m 62,258 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -16 c 0,-1.108 -0.892,-2 -2,-2 z m 0,14 h 4 v 4 h -4 z"
+             id="path2236"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#3d3846;enable-background:new"
+             ry="4"
+             rx="4"
+             height="18"
+             width="16"
+             y="250"
+             x="56"
+             id="rect2238" />
+          <rect
+             style="fill:#5e5c64;enable-background:new"
+             ry="4"
+             rx="4"
+             height="18"
+             width="16"
+             y="248"
+             x="56"
+             id="rect2240" />
+          <path
+             style="fill:#ffffff"
+             d="m 62,254 c -1.108,0 -2,0.892 -2,2 v 18 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -18 c 0,-1.108 -0.892,-2 -2,-2 z m 0,16 h 4 v 4 h -4 z"
+             id="path2243"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#68676b;paint-order:normal;enable-background:new"
+             ry="2"
+             rx="2"
+             height="10"
+             width="4"
+             y="-260"
+             x="62"
+             transform="scale(1,-1)"
+             id="rect2245" />
+          <rect
+             style="fill:#949390;paint-order:normal;enable-background:new"
+             ry="2"
+             rx="2"
+             height="8"
+             width="4"
+             y="-258"
+             x="62"
+             transform="scale(1,-1)"
+             id="rect2247" />
+        </g>
+        <g
+           style="enable-background:new"
+           transform="matrix(0.5,0,0,0.5,225,-197)"
+           id="g2268">
+          <path
+             style="fill:url(#linearGradient2274)"
+             d="m 62,258 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -16 c 0,-1.108 -0.892,-2 -2,-2 z m 0,14 h 4 v 4 h -4 z"
+             id="path2255"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#3d3846;enable-background:new"
+             ry="4"
+             rx="4"
+             height="18"
+             width="16"
+             y="250"
+             x="56"
+             id="rect2257" />
+          <rect
+             style="fill:#5e5c64;enable-background:new"
+             ry="4"
+             rx="4"
+             height="18"
+             width="16"
+             y="248"
+             x="56"
+             id="rect2259" />
+          <path
+             style="fill:#ffffff"
+             d="m 62,254 c -1.108,0 -2,0.892 -2,2 v 18 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -18 c 0,-1.108 -0.892,-2 -2,-2 z m 0,16 h 4 v 4 h -4 z"
+             id="path2262"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#68676b;paint-order:normal;enable-background:new"
+             ry="2"
+             rx="2"
+             height="10"
+             width="4"
+             y="-260"
+             x="62"
+             transform="scale(1,-1)"
+             id="rect2264" />
+          <rect
+             style="fill:#949390;paint-order:normal;enable-background:new"
+             ry="2"
+             rx="2"
+             height="8"
+             width="4"
+             y="-258"
+             x="62"
+             transform="scale(1,-1)"
+             id="rect2266" />
+        </g>
+        <g
+           id="g2289"
+           transform="matrix(0.5,0,0,0.5,148,-183)"
+           style="enable-background:new">
+          <path
+             inkscape:connector-curvature="0"
+             id="path2276"
+             d="m 62,258 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -16 c 0,-1.108 -0.892,-2 -2,-2 z m 0,14 h 4 v 4 h -4 z"
+             style="fill:url(#linearGradient2295)" />
+          <rect
+             id="rect2279"
+             x="56"
+             y="250"
+             width="16"
+             height="18"
+             rx="4"
+             ry="4"
+             style="fill:#3d3846;enable-background:new" />
+          <rect
+             id="rect2281"
+             x="56"
+             y="248"
+             width="16"
+             height="18"
+             rx="4"
+             ry="4"
+             style="fill:#5e5c64;enable-background:new" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2283"
+             d="m 62,254 c -1.108,0 -2,0.892 -2,2 v 18 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -18 c 0,-1.108 -0.892,-2 -2,-2 z m 0,16 h 4 v 4 h -4 z"
+             style="fill:#ffffff" />
+          <rect
+             id="rect2285"
+             transform="scale(1,-1)"
+             x="62"
+             y="-260"
+             width="4"
+             height="10"
+             rx="2"
+             ry="2"
+             style="fill:#68676b;paint-order:normal;enable-background:new" />
+          <rect
+             id="rect2287"
+             transform="scale(1,-1)"
+             x="62"
+             y="-258"
+             width="4"
+             height="8"
+             rx="2"
+             ry="2"
+             style="fill:#949390;paint-order:normal;enable-background:new" />
+        </g>
+        <g
+           style="enable-background:new"
+           transform="matrix(0.25,0,0,0.25,100,-106)"
+           id="g2316">
+          <path
+             style="fill:url(#linearGradient2322)"
+             d="m 62,258 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -16 c 0,-1.108 -0.892,-2 -2,-2 z m 0,14 h 4 v 4 h -4 z"
+             id="path2304"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#3d3846;enable-background:new"
+             ry="4"
+             rx="4"
+             height="18"
+             width="16"
+             y="250"
+             x="56"
+             id="rect2306" />
+          <rect
+             style="fill:#5e5c64;enable-background:new"
+             ry="4"
+             rx="4"
+             height="18"
+             width="16"
+             y="248"
+             x="56"
+             id="rect2308" />
+          <path
+             style="fill:#ffffff"
+             d="m 62,254 c -1.108,0 -2,0.892 -2,2 v 18 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 v -18 c 0,-1.108 -0.892,-2 -2,-2 z m 0,16 h 4 v 4 h -4 z"
+             id="path2310"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#68676b;paint-order:normal;enable-background:new"
+             ry="2"
+             rx="2"
+             height="10"
+             width="4"
+             y="-260"
+             x="62"
+             transform="scale(1,-1)"
+             id="rect2312" />
+          <rect
+             style="fill:#949390;paint-order:normal;enable-background:new"
+             ry="2"
+             rx="2"
+             height="8"
+             width="4"
+             y="-258"
+             x="62"
+             transform="scale(1,-1)"
+             id="rect2314" />
+        </g>
       </g>
       <g
          style="display:inline;fill:#635749;fill-opacity:1;enable-background:new"
@@ -3231,7 +3573,8 @@
        style="display:none"
        inkscape:label="Baseplate"
        id="g1854"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <text
          y="-368.17401"
          xml:space="preserve"
@@ -3594,7 +3937,7 @@
          transform="matrix(2,0,0,2,-52,326)"
          id="g4163">
         <g
-           transform="translate(2,-0.75)"
+           transform="translate(1.5,-0.75)"
            id="g4155"
            style="display:inline;enable-background:new">
           <path
@@ -3609,7 +3952,7 @@
              inkscape:connector-curvature="0" />
         </g>
         <g
-           transform="rotate(180,115,-335.75)"
+           transform="rotate(180,115.25,-335.75)"
            id="g4161"
            style="display:inline;enable-background:new">
           <path
@@ -5572,7 +5915,8 @@
        inkscape:groupmode="layer"
        id="g2144"
        inkscape:label="Baseplate"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <text
          id="text2096"
          inkscape:label="context"
@@ -5888,7 +6232,8 @@
        style="display:none"
        inkscape:label="Baseplate"
        id="g2202"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <text
          y="-2168.1741"
          xml:space="preserve"
@@ -6204,7 +6549,8 @@
        inkscape:groupmode="layer"
        id="g2260"
        inkscape:label="Baseplate"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <text
          id="text2212"
          inkscape:label="context"
@@ -6648,7 +6994,8 @@
        style="display:none"
        inkscape:label="Baseplate"
        id="g2318"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <text
          y="-2768.1741"
          xml:space="preserve"
@@ -7017,7 +7364,7 @@
          transform="matrix(2,0,0,2,-52,2725)"
          id="g2478">
         <g
-           transform="rotate(90,101.5,-2743.5)"
+           transform="rotate(90,101.25,-2743.75)"
            id="g2464">
           <path
              style="opacity:1;vector-effect:none;fill:#635749;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25098039"
@@ -7046,7 +7393,7 @@
         </g>
         <g
            id="g2476"
-           transform="rotate(-90,124,-2750)">
+           transform="rotate(-90,124.25,-2750.25)">
           <path
              inkscape:connector-curvature="0"
              id="path2466"
@@ -7204,7 +7551,8 @@
        inkscape:groupmode="layer"
        id="g2376"
        inkscape:label="Baseplate"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <text
          id="text2328"
          inkscape:label="context"
@@ -7547,7 +7895,7 @@
          transform="matrix(2,0,0,2,-52,3025)"
          id="g2725">
         <g
-           transform="rotate(90,99,-3048)"
+           transform="rotate(90,98.75,-3048.25)"
            id="g2713">
           <g
              transform="translate(5,-307)"
@@ -7571,7 +7919,7 @@
         </g>
         <g
            id="g2723"
-           transform="rotate(-90,129,-3053)">
+           transform="rotate(-90,129.25,-3053.25)">
           <g
              id="g2719"
              transform="translate(5,-308)">
@@ -7698,13 +8046,14 @@
   <g
      style="display:inline"
      inkscape:groupmode="layer"
-     inkscape:label="application-x-xz copy"
+     inkscape:label="application-x-tar"
      id="g2979">
     <g
        style="display:none"
        inkscape:label="Baseplate"
        id="g2821"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <text
          y="-3368.1741"
          xml:space="preserve"
