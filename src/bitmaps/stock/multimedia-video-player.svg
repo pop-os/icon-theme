@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="373.14426"
-     inkscape:cy="96.927842"
+     inkscape:cx="324.24286"
+     inkscape:cy="68.334171"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1098,30 +1098,18 @@
          style="opacity:1;vector-effect:none;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1009"
          width="40"
-         height="9"
+         height="8"
          x="160"
-         y="268"
+         y="269"
          ry="2.5" />
       <rect
          style="opacity:1;vector-effect:none;fill:#cf3b00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1013"
          width="23"
-         height="1"
+         height="2"
          x="161"
          y="272"
          ry="0.5" />
-      <circle
-         r="2.5"
-         cy="272.5"
-         cx="184.5"
-         id="circle1017"
-         style="opacity:1;vector-effect:none;fill:#822500;fill-opacity:1;stroke:none;stroke-width:3.33333349;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:#fffaf8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path1015"
-         cx="184.5"
-         cy="272.5"
-         r="1.5" />
       <path
          id="path1019"
          d="m 250.54966,246.01517 c -0.793,10e-4 -1.44766,0.62044 -1.49413,1.4121 h -0.003 v 0.0381 c -10e-4,0.0166 -10e-4,0.0332 -0.003,0.0498 -2.6e-4,0.0351 6.4e-4,0.0703 0.003,0.10545 l -0.003,12.86427 a 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 0.63282,-0.14355 l 0.003,0.003 0.0381,-0.0206 0.006,-0.003 a 1.5,1.5 0 0 0 0.13185,-0.0732 l 11.76855,-6.40724 c 0.005,-0.002 0.0105,-0.005 0.015,-0.006 v -0.003 c 0.49441,-0.25818 0.80475,-0.76938 0.80566,-1.32715 -5.8e-4,-0.53774 -0.28896,-1.03403 -0.75586,-1.30079 l -0.0264,-0.015 c -0.002,-9.9e-4 -0.005,-10e-4 -0.006,-0.003 l -11.88575,-6.48339 h -0.003 c -0.22141,-0.1212 -0.4705,-0.18642 -0.72367,-0.18685 z"
@@ -1136,10 +1124,10 @@
          id="rect1021"
          style="opacity:1;vector-effect:none;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         ry="0.75"
-         y="269.5"
+         ry="1"
+         y="269"
          x="236"
-         height="1.5"
+         height="2"
          width="23"
          id="rect1023"
          style="opacity:1;vector-effect:none;fill:#cf3b00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -1147,10 +1135,10 @@
          style="opacity:1;vector-effect:none;fill:#822500;fill-opacity:1;stroke:none;stroke-width:3.33333349;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle1025"
          cx="259.5"
-         cy="270.25"
+         cy="270"
          r="3" />
       <circle
-         cy="270.25"
+         cy="270"
          cx="259.5"
          id="circle1027"
          style="opacity:1;vector-effect:none;fill:#fffaf8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1301,6 +1289,20 @@
          cx="71.5"
          cy="278.5"
          r="0.5" />
+      <rect
+         ry="2"
+         y="271"
+         x="183"
+         height="4"
+         width="4"
+         id="rect1001"
+         style="opacity:1;vector-effect:none;fill:#822500;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1"
+         cy="273"
+         cx="185"
+         id="circle1003"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078" />
     </g>
   </g>
 </svg>
