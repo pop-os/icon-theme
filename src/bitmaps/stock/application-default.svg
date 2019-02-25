@@ -33,16 +33,16 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000004"
-     inkscape:cx="21.939168"
-     inkscape:cy="70.543815"
-     inkscape:current-layer="layer6"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="367.07856"
+     inkscape:cy="94.804566"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="2185"
-     inkscape:window-height="1372"
+     inkscape:window-height="1371"
      inkscape:window-x="375"
      inkscape:window-y="32"
      width="400px"
@@ -366,10 +366,9 @@
      id="layer1">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate-preferences-desktop"
        id="layer7"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <text
          y="231.826"
          xml:space="preserve"
@@ -381,7 +380,7 @@
            y="231.826"
            x="14.974"
            sodipodi:role="line"
-           id="tspan3933">apps</tspan></text>
+           id="tspan3933">categories</tspan></text>
       <text
          y="155.81543"
          xml:space="preserve"
@@ -393,7 +392,7 @@
            y="155.81543"
            x="15.657227"
            sodipodi:role="line"
-           id="tspan3937">application-default</tspan></text>
+           id="tspan3937">preferences-desktop</tspan></text>
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect16x16"
@@ -534,6 +533,177 @@
            x="15.605139"
            y="294.06894"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'">16</tspan></text>
+    </g>
+    <g
+       sodipodi:insensitive="true"
+       inkscape:groupmode="layer"
+       id="g994"
+       inkscape:label="Baseplate-application-default copy"
+       style="display:none">
+      <text
+         id="text946"
+         inkscape:label="context"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="14.974"
+         xml:space="preserve"
+         y="231.826"><tspan
+           id="tspan944"
+           sodipodi:role="line"
+           x="14.974"
+           y="231.826"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">apps</tspan></text>
+      <text
+         id="text950"
+         inkscape:label="icon-name"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="15.657227"
+         xml:space="preserve"
+         y="155.81543"><tspan
+           id="tspan948"
+           sodipodi:role="line"
+           x="15.657227"
+           y="155.81543"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">application-default</tspan></text>
+      <rect
+         transform="scale(-1,1)"
+         inkscape:label="16x16"
+         y="268"
+         x="-32"
+         height="16"
+         width="16"
+         id="rect952"
+         style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         transform="scale(-1,1)"
+         inkscape:label="24x24"
+         y="260"
+         x="-80"
+         height="24"
+         width="24"
+         id="rect954"
+         style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         transform="scale(-1,1)"
+         inkscape:label="32x32"
+         y="252"
+         x="-132"
+         height="32"
+         width="32"
+         id="rect956"
+         style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+      <rect
+         transform="scale(-1,1)"
+         style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect958"
+         width="48"
+         height="48"
+         x="-204"
+         y="236"
+         inkscape:label="48x48" />
+      <rect
+         transform="scale(-1,1)"
+         inkscape:label="48x48"
+         y="220"
+         x="-288"
+         height="64"
+         width="64"
+         id="rect960"
+         style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;enable-background:accumulate" />
+      <rect
+         transform="scale(-1,1)"
+         style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.66666603;marker:none;enable-background:accumulate"
+         id="rect962"
+         width="256"
+         height="256"
+         x="-720"
+         y="28"
+         inkscape:label="48x48" />
+      <rect
+         transform="scale(-1,1)"
+         style="display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.33333349;marker:none;enable-background:accumulate"
+         id="rect964"
+         width="128"
+         height="128"
+         x="-440"
+         y="156"
+         inkscape:label="48x48" />
+      <text
+         id="text968"
+         y="294.06894"
+         x="463.60513"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+           y="294.06894"
+           x="463.60513"
+           id="tspan966"
+           sodipodi:role="line">256</tspan></text>
+      <text
+         id="text972"
+         y="294.06894"
+         x="311.60513"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           id="tspan970"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+           y="294.06894"
+           x="311.60513"
+           sodipodi:role="line">128</tspan></text>
+      <text
+         id="text976"
+         y="294.06894"
+         x="223.60513"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+           y="294.06894"
+           x="223.60513"
+           id="tspan974"
+           sodipodi:role="line">64</tspan></text>
+      <text
+         id="text980"
+         y="294.06894"
+         x="155.60513"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+           y="294.06894"
+           x="155.60513"
+           id="tspan978"
+           sodipodi:role="line">48</tspan></text>
+      <text
+         id="text984"
+         y="294.06894"
+         x="99.605141"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+           y="294.06894"
+           x="99.605141"
+           id="tspan982"
+           sodipodi:role="line">32</tspan></text>
+      <text
+         id="text988"
+         y="294.06894"
+         x="55.605137"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+           y="294.06894"
+           x="55.605137"
+           id="tspan986"
+           sodipodi:role="line">24</tspan></text>
+      <text
+         id="text992"
+         y="294.06894"
+         x="15.605139"
+         style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab'"
+           y="294.06894"
+           x="15.605139"
+           id="tspan990"
+           sodipodi:role="line">16</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
