@@ -24,8 +24,8 @@ THEME="Pop"
 # echo $DIR
 
 # Icon sizes and contexts
-CONTEXTS=("actions" "apps" "devices" "categories" "mimetypes" "places" "status")
-SIZES=("16x16" "24x24" "32x32" "48x48" "64x64" "128x128" "256x256" "16x16@2x" "24x24@2x" "32x32@2x" "48x48@2x" "64x64@2x" "128x128@2x" "256x256@2x")
+CONTEXTS=("actions" "apps" "devices" "emblems" "categories" "mimetypes" "places" "status")
+SIZES=("8x8" "16x16" "24x24" "32x32" "48x48" "64x64" "128x128" "256x256" "8x8@2x" "16x16@2x" "24x24@2x" "32x32@2x" "48x48@2x" "64x64@2x" "128x128@2x" "256x256@2x")
 
 # Fullcolor icons
 echo "Generating links for bitmap icons..."
