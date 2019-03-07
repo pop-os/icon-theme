@@ -6,4 +6,4 @@
 export DEB_BUILD_OPTIONS = nocheck
 
 %:
-	dh $@
+	dh $@ --buildsystem=meson
