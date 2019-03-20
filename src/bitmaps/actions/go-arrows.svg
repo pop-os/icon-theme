@@ -13,10 +13,10 @@
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    width="736"
-   height="544"
+   height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="go-arrows.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="501.81579"
-     inkscape:cy="385.5177"
-     inkscape:current-layer="svg11300"
+     inkscape:cx="37.81579"
+     inkscape:cy="-28.4823"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -363,8 +363,7 @@
      style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="go-previous"
-     id="layer1"
-     transform="translate(0,244)">
+     id="layer1">
     <g
        style="display:none"
        inkscape:label="Baseplate"
@@ -943,7 +942,7 @@
          transform="rotate(-45)"
          ry="8" />
       <g
-         transform="translate(-8.5069752e-6,4.3557002e-6)"
+         transform="translate(-8.5e-6,4.3557002e-6)"
          style="display:inline;enable-background:new"
          id="g1901">
         <rect
@@ -977,7 +976,6 @@
     </g>
   </g>
   <g
-     transform="translate(0,244)"
      id="g1497"
      inkscape:label="go-next"
      inkscape:groupmode="layer"
@@ -1620,8 +1618,7 @@
      style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="go-up"
-     id="g1712"
-     transform="translate(0,244)">
+     id="g1712">
     <g
        style="display:none"
        inkscape:label="Baseplate"
@@ -2257,7 +2254,6 @@
     </g>
   </g>
   <g
-     transform="translate(0,244)"
      id="g1894"
      inkscape:label="go-down"
      inkscape:groupmode="layer"

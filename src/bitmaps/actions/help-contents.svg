@@ -13,10 +13,10 @@
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    width="736"
-   height="544"
+   height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="help-contents.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="386.62373"
+     inkscape:cx="152.62373"
      inkscape:cy="199.61619"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -393,8 +393,7 @@
      style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="Icon"
-     id="layer1"
-     transform="translate(0,244)">
+     id="layer1">
     <g
        style="display:none"
        inkscape:label="Baseplate"
