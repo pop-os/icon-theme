@@ -17,7 +17,7 @@
    height="544"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="mail.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,18 +34,18 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="357.58788"
-     inkscape:cy="911.44898"
-     inkscape:current-layer="g5748"
+     inkscape:zoom="0.25"
+     inkscape:cx="856.86364"
+     inkscape:cy="1113.82"
+     inkscape:current-layer="g4404"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1494"
+     inkscape:window-height="1044"
+     inkscape:window-x="2986"
+     inkscape:window-y="0"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -55,34 +55,38 @@
      inkscape:snap-grids="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
        enabled="true"
        visible="true"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid11592"
        empspacing="2"
        visible="true"
        enabled="false"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        color="#ff0000"
        opacity="0.1254902"
        empcolor="#ff0000"
        empopacity="0.25098039"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -340,82 +344,6 @@
      inkscape:label="mail-replied"
      inkscape:groupmode="layer"
      style="display:inline">
-    <g
-       inkscape:groupmode="layer"
-       id="g4384"
-       inkscape:label="Baseplate"
-       style="display:none">
-      <text
-         id="text4386"
-         inkscape:label="context"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         x="15.006836"
-         xml:space="preserve"
-         y="332.76685"><tspan
-           id="tspan4388"
-           sodipodi:role="line"
-           x="15.006836"
-           y="332.76685"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">status</tspan></text>
-      <text
-         id="text4390"
-         inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         x="142.48828"
-         xml:space="preserve"
-         y="332.76685"><tspan
-           id="tspan4392"
-           sodipodi:role="line"
-           x="142.48828"
-           y="332.76685"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">mail-replied</tspan></text>
-      <rect
-         transform="scale(-1,1)"
-         inkscape:label="16x16"
-         y="268"
-         x="-32"
-         height="16"
-         width="16"
-         id="rect4394"
-         style="display:inline;overflow:visible;visibility:visible;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-      <rect
-         transform="scale(-1,1)"
-         inkscape:label="24x24"
-         y="260"
-         x="-76"
-         height="24"
-         width="24"
-         id="rect4396"
-         style="display:inline;overflow:visible;visibility:visible;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-      <rect
-         transform="scale(-1,1)"
-         inkscape:label="32x32"
-         y="252"
-         x="-128"
-         height="32"
-         width="32"
-         id="rect4398"
-         style="display:inline;overflow:visible;visibility:visible;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-      <rect
-         transform="scale(-1,1)"
-         style="display:inline;overflow:visible;visibility:visible;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-         id="rect4400"
-         width="48"
-         height="48"
-         x="-192"
-         y="236"
-         inkscape:label="48x48" />
-      <rect
-         transform="scale(-1,1)"
-         inkscape:label="48x48"
-         y="-228"
-         x="-720"
-         height="512"
-         width="512"
-         id="rect4402"
-         style="display:inline;overflow:visible;visibility:visible;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
-    </g>
     <g
        style="display:inline"
        inkscape:label="Symbols"
@@ -890,7 +818,7 @@
       <text
          id="text5730"
          inkscape:label="context"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="15.006409"
          xml:space="preserve"
          y="-307.23315"><tspan
@@ -898,12 +826,11 @@
            sodipodi:role="line"
            x="15.006409"
            y="-307.23315"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">status</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">status</tspan></text>
       <text
          id="text5734"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="142.48785"
          xml:space="preserve"
          y="-307.23315"><tspan
@@ -911,7 +838,7 @@
            sodipodi:role="line"
            x="142.48785"
            y="-307.23315"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">mail-signed</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">mail-signed</tspan></text>
       <rect
          transform="scale(-1,1)"
          inkscape:label="16x16"
@@ -1238,10 +1165,10 @@
          y="-947.23315"
          xml:space="preserve"
          x="15.006409"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text6101"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
            y="-947.23315"
            x="15.006409"
            sodipodi:role="line"
@@ -1250,11 +1177,10 @@
          y="-947.23315"
          xml:space="preserve"
          x="142.48785"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text6105"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
            y="-947.23315"
            x="142.48785"
            sodipodi:role="line"
