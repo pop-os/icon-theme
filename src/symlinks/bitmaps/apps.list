@@ -24,6 +24,7 @@ accessories-notes.png org.gnome.Bijiben.png
 accessories-notes.png org.gnome.bijiben.png
 accessories-notes.png xfce4-notes-plugin.png
 accessories-screenshot.png gnome-screenshot.png
+accessories-screenshot.png applets-screenshooter.png
 accessories-text-editor.png gedit-icon.png
 accessories-text-editor.png gedit-logo.png
 accessories-text-editor.png gedit.png
@@ -38,6 +39,7 @@ devhelp.png org.gnome.Devhelp.png
 disk-partition-manager.png gparted.png
 disk-partition-manager.png partitionmanager.png
 disk-usage-analyzer.png baobab.png
+disk-usage-analyzer.png org.gnome.baobab.png
 disk-utility.png disks.png
 disk-utility.png org.gnome.DiskUtility.png
 disk-utility.png gnome-disks.png
@@ -244,6 +246,7 @@ system-users.png preferences-desktop-user.png
 user-info.png userinfo.png
 utilities-root-terminal.png gksu-root-terminal.png
 utilities-system-monitor.png org.gnome.Usage.png
+utilities-system-monitor.png org.gnome.SystemMonitor.png
 utilities-system-monitor.png preferences-system-performance.png
 utilities-terminal.png bash.png
 utilities-terminal.png org.gnome.Terminal.png

@@ -54,6 +54,28 @@ done
 echo "Done."
 
 # Symbolic icons
+echo "Generating links for symbolic icons..."
+# contexts for loop
+for CONTEXT in "${CONTEXTS[@]}"
+do
+	echo " -- "${CONTEXT}
+	LIST="$DIR/scalable/$CONTEXT.list"
+	# Check if directory exists
+	if [ -d "$DIR/../../$THEME/$SIZE/$CONTEXT" ]; then
+	    echo "  -- linking "$SIZE"/"$CONTEXT
+		cd $DIR/../../$THEME/$SIZE/$CONTEXT
+		while read line;
+		do
+			ln -sf $line
+		done < $LIST
+		cd $DIR/../../$THEME
+	else
+		echo "  -- skipping "$SIZE"/"$CONTEXT
+	fi
+done
+echo "Done."
+
+# Symbolic icons
 echo "Generating links for panel icons..."
 # contexts for loop
 PANELDIRS=("animations", "indicator-keyboard")
