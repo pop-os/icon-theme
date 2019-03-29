@@ -13,10 +13,10 @@
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    width="736"
-   height="544"
+   height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="mail-mark-important.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="393.3013"
+     inkscape:cx="159.3013"
      inkscape:cy="256.86012"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -363,8 +363,7 @@
      style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="Icon"
-     id="layer1"
-     transform="translate(0,244)">
+     id="layer1">
     <g
        style="display:none"
        inkscape:label="Baseplate"
@@ -888,7 +887,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sscccs" />
       <path
-         style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.3137255;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;enable-background:new"
+         style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.31372549;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;enable-background:new"
          d="m 130,261 v 1 l -14,11 -14,-11 v -1 z"
          id="rect1105-2-2-3-3-6-1-2-9"
          inkscape:connector-curvature="0"
@@ -998,7 +997,7 @@
            cy="248"
            cx="688"
            id="path1176"
-           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.3137255;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686" />
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.31372549;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686" />
         <circle
            r="30"
            cy="246"
@@ -1129,7 +1128,7 @@
              d="m 686,264 h 8 v 8 h -8 z m 0,-44 h 8 v 23 l -2,13 h -4 l -2,-13 z" />
         </g>
         <rect
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#111111;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215687"
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#111111;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686"
            id="rect1046"
            width="56"
            height="56"
@@ -1185,13 +1184,13 @@
          id="text994">
         <path
            d="m 23,280 h 2 v 2 h -2 z m 0,-10 h 2 v 5.5 l -0.5,2.5 h -1 L 23,275.5 Z"
-           style="font-size:16.23040771px;stroke-width:1.01440048;fill:#ffffff;fill-opacity:1"
+           style="font-size:16.23040771px;fill:#ffffff;fill-opacity:1;stroke-width:1.01440048"
            id="path996"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccccc" />
       </g>
       <rect
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215687"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686"
          id="rect999"
          width="15"
          height="15"
@@ -1223,7 +1222,7 @@
            sodipodi:nodetypes="cccccccccccc" />
       </g>
       <rect
-         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215687;enable-background:new"
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;enable-background:new"
          id="rect999-5"
          width="19"
          height="19"

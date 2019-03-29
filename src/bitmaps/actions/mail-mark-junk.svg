@@ -13,10 +13,10 @@
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    width="736"
-   height="544"
+   height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="mail-mark-junk.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-103.08527"
-     inkscape:cy="317.05915"
+     inkscape:cx="40.91473"
+     inkscape:cy="309.05915"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -89,16 +89,6 @@
        snapvisiblegridlinesonly="true"
        originx="0"
        originy="0" />
-    <sodipodi:guide
-       position="704,38"
-       orientation="0.70710678,0.70710678"
-       id="guide960"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="688,28"
-       orientation="1,0"
-       id="guide964"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -373,8 +363,7 @@
      style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="Icon"
-     id="layer1"
-     transform="translate(0,244)">
+     id="layer1">
     <g
        style="display:none"
        inkscape:label="Baseplate"
@@ -898,7 +887,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sscccs" />
       <path
-         style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.3137255;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;enable-background:new"
+         style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.31372549;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;enable-background:new"
          d="m 130,261 v 1 l -14,11 -14,-11 v -1 z"
          id="rect1105-2-2-3-3-6-1-2-9"
          inkscape:connector-curvature="0"
