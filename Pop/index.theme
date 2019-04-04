@@ -1,4 +1,3 @@
-[Icon Theme]
 Name=Pop
 Comment=A simple and modern icon theme.
 Inherits=Pop-Extra,pop-os-branding,Adwaita,breeze,elementary,hicolor
@@ -60,7 +59,7 @@ Type=Fixed
 Context=Actions
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # Animations
@@ -116,7 +115,7 @@ Type=Fixed
 Context=Applications
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 
@@ -162,7 +161,7 @@ Type=Fixed
 Context=Categories
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # Devices
@@ -206,7 +205,7 @@ Type=Fixed
 Context=Devices
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # Emblems
@@ -255,7 +254,7 @@ Type=Fixed
 Context=Emblems
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # Emotes
@@ -299,7 +298,7 @@ Type=Fixed
 Context=Emotes
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # MimeTypes
@@ -343,7 +342,7 @@ Type=Fixed
 Context=MimeTypes
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # Notifications
@@ -394,7 +393,7 @@ Type=Fixed
 Context=Places
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # Status
@@ -438,7 +437,7 @@ Type=Fixed
 Context=Status
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 # Web
@@ -482,7 +481,7 @@ Type=Fixed
 Context=Applications
 Size=16
 MinSize=16
-MaxSize=64
+MaxSize=256
 Type=Scalable
 
 
