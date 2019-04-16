@@ -58,11 +58,6 @@ internet-mail.png mail-generic.png
 internet-mail.png mail_generic.png
 internet-mail.png sylpheed.png
 internet-web-browser.png browser.png
-internet-web-browser.png epiphany-browser.png
-internet-web-browser.png epiphany-icon.png
-internet-web-browser.png epiphany-webkit.png
-internet-web-browser.png epiphany.png
-internet-web-browser.png org.gnome.Epiphany.png
 internet-web-browser.png web-browser.png
 internet-web-browser.png webbrowser-app.png
 multimedia-photo-manager.png shotwell.png
@@ -98,6 +93,7 @@ password-manager.png passwords.png
 password-manager.png preferences-desktop-user-password.png
 password-manager.png seahorse-preferences.png
 password-manager.png seahorse.png
+password-manager.png org.gnome.seahorse.Application.png
 preferences-color.png cs-color.png
 preferences-color.png gnome-color-manager.png
 preferences-color.png preferences-desktop-color.png
@@ -261,3 +257,4 @@ utilities-x-terminal.png xterm-color_48x48.png
 utilities-x-terminal.png xterm.png
 utilities-x-terminal.png xterm_32x32.png
 utilities-x-terminal.png xterm_48x48.png
+weather.png org.gnome.Weather.png
