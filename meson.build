@@ -9,8 +9,4 @@ install_subdir('Pop',
     install_dir: join_paths(get_option('prefix'), 'share/icons')
 )
 
-install_subdir('Pop-Dark',
-    install_dir: join_paths(get_option('prefix'), 'share/icons')
-)
-
 meson.add_install_script('meson/post_install.py')
