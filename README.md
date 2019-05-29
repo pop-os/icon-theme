@@ -19,7 +19,7 @@ When reusing this work please include a proper attribution:
 
 ## Downloading Pop
 
-It is recommended to install Pop_Icons through your syetm package manager, e.g.:
+It is recommended to install Pop_Icons through your system package manager, e.g.:
 
 ```
 sudo apt update
