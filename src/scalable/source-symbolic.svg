@@ -28,15 +28,15 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1044"
+     inkscape:window-width="2560"
+     inkscape:window-height="1370"
      id="namedview88"
      showgrid="true"
-     inkscape:zoom="5.6568541"
-     inkscape:cx="180.11654"
-     inkscape:cy="606.74635"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
+     inkscape:zoom="11.313708"
+     inkscape:cx="375.25253"
+     inkscape:cy="663.66922"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer9"
      showborder="true"
@@ -4130,6 +4130,45 @@
          y="-231"
          id="rect3039"
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+    </g>
+    <g
+       transform="translate(284.0002,-692)"
+       inkscape:label="pager-checked"
+       id="g3036"
+       style="display:inline;enable-background:new">
+      <rect
+         width="16"
+         height="16"
+         x="341"
+         y="257"
+         id="rect3032"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3034"
+         transform="translate(56.9998,-221)"
+         d="m 292,479.00391 c -3.86603,0 -7,3.13412 -7,7 0,3.86603 3.13397,7 7,7 3.86603,0 7,-3.13397 7,-7 0,-3.86588 -3.13397,-7 -7,-7 z"
+         style="fill:#4c5263;fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g3043"
+       inkscape:label="pager-unchecked"
+       transform="translate(304.0002,-692)">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect3038"
+         y="257"
+         x="341"
+         height="16"
+         width="16" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3041"
+         transform="translate(36.9998,-221)"
+         d="m 312,479.00391 c -3.86603,0 -7,3.13412 -7,7 0,3.86603 3.13397,7 7,7 3.86603,0 7,-3.13397 7,-7 0,-3.86588 -3.13397,-7 -7,-7 z M 312,481 a 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 z"
+         style="opacity:0.35;fill:#4c5263;fill-opacity:1;stroke:none" />
     </g>
   </g>
   <g
