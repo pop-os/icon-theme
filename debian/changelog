@@ -1,3 +1,11 @@
+pop-icon-theme (2.1.0) disco; urgency=medium
+
+  * New symbolic firmware icons.
+  * Icons for updated firmware tool.
+  * Updated application-x-firmware mimetype with new symbolic icon.
+
+ -- Ian Santopietro <ian@akira>  Wed, 19 Jun 2019 12:02:35 -0600
+
 pop-icon-theme (2.0.0) disco; urgency=medium
 
   * All-new freshly designed icons
