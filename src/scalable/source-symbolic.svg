@@ -48,9 +48,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:cy="885.81242"
-     inkscape:cx="883.56357"
-     inkscape:zoom="16"
+     inkscape:cy="810.06277"
+     inkscape:cx="925.41102"
+     inkscape:zoom="8"
      showgrid="true"
      id="namedview88"
      inkscape:window-height="1376"
@@ -9283,6 +9283,43 @@
          x="604"
          y="391.99997"
          ry="0.5" />
+    </g>
+    <g
+       inkscape:label="chat"
+       id="g3264"
+       style="display:inline;enable-background:new"
+       transform="translate(619.03125,310.99999)">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+         id="rect3256"
+         width="16"
+         height="16"
+         x="345.00021"
+         y="-159.00336" />
+      <path
+         style="display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         d="M 967 154 C 965.892 154 965 154.892 965 156 L 965 159 L 965 160.24023 L 965 161 C 965 162.108 965.892 163 967 163 L 968 163 L 977 163 C 978.108 163 979 162.108 979 161 L 979 156 C 979 154.892 978.108 154 977 154 L 973 154 L 971.23828 154 L 967 154 z M 967 155 L 977 155 C 977.554 155 978 155.446 978 156 L 978 161 C 978 161.554 977.554 162 977 162 L 967 162 C 966.446 162 966 161.554 966 161 L 966 156 C 966 155.446 966.446 155 967 155 z "
+         transform="translate(-619.03125,-310.99999)"
+         id="path3258" />
+      <path
+         style="display:inline;opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+         d="m 356.96875,-147.99999 -2,2 -2,-2 z"
+         id="path3260"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         id="rect3275"
+         width="8"
+         height="1"
+         x="348.96875"
+         y="-153.99998" />
+      <rect
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         id="rect3277"
+         width="8"
+         height="1"
+         x="348.96875"
+         y="-151.99998" />
     </g>
   </g>
   <g
