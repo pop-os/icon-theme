@@ -26,7 +26,7 @@ import argparse
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = '../../Pop'
-SOURCES = ('actions', 'apps', 'categories', 'devices', 'emblems', 'logos', 'mimetypes', 'places', 'preferences', 'status', 'stock')
+SOURCES = ('actions', 'apps', 'categories', 'devices', 'emblems', 'logos', 'mimetypes', 'places', 'preferences', 'status')
 
 # the resolution that non-hi-dpi icons are rendered at
 DPI_1_TO_1 = 96
