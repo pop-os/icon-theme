@@ -44,14 +44,14 @@
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
      showborder="true"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g3426"
      inkscape:window-maximized="1"
      inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:cy="781.95717"
-     inkscape:cx="750.02954"
-     inkscape:zoom="2.8284271"
-     showgrid="false"
+     inkscape:cy="782.50284"
+     inkscape:cx="824.57674"
+     inkscape:zoom="16"
+     showgrid="true"
      id="namedview88"
      inkscape:window-height="1376"
      inkscape:window-width="2560"
@@ -9468,6 +9468,31 @@
          cx="469.96857"
          cy="260.49329"
          r="1" />
+    </g>
+    <g
+       transform="translate(220.03145,-336.00001)"
+       inkscape:label="weather"
+       id="g3426"
+       style="display:inline;enable-background:new;opacity:1">
+      <rect
+         y="508"
+         x="603.96857"
+         height="16"
+         width="16"
+         id="rect3420"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0;fill:#4c505c;fill-opacity:1;stroke:none;stroke-width:0;marker:none;enable-background:new" />
+      <path
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         d="M 834 179 A 4 4 0 0 0 830.30078 181.48242 A 2 2 0 0 0 829 181 A 2 2 0 0 0 827 183 C 825.892 183 825 183.892 825 185 C 825 186.108 825.892 187 827 187 L 834 187 L 837 187 C 838.108 187 839 186.108 839 185 C 839 184.25329 838.58967 183.61117 837.98633 183.26758 A 4 4 0 0 0 838 183 A 4 4 0 0 0 834 179 z "
+         transform="translate(-220.03145,336.00001)"
+         id="rect3428" />
+      <path
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 832,173 c -3.31371,0 -6,2.68629 -6,6 0.002,0.89093 0.20193,1.77029 0.58594,2.57422 C 827.06134,180.66259 827.90316,180 829,180 c 0.35964,3.4e-4 0.64856,0.23952 0.98047,0.36328 0.91421,-1.37559 2.32711,-2.36255 4.01953,-2.36328 1.59815,0 3.00723,0.77452 3.91797,1.95312 0.0527,-0.31502 0.0801,-0.63374 0.082,-0.95312 0,-3.31371 -2.68629,-6 -6,-6 z"
+         transform="translate(-220.03145,336.00001)"
+         id="path3448"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scccccccs" />
     </g>
   </g>
   <g
