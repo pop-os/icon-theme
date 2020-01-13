@@ -48,9 +48,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:cy="783.7803"
-     inkscape:cx="889.60238"
-     inkscape:zoom="8"
+     inkscape:cy="830.91348"
+     inkscape:cx="899.49312"
+     inkscape:zoom="5.6568543"
      showgrid="true"
      id="namedview88"
      inkscape:window-height="1376"
@@ -7967,7 +7967,7 @@
        transform="translate(461.03125,-477.00001)"
        style="display:inline;enable-background:new">
       <rect
-         style="fill:#4c5263;stroke:none;fill-opacity:0.92607003;opacity:0.1"
+         style="fill:#4c5263;stroke:none;fill-opacity:0.92607003;opacity:0"
          id="rect12374"
          width="16"
          height="16"
@@ -9174,6 +9174,67 @@
          height="16"
          x="484.9379"
          y="100.71539" />
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       transform="translate(621.03125,-477.00001)"
+       id="g3179"
+       inkscape:label="addressbook">
+      <rect
+         y="629"
+         x="323.00021"
+         height="16"
+         width="16"
+         id="rect3166"
+         style="opacity:0;fill:#4c5263;fill-opacity:0.92607003;stroke:none" />
+      <g
+         id="g3170">
+        <g
+           id="g3168" />
+      </g>
+      <path
+         id="path3172"
+         transform="translate(-461.03125,477.00001)"
+         d="m 789,153 c -1.10801,0 -2,0.89199 -2,2 v 10 c 0,1.10801 0.89199,2 2,2 h 7 c 1.10801,0 2,-0.89199 2,-2 v -10 c 0,-1.10801 -0.89199,-2 -2,-2 z m 0,1 h 7 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -7 z"
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="0"
+         y="630"
+         x="325.96875"
+         height="14.00001"
+         width="2.00001"
+         id="rect3175"
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1" />
+      <path
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         d="M 953 157 C 951.338 157 950 158.338 950 160 C 950 161.662 951.338 163 953 163 L 953.5 163 C 953.777 163 954 162.777 954 162.5 C 954 162.223 953.777 162 953.5 162 L 953 162 C 951.892 162 951 161.108 951 160 C 951 158.892 951.892 158 953 158 C 954.108 158 955 158.892 955 160 L 954 160 A 1 1 0 0 0 953 159 A 1 1 0 0 0 952 160 A 1 1 0 0 0 953 161 L 955 161 C 955.554 161 956 160.554 956 160 C 956 158.338 954.662 157 953 157 z "
+         transform="translate(-621.03125,477.00001)"
+         id="rect3193" />
+      <rect
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         id="rect3220"
+         width="2"
+         height="3"
+         x="335.96875"
+         y="632"
+         ry="1" />
+      <rect
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         id="rect3222"
+         width="2"
+         height="3"
+         x="335.96875"
+         y="636"
+         ry="1" />
+      <rect
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.1"
+         id="rect3224"
+         width="2"
+         height="3"
+         x="335.96875"
+         y="640"
+         ry="1" />
     </g>
   </g>
   <g
