@@ -30,16 +30,18 @@
       <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
     </filter>
   </defs>
-  <g id='layer9' style='display:inline' transform='translate(-1165.0002,675)'/>
-  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-1165.0002,675)'/>
-  <g id='layer1' style='display:inline' transform='translate(-924,58)'/>
-  <g id='layer14' style='display:inline' transform='translate(-1165.0002,675)'/>
-  <g id='layer15' style='display:inline' transform='translate(-1165.0002,675)'/>
-  <g id='g71291' style='display:inline' transform='translate(-1165.0002,675)'/>
-  <g id='layer2' style='display:inline' transform='translate(-924,208)'/>
-  <g id='layer3' transform='translate(-924,-52)'>
-    <path d='m 926,53 c 0,0 -2,0 -2,2 v 11 c 0,0 0,2 2,2 h 11 c 0,0 2,0 2,-2 V 55 c 0,-2 -2,-2 -2,-2 z m 0,2 h 5 v 5 h -5 z m 6,0 h 5 v 5 h -5 z m 1.5,1 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.1385 0.0561,0.263136 0.14648,0.353516 L 933.79297,57.5 933.14648,58.146484 C 933.05611,58.236864 933,58.3615 933,58.5 c 0,0.277 0.223,0.5 0.5,0.5 0.1385,0 0.26314,-0.0561 0.35352,-0.146484 l 0.64648,-0.646485 0.64648,0.646485 C 935.23686,58.943886 935.3615,59 935.5,59 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.1385 -0.0561,-0.263136 -0.14648,-0.353516 L 935.20703,57.5 935.85352,56.853516 C 935.94389,56.763136 936,56.6385 936,56.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 -0.1385,0 -0.26314,0.0561 -0.35352,0.146484 L 934.5,56.792969 933.85352,56.146484 C 933.76314,56.056114 933.6385,56 933.5,56 Z m -6.5,1 v 1 h 3 v -1 z m -1,4 h 5 v 5 h -5 z m 2,1 v 1 h -1 v 1 h 1 v 1 h 1 v -1 h 1 v -1 h -1 v -1 z m 5,0 h 3 v 1 h -3 z m 0,2 h 3 v 1 h -3 z' id='rect6797' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+  <g id='layer9' style='display:inline' transform='translate(-1085.0002,555.00001)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-1085.0002,555.00001)'/>
+  <g id='layer1' style='display:inline' transform='translate(-844.00002,-61.99999)'/>
+  <g id='layer14' style='display:inline' transform='translate(-1085.0002,555.00001)'/>
+  <g id='layer15' style='display:inline' transform='translate(-1085.0002,555.00001)'/>
+  <g id='g71291' style='display:inline' transform='translate(-1085.0002,555.00001)'/>
+  <g id='layer2' style='display:inline' transform='translate(-844.00002,88.00001)'/>
+  <g id='layer3' transform='translate(-844.00002,-171.99999)'>
     
+    <path d='m 848,174 c -1.10801,0 -2,0.89199 -2,2 v 8 c 0,1.10801 0.89199,2 2,2 h 8 c 1.10801,0 2,-0.89199 2,-2 v -8 c 0,-1.10801 -0.89199,-2 -2,-2 z m 1,2 h 1 v 7 h -1 z m 4,0 c 1.108,0 2,0.892 2,2 v 5 h -1 v -2 h -2 v 2 h -1 v -5 c 0,-1.108 0.892,-2 2,-2 z m 0,1 c -0.554,0 -1,0.446 -1,1 v 2 h 2 v -2 c 0,-0.554 -0.446,-1 -1,-1 z m -2,7 h 4 v 1 h -4 z' id='rect3120' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+    <rect height='1' id='rect3139' style='opacity:0.5;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' width='4' x='851' y='183.99998'/>
+    <rect height='7' id='rect3141' style='opacity:0.5;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' width='1' x='849' y='175.99998'/>
   </g>
-  <g id='layer12' style='display:inline' transform='translate(-1165.0002,675)'/>
+  <g id='layer12' style='display:inline' transform='translate(-1085.0002,555.00001)'/>
 </svg>

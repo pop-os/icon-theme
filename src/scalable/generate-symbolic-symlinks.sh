@@ -15,3 +15,6 @@ ln -s password-manager-symbolic.svg org.gnome.seahorse.Application-symbolic.svg
 ln -s multimedia-video-player-symbolic.svg org.gnome.Totem-symbolic.svg
 ln -s weather-symbolic.svg org.gnome.weather-symbolic.svg
 ln -s weather-symbolic.svg org.gnome.Weather-symbolic.svg
+ln -s help-contents-symbolic.svg org.gnome.Yelp-symbolic.svg
+ln -s gnome-power-manager-symbolic.svg org.gnome.PowerStats-symbolic.svg
+
