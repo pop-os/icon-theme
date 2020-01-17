@@ -17,4 +17,5 @@ ln -s weather-symbolic.svg org.gnome.weather-symbolic.svg
 ln -s weather-symbolic.svg org.gnome.Weather-symbolic.svg
 ln -s help-contents-symbolic.svg org.gnome.Yelp-symbolic.svg
 ln -s gnome-power-manager-symbolic.svg org.gnome.PowerStats-symbolic.svg
-
+ln -s application-font-symbolic.svg org.gnome.font-viewer-symbolic.svg
+ln -s utilities-terminal-symbolic.svg org.gnome.Terminal-symbolic.svg
