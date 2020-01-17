@@ -44,13 +44,13 @@
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
      showborder="true"
-     inkscape:current-layer="g3162"
+     inkscape:current-layer="g4895"
      inkscape:window-maximized="0"
      inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:cy="783.54442"
-     inkscape:cx="847.29168"
-     inkscape:zoom="8"
+     inkscape:cy="778.21709"
+     inkscape:cx="888.84271"
+     inkscape:zoom="2"
      showgrid="false"
      id="namedview88"
      inkscape:window-height="1376"
@@ -7711,11 +7711,16 @@
          y="-143.96545"
          transform="scale(-1)" />
       <path
-         sodipodi:nodetypes="sssssssssccccccscccccccscccsccccscccccc"
          style="display:inline;opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new"
-         d="m 161.99977,128.96545 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -10 c 0,-1.108 -0.892,-2 -2,-2 z m 2,2 h 1 v 1 c 0.65424,0 1.2022,0.41808 1.4082,1 h -1.4082 v 1 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 v 1 h -1 v -1 c -0.65424,0 -1.20221,-0.41808 -1.4082,-1 h 1.4082 v -1 c -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z m 0,2 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 z m 1,2 v 1 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 3,2 h 4 v 1 h -4 z"
-         id="rect3516"
-         inkscape:connector-curvature="0" />
+         d="M 866.03125 53 C 864.92325 53 864.03125 53.892 864.03125 55 L 864.03125 65 C 864.03125 66.108 864.92325 67 866.03125 67 L 878.03125 67 C 879.13925 67 880.03125 66.108 880.03125 65 L 880.03125 55 C 880.03125 53.892 879.13925 53 878.03125 53 L 866.03125 53 z M 866 55 L 878 55 L 878 65 L 866 65 L 866 55 z "
+         transform="translate(-704.03168,75.965452)"
+         id="rect3516" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3286"
+         d="m 164.96832,131.96545 h 1 v 1 c 0.65424,0 1.2022,0.41808 1.4082,1 h -1.4082 v 1 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 v 1 h -1 v -1 c -0.65424,0 -1.20221,-0.41808 -1.4082,-1 h 1.4082 v -1 c -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z m 0,2 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 z m 1,2 v 1 c 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 3,2 h 4 v 1 h -4 z"
+         style="display:inline;opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new"
+         sodipodi:nodetypes="ccccccscccccccscccsccccscccccc" />
     </g>
     <g
        transform="translate(578.03125,70.000004)"
