@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16.00194' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
+      </cc:Work>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Pop Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient6882' osb:paint='solid'>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
+      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
+    </filter>
+  </defs>
+  <g id='layer9' style='display:inline' transform='translate(-365.0002,555.00048)'>
+    
+    <path d='m 373.0002,-555 c -0.0124,5.4e-4 -0.0248,10e-4 -0.0371,0.002 -0.1181,0.002 -0.23346,0.0133 -0.3457,0.0352 -0.004,8.7e-4 -0.009,10e-4 -0.0137,0.002 -0.0131,0.003 -0.0261,0.006 -0.0391,0.01 -0.0953,0.0212 -0.18771,0.0516 -0.27734,0.0859 -0.0422,0.0155 -0.0839,0.0324 -0.125,0.0508 -0.0804,0.0372 -0.15822,0.0798 -0.23242,0.12695 -0.0197,0.012 -0.0393,0.0244 -0.0586,0.0371 -0.008,0.006 -0.0154,0.0119 -0.0234,0.0176 -0.0816,0.0577 -0.15852,0.12041 -0.23047,0.18945 -0.0145,0.0141 -0.0289,0.0284 -0.043,0.043 -0.0743,0.0758 -0.14154,0.15734 -0.20313,0.24414 -0.014,0.0193 -0.0277,0.0388 -0.041,0.0586 -0.0553,0.0841 -0.10423,0.17331 -0.14649,0.26563 -0.0138,0.0303 -0.0268,0.0609 -0.0391,0.0918 -0.0392,0.0985 -0.0724,0.20112 -0.0957,0.30664 -0.003,0.0169 -0.007,0.0338 -0.01,0.0508 -0.0238,0.12308 -0.0389,0.24889 -0.0391,0.3789 v 0.002 0.002 0.002 h -1.03906 c -1.08571,0.0208 -1.96059,0.90437 -1.96059,1.99554 V -547 l 2,2.00195 3,-5 v 2 l 5,0.9961 v -4 c 0,-1.09117 -0.87488,-1.97473 -1.96094,-1.9961 h -1.03906 v -0.002 -0.004 c -1.3e-4,-0.13737 -0.0145,-0.27082 -0.041,-0.40039 -1.2e-4,-6.1e-4 1.3e-4,-10e-4 0,-0.002 -0.0234,-0.11403 -0.0596,-0.22403 -0.10156,-0.33008 -0.0117,-0.0296 -0.024,-0.0589 -0.0371,-0.0879 -0.0405,-0.0896 -0.0879,-0.17585 -0.14062,-0.25781 -0.01,-0.0158 -0.0193,-0.0314 -0.0293,-0.0469 -0.005,-0.007 -0.009,-0.0131 -0.0137,-0.0195 -0.0592,-0.0845 -0.12599,-0.16213 -0.19727,-0.23633 -0.0128,-0.0145 -0.0258,-0.0288 -0.0391,-0.043 -0.003,-0.003 -0.005,-0.005 -0.008,-0.008 -0.0725,-0.0705 -0.15184,-0.1325 -0.23438,-0.1914 -0.0218,-0.0161 -0.0439,-0.0317 -0.0664,-0.0469 -0.0794,-0.0519 -0.16331,-0.0983 -0.25,-0.13867 -0.0366,-0.0174 -0.0737,-0.0337 -0.11133,-0.0488 -0.002,-7.4e-4 -0.004,-10e-4 -0.006,-0.002 -0.0886,-0.0345 -0.18114,-0.0623 -0.27539,-0.084 -0.0266,-0.006 -0.0533,-0.0123 -0.0801,-0.0176 -0.1093,-0.0205 -0.22115,-0.0313 -0.33594,-0.0332 -0.0111,-7.4e-4 -0.0221,-10e-4 -0.0332,-0.002 z' id='path6763' style='opacity:0.35;fill:#4c5263;fill-opacity:1;stroke:none'/>
+    <path d='m 369.96114,-548.99805 c -1.08606,0.0214 -1.96094,0.90493 -1.96094,1.9961 V -542 c 0,1.10457 0.89543,2 2,2 h 6 a 2,2 0 0 0 2,-2 v -5.00195 c 0,-1.09117 -0.87488,-1.97473 -1.96094,-1.9961 h -3.03906 v 2 h 3 l -3,5 v -3 h -3 l 2.40625,-4 z' id='path6765' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+  </g>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-365.0002,555.00048)'/>
+  <g id='layer1' style='display:inline' transform='translate(-124,-61.99952)'/>
+  <g id='layer14' style='display:inline' transform='translate(-365.0002,555.00048)'/>
+  <g id='layer15' style='display:inline' transform='translate(-365.0002,555.00048)'/>
+  <g id='g71291' style='display:inline' transform='translate(-365.0002,555.00048)'/>
+  <g id='layer2' style='display:inline' transform='translate(-124,88.00048)'/>
+  <g id='layer3' transform='translate(-124,-171.99952)'/>
+  <g id='layer12' style='display:inline' transform='translate(-365.0002,555.00048)'/>
+</svg>
