@@ -13,3 +13,8 @@ Depends: ${misc:Depends}, gnome-icon-theme
 Suggests: pop-icon-theme-extra
 Conflicts: system76-pop-icon-theme
 Description: Pop Icons
+
+Package: gnome-shell-extension-pop-battery-icon-fix
+Architecture: all
+Depends: pop-icon-theme
+Description: Transitional package
