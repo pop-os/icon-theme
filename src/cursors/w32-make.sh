@@ -1,6 +1,6 @@
 #!/bin/sh
 
-THEME=Pop
+THEME=Suru
 DIR="../../.."
 
 # $@ is for the caller to be able to supply arguments to anicursorgen (-s, in particular)
@@ -33,14 +33,20 @@ ${GEN} crosshair$s.in $DIR/$THEME/cursors/cell.cur
 ${GEN} dnd-ask$s.in $DIR/$THEME/cursors/dnd-ask.cur
 ${GEN} dnd-copy$s.in $DIR/$THEME/cursors/dnd-copy.cur
 ${GEN} dnd-link$s.in $DIR/$THEME/cursors/dnd-link.cur
+${GEN} dnd-link$s.in $DIR/$THEME/cursors/alias.cur
 ${GEN} dnd-move$s.in $DIR/$THEME/cursors/dnd-move.cur
 ${GEN} dnd-no-drop$s.in $DIR/$THEME/cursors/dnd-no-drop.cur
+${GEN} dnd-no-drop$s.in $DIR/$THEME/cursors/no-drop.cur
 ${GEN} dnd-none$s.in $DIR/$THEME/cursors/dnd-none.cur
 ${GEN} dotbox$s.in $DIR/$THEME/cursors/dotbox.cur
 ${GEN} fd_double_arrow$s.in $DIR/$THEME/cursors/fd_double_arrow.cur
 ${GEN} grabbing$s.in $DIR/$THEME/cursors/grabbing.cur
+${GEN} grabbing$s.in $DIR/$THEME/cursors/fleur.cur
+${GEN} grabbing$s.in $DIR/$THEME/cursors/size_all.cur
 ${GEN} hand1$s.in $DIR/$THEME/cursors/hand1.cur
+${GEN} hand1$s.in $DIR/$THEME/cursors/grab.cur
 ${GEN} hand2$s.in $DIR/$THEME/cursors/hand2.cur
+${GEN} hand2$s.in $DIR/$THEME/cursors/pointer.cur
 ${GEN} left_ptr$s.in $DIR/$THEME/cursors/left_ptr.cur
 ${GEN} left_ptr_watch$s.in $DIR/$THEME/cursors/left_ptr_watch.ani
 ${GEN} left_side$s.in $DIR/$THEME/cursors/left_side.cur
@@ -70,6 +76,7 @@ ${GEN} ul_angle$s.in $DIR/$THEME/cursors/ul_angle.cur
 ${GEN} ur_angle$s.in $DIR/$THEME/cursors/ur_angle.cur
 ${GEN} vertical-text$s.in $DIR/$THEME/cursors/vertical-text.cur
 ${GEN} watch$s.in $DIR/$THEME/cursors/watch.ani
+${GEN} watch$s.in $DIR/$THEME/cursors/wait.ani
 ${GEN} X_cursor$s.in $DIR/$THEME/cursors/X_cursor.cur
 ${GEN} xterm$s.in $DIR/$THEME/cursors/xterm.cur
 ${GEN} zoom-in$s.in $DIR/$THEME/cursors/zoom-in.cur

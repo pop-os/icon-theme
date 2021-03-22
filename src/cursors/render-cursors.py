@@ -54,7 +54,7 @@ import io
 
 svgFilename = None
 hotsvgFilename = None
-sizes = [24,32,48]
+sizes = [24,32,48,64,96]
 scale_pairs = [(1.25, 's1'), (1.50, 's2')]
 mode_shadows = ['shadows']
 mode_hotspots = ['hotspots']
@@ -68,7 +68,7 @@ def natural_sort(l):
 
 def dbg(msg):
 	if options.debug:
-		sys.stderr.write(msg)
+		sys.stderr.write(msg+'\n')
 
 def cleanup():
 	global inkscape_instances
@@ -246,18 +246,18 @@ def postprocess_slice (slicename, skipped):
 		relslice = '{}/{}'.format (subdir, pngsliceFName)
 		csize = get_csize (i, size)
 		if relslice not in skipped:
-			new_base = cropalign (csize, relslice)
+			# new_base = cropalign (csize, relslice)
 			if options.hotspots:
 				hotrelslice = '{}/{}'.format (subdir, hotsliceFName)
-				cropalign_hotspot (new_base, csize, hotrelslice)
+				# cropalign_hotspot (new_base, csize, hotrelslice)
 		for scale in scale_pairs:
 			subdir = 'bitmaps/{}x{}_{}'.format (size, size, scale[1])
 			relslice = '{}/{}'.format (subdir, pngsliceFName)
 			if relslice not in skipped:
-				new_base = cropalign (csize, relslice)
+				# new_base = cropalign (csize, relslice)
 				if options.hotspots:
 					hotrelslice = '{}/{}'.format (subdir, hotsliceFName)
-					cropalign_hotspot (new_base, csize, hotrelslice)
+					# cropalign_hotspot (new_base, csize, hotrelslice)
 
 def write_xcur(slicename):
 	pngsliceFName = slicename + '.png'
