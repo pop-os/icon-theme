@@ -71,8 +71,8 @@ def main(args, SRC):
 			   '--export-dpi', str(dpi),
 			   '-i', rect,
 			   '-e', output_file]
+		print(cmd)
 		wait_for_prompt(inkscape_process, ' '.join(cmd))
-		optimize_png(output_file)
 
 	class ContentHandler(xml.sax.ContentHandler):
 		ROOT = 0
@@ -159,7 +159,7 @@ def main(args, SRC):
 							size_str += "@%sx" % dpi_factor
 
 						dir = os.path.join(MAINDIR, size_str, self.context)
-						outfile = os.path.join(dir, self.icon_name+'.png')
+						outfile = os.path.join(dir, self.icon_name+'.svg')
 						if not os.path.exists(dir):
 							os.makedirs(dir)
 						# Do a time based check!
