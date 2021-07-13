@@ -35,11 +35,9 @@ meson build
 sudo ninja -C "build" install
 ```
 
-By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local` or `$HOME/.local`, like below:
+By default it installs to `/usr/`, but you can specify a different directory with a prefix like `/usr/local` or `$HOME/.local`, for example:
 
 ```sh
-git@github.com:pop-os/icon-theme.git
-cd icon-theme
 meson -Dprefix=$HOME/.local build
 ninja -C "build" install
 ```
