@@ -21,21 +21,26 @@ When reusing this work please include a proper attribution:
 
 It is recommended to install Pop_Icons through your system package manager, e.g.:
 
-```
+```sh
 sudo apt update
 sudo apt install pop-icon-theme
 ```
 
 If your OS does not package Pop_Icons, you can install them from git:
 
-```
+```sh
 git clone https://github.com/pop-os/icon-theme pop-icon-theme
 cd pop-icon-theme
 meson build
 sudo ninja -C "build" install
 ```
 
-By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local` or `$HOME/.local`.
+By default it installs to `/usr/`, but you can specify a different directory with a prefix like `/usr/local` or `$HOME/.local`, for example:
+
+```sh
+meson -Dprefix=$HOME/.local build
+ninja -C "build" install
+```
 
 After which you should be able to pick Pop as your icon or cursor theme in GNOME Tweaks, or you can set either from a terminal with:
 
