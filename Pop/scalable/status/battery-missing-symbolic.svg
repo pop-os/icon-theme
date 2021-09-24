@@ -5,8 +5,8 @@
         </filter>
     </defs>
     <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M-391-281h16v16h-16z' style='color:#ddd;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(0 1 1 0 281 391.001)'/>
+        <g style='display:inline;fill:#4c5263;fill-opacity:1;enable-background:new'>
+            <path d='M-391-281h16v16h-16z' style='color:#ddd;display:inline;overflow:visible;visibility:visible;opacity:.00100002;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='matrix(0 1 1 0 281 391.001)'/>
             <path d='M92 152a2 2 0 0 0-2 2 2 2 0 0 0 0 .002h-1.02c-1.095.01-1.98.9-1.98 1.998v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-9a1.999 1.999 0 0 0-1.98-1.998H94a2 2 0 0 0 0-.002 2 2 0 0 0-2-2Zm0 5.002a2 2 0 1 1 0 4v1h-1v-2h1a1 1 0 1 0-1-1h-1a2 2 0 0 1 2-2zm-1 6h1v1h-1z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-84 -152)'/>
         </g>
     </g>

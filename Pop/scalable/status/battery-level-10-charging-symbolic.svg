@@ -5,8 +5,8 @@
         </filter>
     </defs>
     <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M-391-281h16v16h-16z' style='color:#ddd;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='rotate(90 -328 63)'/>
+        <g style='display:inline;fill:#4c5263;fill-opacity:1;enable-background:new'>
+            <path d='M-391-281h16v16h-16z' style='color:#ddd;display:inline;overflow:visible;visibility:visible;opacity:.00100002;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='rotate(90 -328 63)'/>
             <path d='M212 172a2 2 0 0 0-2 2h-1a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2l-1 .002V174a2 2 0 0 0-2-2zm0 11h.602l-.602 1.002Z' style='opacity:.35;fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-204 -172)'/>
             <path d='m212 176.002-3 5h3V183h.602l2.398-3.998h-3zm.602 6.998-.602 1.002V183h-3c-1.108 0-2 .892-2 2s.892 2 2 2h6c1.108 0 2-.892 2-2s-.892-2-2-2z' style='display:inline;fill:#4c5263;fill-opacity:1;enable-background:new' transform='translate(-204 -172)'/>
         </g>
