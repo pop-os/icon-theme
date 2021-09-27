@@ -20,7 +20,10 @@
 
 require "rexml/document"
 require "fileutils"
+
 include REXML
+
+VERBOSE = FALSE
 
 # INKSCAPE = 'flatpak run org.inkscape.Inkscape'
 INKSCAPE = '/usr/bin/inkscape'
@@ -35,15 +38,17 @@ def chopSVG(icon)
 	unless (File.exists?(icon[:file]) && !icon[:forcerender])
 		FileUtils.cp(SRC,icon[:file]) 
 		puts " >> #{icon[:name]}"
-		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
-		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
-		cmd += "--verb=FileSave --verb=FileQuit > /dev/null 2>&1"
+		cmd = "#{INKSCAPE} #{icon[:file]} -g --select #{icon[:id]} "
+		cmd += '--verb="FitCanvasToSelection;EditCopy;EditSelectAllInAllLayers;'\
+		  'EditDelete;EditPasteInPlace;EditSelectAll;FileVacuum;FileSave;FileQuit"'
+	  cmd += " > /dev/null 2>&1" unless VERBOSE
+	  puts " Running '#{cmd}'" if VERBOSE
 		system(cmd)
 		#saving as plain SVG gets rid of the classes :/
-		cmd = "#{INKSCAPE} --vacuum-defs -z #{icon[:file]} --export-plain-svg=#{icon[:file]} > /dev/null 2>&1"
+		cmd = "#{INKSCAPE} --vacuum-defs -z #{icon[:file]} --export-plain-svg=#{icon[:file]}"
 		system(cmd)
 		#completely vaccuum with svgo
-		cmd = "#{SVGO} --pretty --disable=convertShapeToPath -i  #{icon[:file]} -o  #{icon[:file]} > /dev/null 2>&1"
+		cmd = "#{SVGO} --pretty -i  #{icon[:file]} -o  #{icon[:file]}"
 		system(cmd)
 		# crop
 		svgcrop = Document.new(File.new(icon[:file], 'r'))
