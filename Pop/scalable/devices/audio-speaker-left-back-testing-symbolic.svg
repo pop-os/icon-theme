@@ -1,0 +1,14 @@
+<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <defs>
+        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
+            <feBlend in2='BackgroundImage' mode='darken'/>
+        </filter>
+    </defs>
+    <g style='display:inline;filter:url(#a)' transform='translate(-465 135)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(200 278)'>
+            <path d='M265-413h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:.01;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;marker:none'/>
+            <path d='M268.062-408.727a.995.995 0 0 0-.261.545l-.53 4.42-.708.707-.707.707a.998.998 0 0 0 0 1.414l2.828 2.828a.998.998 0 0 0 1.415 0l.707-.707.707-.707 4.42-.53c.63-.076 1.237-.884.53-1.591l-3.536-3.536-3.535-3.535c-.487-.486-1.02-.352-1.33-.015z' style='opacity:1;fill:#4c5263;fill-opacity:1'/>
+            <path d='m271.955-407.563.972-1.856c2.121.707 3.536 2.121 4.243 4.242l-1.856.973c-.708-2.122-1.238-2.652-3.36-3.36zM272.883-410.878l.751-2.077c3.536.707 6.364 3.536 7.071 7.071l-2.077.751c-.707-3.535-2.21-5.038-5.745-5.745z' style='opacity:1;fill:#4c5263'/>
+        </g>
+    </g>
+</svg>
