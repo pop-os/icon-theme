@@ -43,12 +43,12 @@ body:
         required: true
   - type: textarea
     id: theme-version
-      attributes:
-        label: Icon Theme Version
-        description: "What version of the Pop Icon Theme are you using? You can 
-          find this by running `apt policy pop-icon-theme | grep -i installed`
-          in a terminal."
-        render: shell
+    attributes:
+      label: Icon Theme Version
+      description: "What version of the Pop Icon Theme are you using? You can 
+        find this by running `apt policy pop-icon-theme | grep -i installed`
+        in a terminal."
+      render: shell
   - type: textarea
     id: description
     attributes:
