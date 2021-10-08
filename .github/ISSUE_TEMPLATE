@@ -28,7 +28,7 @@ body:
     id: os-type
     attributes:
       label: Operating System
-      description: Please tell us which operating system are you using?
+      description: Which operating system are you using?
       placeholder: Pop_OS, Ubuntu, Fedora, Arch, etc.
     validations:
       required: true
@@ -45,7 +45,7 @@ body:
     id: theme-version
       attributes:
         label: Icon Theme Version
-        description: "What version of the Pop Icon theme are you using? You can 
+        description: "What version of the Pop Icon Theme are you using? You can 
           find this by running `apt policy pop-icon-theme | grep -i installed`
           in a terminal."
         render: shell
