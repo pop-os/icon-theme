@@ -22,8 +22,8 @@ body:
       options:
         - Bug Report
         - Missing Icon
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: os-type
     attributes:
@@ -39,8 +39,8 @@ body:
       description: "What version of your operating system are you using? If
         you're unsure, try running `cat /etc/os-release | grep -i pretty_name` 
         in a terminal."
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: theme-version
     attributes:
@@ -49,6 +49,8 @@ body:
         find this by running `apt policy pop-icon-theme | grep -i installed`
         in a terminal."
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
