@@ -1,0 +1,76 @@
+name: Issue Report
+description: Report an issue with the Pop Icon Theme
+body:
+  - type: markdown
+    attributes: 
+      value: |
+        Thanks for taking time to report your issue! 
+        
+        If you have a question or discussion topiic about the theme, please 
+        consider our [chat](https://chat.pop-os.org] or our 
+        [subreddit](https://reddit.com/r/pop_os) as these venues are more 
+        appropriate for this type of discussion.
+        
+        Please note that the Pop Icon theme does not provide theming for **any**
+        third-party application icons. Issues requesting application icons will
+        be rejected.
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: Is this a problem/bug, or a missing icon?
+      options:
+        - Bug Report
+        - Missing Icon
+      validations:
+        required: true
+  - type: input
+    id: os-type
+    attributes:
+      label: Operating System
+      description: Please tell us which operating system are you using?
+      placeholder: Pop_OS, Ubuntu, Fedora, Arch, etc.
+    validations:
+      required: true
+  - type: input
+    id: os-version
+    attributes:
+      label: OS Version
+      description: "What version of your operating system are you using? If
+        you're unsure, try running `cat /etc/os-release | grep -i pretty_name` 
+        in a terminal."
+      validations:
+        required: true
+  - type: textarea
+    id: theme-version
+      attributes:
+        label: Icon Theme Version
+        description: "What version of the Pop Icon theme are you using? You can 
+          find this by running `apt policy pop-icon-theme | grep -i installed`
+          in a terminal."
+        render: shell
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: "Please describe the issue in as much detail as you can. 
+        Include a screenshot showing the problem as well."
+      placeholder: Type here to describe the problem. You can include 
+        scrrenshots by dragging and dropping them here.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-result
+    attributes:
+      label: Expected Outcome
+      description: For a bug report, please describe what you expected to 
+        happen. If this is a missing icon, please include an image of the icon
+        in another theme.
+      placeholder: You can drag and drop images here.
+    validations:
+      required: true
+  - type: textarea
+    id: other-info
+    attributes:
+      label: Other Information
+      description: Any other information you believe would be helpful.
