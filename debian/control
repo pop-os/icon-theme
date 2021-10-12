@@ -9,7 +9,7 @@ Homepage: https://github.com/system76/pop-icon-theme
 
 Package: pop-icon-theme
 Architecture: all
-Depends: ${misc:Depends}, gnome-icon-theme
+Depends: ${misc:Depends}, adwaita-icon-theme-full, hicolor-icon-theme
 Suggests: pop-icon-theme-extra
 Conflicts: system76-pop-icon-theme
 Description: Pop Icons
