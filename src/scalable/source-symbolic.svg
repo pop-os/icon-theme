@@ -5,7 +5,7 @@
    inkscape:export-filename="/home/sam/source-symbolic.png"
    style="enable-background:new"
    sodipodi:docname="source-symbolic.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    id="svg7384"
    height="960"
    width="1024"
@@ -43,17 +43,17 @@
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
      showborder="true"
-     inkscape:current-layer="g5881"
+     inkscape:current-layer="layer9"
      inkscape:window-maximized="1"
      inkscape:window-y="32"
      inkscape:window-x="0"
-     inkscape:cy="191"
-     inkscape:cx="121.0625"
-     inkscape:zoom="8"
+     inkscape:cy="230.51681"
+     inkscape:cx="85.383144"
+     inkscape:zoom="5.6568543"
      showgrid="false"
      id="namedview88"
-     inkscape:window-height="699"
-     inkscape:window-width="1366"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10"
@@ -4297,16 +4297,30 @@
          style="opacity:1;fill:#4c5263;fill-opacity:1"
          d="m 151.07031,554.04883 c -0.20813,0.008 -0.41406,0.0784 -0.57031,0.20117 L 147,557 h -1 -1 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 1 1 l 3.5,2.75 C 151,566.14286 152,566 152,565 v -5 -5 c 0,-0.6875 -0.4718,-0.96949 -0.92969,-0.95117 z"
          transform="translate(121.0004,-965)" />
-      <path
-         id="path5876"
-         style="opacity:1;fill:#4c5263"
-         d="m 274.0004,-407.375 1.99999,-0.625 c 1.00001,2 1.00001,4 0,6 l -1.99999,-0.625 c 1,-2 1,-2.75 0,-4.75 z"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         id="path5878"
-         style="opacity:1;fill:#4c5263"
-         d="m 277.0004,-409.0625 2,-0.9375 c 2,3 2,7 0,10 l -2,-0.9375 c 2,-3 2,-5.125 0,-8.125 z"
-         sodipodi:nodetypes="ccccc" />
+      <rect
+         style="opacity:1;fill:#4c5263;stroke-width:4.9"
+         id="rect3478"
+         width="1"
+         height="4"
+         x="274.0004"
+         y="-407"
+         ry="0.5" />
+      <rect
+         style="opacity:1;fill:#4c5263;stroke-width:4.9"
+         id="rect3568"
+         width="2"
+         height="8"
+         x="276.0004"
+         y="-409"
+         ry="1" />
+      <rect
+         style="opacity:1;fill:#4c5263;stroke-width:4.9"
+         id="rect3570"
+         width="2"
+         height="12"
+         x="279.0004"
+         y="-411"
+         ry="1" />
     </g>
     <g
        style="display:inline;filter:url(#filter7554);enable-background:new"
