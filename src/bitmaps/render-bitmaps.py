@@ -42,37 +42,17 @@ def main(args, SRC):
 			process = subprocess.Popen([OPTIPNG, '-quiet', '-o7', png_file])
 			process.wait()
 
-	def wait_for_prompt(process, command=None):
-		if command is not None:
-			process.stdin.write((command+'\n').encode('utf-8'))
-
-		# This is kinda ugly ...
-		# Wait for just a '>', or '\n>' if some other char appearead first
-		output = process.stdout.read(1)
-		if output == b'>':
-			return
-
-		output += process.stdout.read(1)
-		while output != b'\n>':
-			output += process.stdout.read(1)
-			output = output[1:]
-
-	def start_inkscape():
-		process = subprocess.Popen([INKSCAPE, '--shell'], bufsize=0, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-		wait_for_prompt(process)
-		return process
-
 	def inkscape_render_rect(icon_file, rect, dpi, output_file):
-		global inkscape_process
-		if inkscape_process is None:
-			inkscape_process = start_inkscape()
 
-		cmd = [icon_file,
-			   '--export-dpi', str(dpi),
-			   '-i', rect,
-			   '-e', output_file]
-		print(cmd)
-		wait_for_prompt(inkscape_process, ' '.join(cmd))
+		cmd = [
+			INKSCAPE,
+			'-d', str(dpi), # export-dpi
+			'-i', rect, # export-id
+			'-o', output_file, # export-filename
+			icon_file # input file
+		]
+		print(f'Rendering {output_file}')
+		subprocess.run(cmd)
 
 	class ContentHandler(xml.sax.ContentHandler):
 		ROOT = 0
