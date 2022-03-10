@@ -1,46 +1,14 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16.019989' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
-  <metadata id='metadata90'>
-    <rdf:RDF>
-      <cc:Work rdf:about=''>
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
-        <dc:title>Pop Symbolic Icon Theme</dc:title>
-        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
-      </cc:Work>
-      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
-        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
-        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
-        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
-        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <title id='title8473'>Pop Symbolic Icon Theme</title>
-  <defs id='defs7386'>
-    <linearGradient id='linearGradient6882' osb:paint='solid'>
-      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
-    </linearGradient>
-    <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
-    </linearGradient>
-    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
-      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
-    </filter>
-  </defs>
-  <g id='layer9' style='display:inline' transform='translate(-685.0002,495.01999)'>
-    
-    <path d='m 693.5002,-495 c -1.26758,0 -2.41629,0.48458 -3.34375,1.26562 l 2.8125,2.8125 v -1.51562 c -10e-6,-0.27311 0.21911,-0.49571 0.49219,-0.5 0.1353,-0.002 0.26567,0.0508 0.36133,0.14648 l 3,3 c 0.21085,0.2107 0.19169,0.55791 -0.041,0.74414 l -1.07617,0.86133 3.28906,3.28907 c 5.3e-4,-0.0349 0.006,-0.0685 0.006,-0.10352 v -4 c 0,-3.324 -2.453,-6 -5.5,-6 z m -4.31445,2.27539 c -0.74171,1.02231 -1.18555,2.31373 -1.18555,3.72461 v 4 c 0,3.324 2.453,6 5.5,6 2.46096,0 4.53367,-1.74715 5.24023,-4.16992 l -4.13671,-4.13477 -0.45899,0.36719 2.63672,2.10938 c 0.23273,0.18623 0.25189,0.53344 0.041,0.74414 l -3,3 c -0.315,0.31479 -0.85335,0.0918 -0.85352,-0.35352 v -4.55859 l -2.1875,1.75 c -0.52083,0.41667 -1.14583,-0.36458 -0.625,-0.78125 l 2.38674,-1.91016 -2.16602,-2.0625 c -0.56586,-0.41101 -0.11976,-1.09008 0.4043,-0.62695 l 2.1875,1.75 v -1.06446 z m 4.7832,1.49414 v 1.30859 l 1.02344,1.02344 0.72851,-0.58008 z m 0,5.43359 v 3.15235 l 1.75195,-1.75195 z' id='rect5886-2-1' style='display:inline;opacity:0.5;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new'/>
-    <rect height='1.99437' id='rect3401' ry='0.99718499' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;enable-background:new' transform='rotate(45)' width='17.98702' x='137.02419' y='-835.73688'/>
-  </g>
-  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-685.0002,495.01999)'/>
-  <g id='layer1' style='display:inline' transform='translate(-444,-121.98001)'/>
-  <g id='layer14' style='display:inline' transform='translate(-685.0002,495.01999)'/>
-  <g id='layer15' style='display:inline' transform='translate(-685.0002,495.01999)'/>
-  <g id='g71291' style='display:inline' transform='translate(-685.0002,495.01999)'/>
-  <g id='layer2' style='display:inline' transform='translate(-444,28.019989)'/>
-  <g id='layer3' transform='translate(-444,-231.98001)'/>
-  <g id='layer12' style='display:inline' transform='translate(-685.0002,495.01999)'/>
+<svg height='16.02' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <defs>
+        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
+            <feBlend in2='BackgroundImage' mode='darken'/>
+        </filter>
+    </defs>
+    <g style='display:inline'>
+        <g style='display:inline;enable-background:new' transform='translate(-266 291.02)'>
+            <path d='M266-291.02h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none'/>
+            <path d='M452.5 232c-1.268 0-2.416.485-3.344 1.266l2.813 2.812v-1.515a.5.5 0 0 1 .853-.354l3 3a.5.5 0 0 1-.04.744l-1.077.861 3.29 3.29c0-.035.005-.069.005-.104v-4c0-3.324-2.453-6-5.5-6zm-4.314 2.275A6.326 6.326 0 0 0 447 238v4c0 3.324 2.453 6 5.5 6 2.461 0 4.534-1.747 5.24-4.17l-4.136-4.135-.46.368 2.637 2.109a.5.5 0 0 1 .041.744l-3 3a.5.5 0 0 1-.853-.354v-4.558l-2.188 1.75c-.52.417-1.146-.365-.625-.781l2.387-1.91-2.166-2.063c-.566-.411-.12-1.09.404-.627l2.188 1.75v-1.064zm4.783 1.495v1.308l1.023 1.024.729-.58zm0 5.433v3.152l1.752-1.751z' style='display:inline;opacity:.5;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-178 -523)'/>
+            <rect height='1.994' ry='.997' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.392157;enable-background:new' transform='rotate(45)' width='17.987' x='-15.004' y='-395.209'/>
+        </g>
+    </g>
 </svg>

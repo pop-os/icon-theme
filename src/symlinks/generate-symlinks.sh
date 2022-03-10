@@ -25,7 +25,8 @@ THEME="Pop"
 
 # Icon sizes and contexts
 CONTEXTS=("actions" "apps" "devices" "emblems" "categories" "mimetypes" "places" "status")
-SIZES=("8x8" "16x16" "24x24" "32x32" "48x48" "64x64" "128x128" "256x256" "8x8@2x" "16x16@2x" "24x24@2x" "32x32@2x" "48x48@2x" "64x64@2x" "128x128@2x" "256x256@2x")
+SIZES=("8x8" "16x16" "24x24" "32x32" "48x48" "64x64" "128x128" "256x256" "512x512")
+SCALES=('@2x')
 
 # Fullcolor icons
 echo "Generating links for bitmap icons..."
@@ -47,11 +48,12 @@ do
 			done < $LIST
 			cd $DIR/../../$THEME
 		else
-			echo "  -- skipping "$SIZE"/"$CONTEXT
+			echo "  ** skipping "$SIZE"/"$CONTEXT
 		fi
 	done
 done
 echo "Done."
+
 
 # Symbolic icons
 echo "Generating links for symbolic icons..."
@@ -70,7 +72,7 @@ do
 		done < $LIST
 		cd $DIR/../../$THEME
 	else
-		echo "  -- skipping "$SIZE"/"$CONTEXT
+		echo "  ** skipping "$SIZE"/"$CONTEXT
 	fi
 done
 echo "Done."
@@ -101,12 +103,24 @@ do
 				done < $LIST
 				cd $DIR/../../$VAR
 			else
-				echo "  -- skipping panel/"$CONTEXT
+				echo "  ** skipping panel/"$CONTEXT
 			fi
 		done
 	done
 done
 echo "Done."
+
+
+# # HiDPI
+# for SCALE in "${SCALES[@]}"
+# do
+# 	for SIZE in "${SIZES[@]}"
+# 	do
+# 		echo "  -- Linking HiDPI icons for "$SIZE""$SCALE"..."
+# 		cd $DIR/../../$THEME/
+# 		ln -fs $SIZE $SIZE$SCALE
+# 	done
+# done
 
 
 # echo $DIR
