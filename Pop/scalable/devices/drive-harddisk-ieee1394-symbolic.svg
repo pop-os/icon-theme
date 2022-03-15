@@ -4,11 +4,12 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-305 215.035)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(24 -163.003)'>
-            <path d='M289.5-47a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm0 1a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zM288-41h3v1h-3zM288-39h3v1h-3z' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
-            <path d='M234.674 166.741h3v1h-3zM234.674 168.741h3v1h-3z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='rotate(-45)'/>
-            <path d='M171.741-242.674h3v3h-3z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='rotate(45)'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-301 227)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(20 -174.969)'>
+            <path d='M289.5-47a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm0 1a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zM288-41h3v1h-3zM288-39h3v1h-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none'/>
+            <path d='M234.674 166.741h3v1h-3zM234.674 168.741h3v1h-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='rotate(-45)'/>
+            <path d='M171.741-242.674h3v3h-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='rotate(45)'/>
+            <path d='M281 36.031h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='scale(1 -1)'/>
         </g>
     </g>
 </svg>

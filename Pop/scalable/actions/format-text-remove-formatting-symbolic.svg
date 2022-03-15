@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M485 40.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-485 -40.997)'/>
-            <path d='M65.64 288.637a1 1 0 0 0-1 1 1 1 0 0 0 .356.763 1 1 0 0 0 .008.006l4.627 4.627c-.765.089-1.438.428-1.881.932a3.017 3.017 0 0 0-.75 2.031c.006.72.269 1.453.781 2.031.513.579 1.31.97 2.219.97h5.594l1.982 1.98.014.015a1 1 0 0 0 .77.364 1 1 0 0 0 1-1 1 1 0 0 0-.372-.778l-12.564-12.562a1 1 0 0 0-.014-.016 1 1 0 0 0-.77-.363Zm4.766 2.36 2 2H74c.428 0 1 .613 1 1v1h-.594L77 297.59v-3.594a3 3 0 0 0-3-3zm-.406 6h1.594l2 2H70c-.398 0-.567-.11-.719-.282a1.144 1.144 0 0 1-.281-.719c-.002-.28.105-.553.25-.719.145-.165.328-.28.75-.28z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:.00100002;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='translate(-64 -287.997)'/>
+            <path d='M485 40.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-485 -40.997)'/>
+            <path d='M65.64 288.637a1 1 0 0 0-1 1 1 1 0 0 0 .356.763 1 1 0 0 0 .008.006l4.627 4.627c-.765.089-1.438.428-1.881.932a3.017 3.017 0 0 0-.75 2.031c.006.72.269 1.453.781 2.031.513.579 1.31.97 2.219.97h5.594l1.982 1.98.014.015a1 1 0 0 0 .77.364 1 1 0 0 0 1-1 1 1 0 0 0-.372-.778l-12.564-12.562a1 1 0 0 0-.014-.016 1 1 0 0 0-.77-.363Zm4.766 2.36 2 2H74c.428 0 1 .613 1 1v1h-.594L77 297.59v-3.594a3 3 0 0 0-3-3zm-.406 6h1.594l2 2H70c-.398 0-.567-.11-.719-.282a1.144 1.144 0 0 1-.281-.719c-.002-.28.105-.553.25-.719.145-.165.328-.28.75-.28z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='translate(-64 -287.997)'/>
         </g>
     </g>
 </svg>

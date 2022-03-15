@@ -4,10 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-345 235.003)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-140 -56)'>
-            <path d='M-501 163.003h16v16h-16z' style='fill:none;stroke:none' transform='scale(-1)'/>
-            <path d='M107.004 339.004s-1-.003-1 1L106 344h-2v2h16v-2h-2l.004-3.996c.001-1.003-1-1-1-1h-10zM108 341h8l-.004 3h-8zm-1.996 6v5.004s0 1 1 1h10c1 0 1-1 1-1V347H116v4h-8v-4z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(381 -517)'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-341 247)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-144 -67.997)'>
+            <path d='M-501 163.003h16v16h-16z' style='opacity:1;fill:gray;fill-opacity:.0117647;stroke:none' transform='scale(-1)'/>
+            <path d='M107.004 339.004s-1-.003-1 1L106 344h-2v2h16v-2h-2l.004-3.996c.001-1.003-1-1-1-1h-10zM108 341h8l-.004 3h-8zm-1.996 6v5.004s0 1 1 1h10c1 0 1-1 1-1V347H116v4h-8v-4z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(381 -517)'/>
         </g>
     </g>
 </svg>

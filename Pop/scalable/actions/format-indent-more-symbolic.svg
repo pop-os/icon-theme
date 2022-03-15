@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M-361.001-56.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='rotate(180 -172.5 -20.498)'/>
-            <path d='M346 46v6l5-3z' style='fill:#4c5263;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' transform='translate(-345 -40.997)'/>
-            <path d='M347 41.996 359 42a1 1 0 0 1 1 1 1 1 0 0 1-1 1l-11.933-.004A1 1 0 0 1 347 44a1 1 0 0 1-1-1 1 1 0 0 1 1-1zM359 46a1 1 0 0 1 1 1 1 1 0 0 1-1 1v.004L353 48a1 1 0 0 1-1-1 1 1 0 0 1 1-1l5.934.004A1 1 0 0 1 359 46zm0 4a1 1 0 0 1 1 1 1 1 0 0 1-1 1v.004L353 52a1 1 0 0 1-1-1 1 1 0 0 1 1-1l5.934.004A1 1 0 0 1 359 50zm-12 3.996L359 54a1 1 0 0 1 1 1 1 1 0 0 1-1 1l-11.933-.004A1 1 0 0 1 347 56a1 1 0 0 1-1-1 1 1 0 0 1 1-1z' style='display:inline;opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-345 -40.997)'/>
+            <path d='M-361.001-56.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='rotate(180 -172.5 -20.498)'/>
+            <path d='M346 46v6l5-3z' style='fill:#232323;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' transform='translate(-345 -40.997)'/>
+            <path d='M347 41.996 359 42a1 1 0 0 1 1 1 1 1 0 0 1-1 1l-11.933-.004A1 1 0 0 1 347 44a1 1 0 0 1-1-1 1 1 0 0 1 1-1zM359 46a1 1 0 0 1 1 1 1 1 0 0 1-1 1v.004L353 48a1 1 0 0 1-1-1 1 1 0 0 1 1-1l5.934.004A1 1 0 0 1 359 46zm0 4a1 1 0 0 1 1 1 1 1 0 0 1-1 1v.004L353 52a1 1 0 0 1-1-1 1 1 0 0 1 1-1l5.934.004A1 1 0 0 1 359 50zm-12 3.996L359 54a1 1 0 0 1 1 1 1 1 0 0 1-1 1l-11.933-.004A1 1 0 0 1 347 56a1 1 0 0 1-1-1 1 1 0 0 1 1-1z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-345 -40.997)'/>
         </g>
     </g>
 </svg>

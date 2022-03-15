@@ -5,7 +5,7 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M288 56c-4.406 0-8 3.594-8 8 0 4.406 3.594 8 8 8 4.406 0 8-3.594 8-8 0-4.406-3.594-8-8-8zm-1 4h2v4h2l-3 4.5-3-4.5h2z' style='fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0' transform='translate(-280 -56)'/>
-        <path d='M401-283.375h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-401 283.375)'/>
+        <path d='M288 56c-4.406 0-8 3.594-8 8 0 4.406 3.594 8 8 8 4.406 0 8-3.594 8-8 0-4.406-3.594-8-8-8zm-1 4h2v4h2l-3 4.5-3-4.5h2z' style='fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0' transform='translate(-280 -56)'/>
+        <path d='M401-283.375h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-401 283.375)'/>
     </g>
 </svg>

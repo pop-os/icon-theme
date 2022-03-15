@@ -6,7 +6,7 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M341 257h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-341 -257)'/>
+            <path d='M341 257h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-341 -257)'/>
             <path class='error' d='M332 142.996a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm-1 2h2V151h-2zm0 8.004h2v1.996h-2z' style='fill:#f44336;fill-opacity:1;stroke:none' transform='translate(-324 -141.997)'/>
         </g>
     </g>

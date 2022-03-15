@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M454.963 135a3.014 3.014 0 0 0-2.963 2.996v4c0 .571-.429 1-1 1h-5v2h5c1.645 0 3-1.355 3-3v-4c0-.571.429-1 1-1h3.02A.998.998 0 0 0 458 135h-2zM446 134.996v2h4.625c.17-.729.55-1.355 1.031-1.906a2.86 2.86 0 0 0-.656-.094zm9.375 8c-.17.729-.55 1.355-1.031 1.906.215.05.426.094.656.094h3.02A.998.998 0 0 0 458 143h-1v-.004z' style='color:#bebebe;text-indent:0;text-transform:none;fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-444 -131.997)'/>
-            <path d='M73 278v6l4-3zM73 286v6l4-3z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='matrix(-1 0 0 1 77 -277)'/>
-            <path d='M61 277h16v16H61z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none' transform='matrix(-1 0 0 1 77 -277)'/>
+            <path d='M454.963 135a3.014 3.014 0 0 0-2.963 2.996v4c0 .571-.429 1-1 1h-5v2h5c1.645 0 3-1.355 3-3v-4c0-.571.429-1 1-1h3.02A.998.998 0 0 0 458 135h-2zM446 134.996v2h4.625c.17-.729.55-1.355 1.031-1.906a2.86 2.86 0 0 0-.656-.094zm9.375 8c-.17.729-.55 1.355-1.031 1.906.215.05.426.094.656.094h3.02A.998.998 0 0 0 458 143h-1v-.004z' style='color:#bebebe;text-indent:0;text-transform:none;opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-444 -131.997)'/>
+            <path d='M73 278v6l4-3zM73 286v6l4-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='matrix(-1 0 0 1 77 -277)'/>
+            <path d='M61 277h16v16H61z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none' transform='matrix(-1 0 0 1 77 -277)'/>
         </g>
     </g>
 </svg>

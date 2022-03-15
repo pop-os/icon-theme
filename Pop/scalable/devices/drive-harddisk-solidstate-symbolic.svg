@@ -4,9 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-285 215)'>
-        <g style='display:inline;filter:url(#a);enable-background:new'>
-            <path d='M266-116.035c0-.554.446-1 1-1h12c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1h-12c-.554 0-1-.446-1-1zm10 2a1 1 0 1 0 2 0 1 1 0 0 0-2 0z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='matrix(0 1 1 0 404.035 -480)'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-281 227)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='matrix(0 1 1 0 400.035 -492)'>
+            <path d='M265 103.035h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='scale(1 -1)'/>
+            <path d='M266-116.035c0-.554.446-1 1-1h12c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1h-12c-.554 0-1-.446-1-1zm10 2a1 1 0 1 0 2 0 1 1 0 0 0-2 0z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none'/>
         </g>
     </g>
 </svg>

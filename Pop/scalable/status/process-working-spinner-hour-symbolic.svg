@@ -5,10 +5,10 @@
         </filter>
     </defs>
     <g style='display:inline'>
-        <g style='display:inline;enable-background:new' transform='translate(-525.021 275.003)'>
-            <path d='M525.021-275.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.781;marker:none;enable-background:new'/>
-            <circle cx='533' cy='-267' r='6' style='display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#4c5263;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new'/>
-            <path d='M536-267.5a.5.5 0 0 0-.5-.5H533a1 1 0 0 0 0 2l2.5-1a.5.5 0 0 0 .5-.5z' style='fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1'/>
+        <g style='display:inline;enable-background:new'>
+            <path d='M525.021-275.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1.781;marker:none;enable-background:new' transform='translate(-525.021 275.003)'/>
+            <path d='M533-274c-3.854 0-7 3.146-7 7s3.146 7 7 7 7-3.146 7-7-3.146-7-7-7zm0 2c2.773 0 5 2.227 5 5s-2.227 5-5 5-5-2.227-5-5 2.227-5 5-5z' style='color:#000;fill:#232323;stroke-linecap:round;-inkscape-stroke:none' transform='translate(-525.021 275.003)'/>
+            <path d='M536-267.5a.5.5 0 0 0-.5-.5H533a1 1 0 0 0 0 2l2.5-1a.5.5 0 0 0 .5-.5z' style='fill:#232323;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' transform='translate(-525.021 275.003)'/>
         </g>
     </g>
 </svg>

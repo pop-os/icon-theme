@@ -5,12 +5,10 @@
         </filter>
     </defs>
     <g style='display:inline'>
-        <g style='display:inline;enable-background:new' transform='translate(-684 58)'>
-            <path d='M-700 42h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:.117647;stroke:none;stroke-width:1;marker:none' transform='scale(-1)'/>
-            <rect height='12' ry='2' style='opacity:1;vector-effect:none;fill:none;fill-opacity:.333333;stroke:#4c5263;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1' width='12' x='686' y='-56'/>
-            <path d='M691-54v4l4 2.31' style='fill:none;fill-opacity:.117647;stroke:#4c5263;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
-            <rect height='1' ry='0' style='opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1' width='6' x='689' y='-58'/>
-            <rect height='1' ry='0' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' width='6' x='689' y='-43'/>
+        <g style='display:inline;enable-background:new'>
+            <path d='M-700 42h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='rotate(180 -342 29)'/>
+            <path d='M689 52v1h-1c-1.645 0-3 1.355-3 3v8c0 1.645 1.355 3 3 3h1v1h6v-1h1c1.645 0 3-1.355 3-3v-8c0-1.645-1.355-3-3-3h-1v-1zm-1 3h8c.571 0 1 .429 1 1v8c0 .571-.429 1-1 1h-8c-.571 0-1-.429-1-1v-8c0-.571.429-1 1-1z' style='color:#000;fill:#232323;stroke-linecap:round;-inkscape-stroke:none' transform='translate(-684 -52)'/>
+            <path d='M690-54v4.578l4.5 2.598 1-1.733-3.5-2.021V-54Z' style='color:#000;fill:#232323;-inkscape-stroke:none' transform='translate(-684 58)'/>
         </g>
     </g>
 </svg>

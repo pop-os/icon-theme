@@ -5,10 +5,11 @@
         </filter>
     </defs>
     <g style='display:inline;fill:#4c505c;fill-opacity:1;enable-background:new' transform='translate(-511.968 -508)'>
-        <circle cx='519.968' cy='516.003' r='7' style='opacity:1;vector-effect:none;fill:none;fill-opacity:.107023;stroke:#545454;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
-        <rect height='1' ry='.5' style='opacity:1;vector-effect:none;fill:#545454;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' width='12' x='513.968' y='513.003'/>
-        <rect height='1' ry='.5' style='opacity:1;vector-effect:none;fill:#545454;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' width='12' x='513.968' y='518.003'/>
-        <ellipse cx='519.968' cy='516.003' rx='3.5' ry='6.5' style='opacity:.5;vector-effect:none;fill:none;fill-opacity:1;stroke:#545454;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.973244'/>
-        <rect height='14' ry='.5' style='opacity:.5;vector-effect:none;fill:#545454;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.973244' width='2' x='518.968' y='509.003'/>
+        <path d='M512 508h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.0117647;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
+        <circle cx='519.968' cy='516.003' r='7' style='opacity:1;vector-effect:none;fill:none;fill-opacity:.107023;stroke:#232323;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+        <rect height='1' ry='.5' style='opacity:.35;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' width='12' x='513.968' y='513.003'/>
+        <rect height='1' ry='.5' style='opacity:.35;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' width='12' x='513.968' y='518.003'/>
+        <ellipse cx='519.968' cy='516.003' rx='3.5' ry='6.5' style='opacity:.35;vector-effect:none;fill:none;fill-opacity:1;stroke:#232323;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+        <rect height='14' ry='.5' style='opacity:.35;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.973244' width='2' x='518.968' y='509.003'/>
     </g>
 </svg>

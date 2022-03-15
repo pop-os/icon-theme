@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M48 398h16v16H48z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-48 -398)'/>
-            <path d='M546 168v1c0 .55.453 1 1 1a9 9 0 0 1 9 9c0 .55.453 1 1 1h1v-1c0-6.075-4.925-11-11-11zm0 4v1c0 .55.453 1 1 1a5 5 0 0 1 5 5c0 .55.453 1 1 1h1v-1a7 7 0 0 0-7-7zm2 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69603;marker:none;enable-background:new' transform='translate(-544 -165.997)'/>
+            <path d='M48 398h16v16H48z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-48 -398)'/>
+            <path d='M546 168v1c0 .55.453 1 1 1a9 9 0 0 1 9 9c0 .55.453 1 1 1h1v-1c0-6.075-4.925-11-11-11zm0 4v1c0 .55.453 1 1 1a5 5 0 0 1 5 5c0 .55.453 1 1 1h1v-1a7 7 0 0 0-7-7zm2 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69603;marker:none;enable-background:new' transform='translate(-544 -165.997)'/>
         </g>
     </g>
 </svg>

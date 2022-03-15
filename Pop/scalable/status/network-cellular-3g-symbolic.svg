@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M81 237h16v16H81z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-81 -237)'/>
-            <path d='M81 240.062V250c0 2 2 2 2 2h12c2 0 2-2 2-2v-10s0-2-2-2H83s-2 0-2 2.062zm2-.062h4c.667.016 1.167.838.876 1.438l-1.375 2.78c.354.116.749.196.968.438.333.366.532.81.532 1.344v2c0 1.112-.908 2-2 2h-3v-2h3v-2h-1c-.667-.016-1.167-.838-.875-1.438l1.25-2.562H83zm10 0c2 0 2 2 2 2v1h-2v-1h-2v6h2v-2h-1l.001-1.969 2-.031 1 .031v3.938s0 2.031-2 2.031h-2s-2 0-2-2v-6c0-2 2-2 2-2z' style='color:#bebebe;fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-81 -237)'/>
+            <path d='M81 237h16v16H81z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-81 -237)'/>
+            <path d='M81 240.062V250c0 2 2 2 2 2h12c2 0 2-2 2-2v-10s0-2-2-2H83s-2 0-2 2.062zm2-.062h4c.667.016 1.167.838.876 1.438l-1.375 2.78c.354.116.749.196.968.438.333.366.532.81.532 1.344v2c0 1.112-.908 2-2 2h-3v-2h3v-2h-1c-.667-.016-1.167-.838-.875-1.438l1.25-2.562H83zm10 0c2 0 2 2 2 2v1h-2v-1h-2v6h2v-2h-1l.001-1.969 2-.031 1 .031v3.938s0 2.031-2 2.031h-2s-2 0-2-2v-6c0-2 2-2 2-2z' style='color:#bebebe;opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-81 -237)'/>
         </g>
     </g>
 </svg>

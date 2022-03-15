@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M519.003-381h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -365 535.003)'/>
-            <path d='M52.004 113.008c-2.896 0-5.791 1.104-8 3.312l6.55 7.932h.003c.13.136.283.243.443.336V123h3.48l5.524-6.68a11.283 11.283 0 0 0-8-3.312z' style='display:inline;opacity:.35;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-44.003 -112.002)'/>
-            <path d='M380.997-522.005a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.313725;enable-background:new' transform='translate(-365 535.003)'/>
+            <path d='M519.003-381h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -365 535.003)'/>
+            <path d='M52.004 113.008c-2.896 0-5.791 1.104-8 3.312l6.55 7.932h.003c.13.136.283.243.443.336V123h3.48l5.524-6.68a11.283 11.283 0 0 0-8-3.312z' style='display:inline;opacity:.35;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-44.003 -112.002)'/>
+            <path d='M380.997-522.005a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z' style='display:inline;opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.313725;enable-background:new' transform='translate(-365 535.003)'/>
         </g>
     </g>
 </svg>

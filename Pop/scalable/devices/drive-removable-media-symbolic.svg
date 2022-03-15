@@ -4,9 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-365 215.035)'>
-        <g style='display:inline;filter:url(#a);enable-background:new'>
-            <path d='M147 355s-2 0-2 2v10s0 2 2 2h10s2 0 2-2v-10c0-2-2-2-2-2zm2 8h6v2h-6zm3-4.5 3 3.5h-6z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(221 -569)'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-361 227)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(96 -107.965)'>
+            <path d='M265 103.035h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='scale(1 -1)'/>
+            <path d='M147 355s-2 0-2 2v10s0 2 2 2h10s2 0 2-2v-10c0-2-2-2-2-2zm2 8h6v2h-6zm3-4.5 3 3.5h-6z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(121 -473)'/>
         </g>
     </g>
 </svg>

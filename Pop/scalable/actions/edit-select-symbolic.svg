@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M566 41h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-566 -41)'/>
-            <path d='M256 394v6a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-3z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-244 -388)'/>
-            <path d='M570 51v-6a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v3z' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-566 -41)'/>
+            <path d='M566 41h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-566 -41)'/>
+            <path d='M256 394v6a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-244 -388)'/>
+            <path d='M570 51v-6a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v3z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-566 -41)'/>
         </g>
     </g>
 </svg>

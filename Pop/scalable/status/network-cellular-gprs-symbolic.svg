@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M41 237h16v16H41z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-41 -237)'/>
-            <path d='M44 238s-2 0-2 2.062V250c0 2 2 2 2 2h10c2 0 2-2 2-2v-10s0-2-2-2zm3 2h4c2 0 2.052 2.351 2 2v1h-2v-1h-4v6h4v-1h-2v-2h4v3s0 2-2 2h-4s-2 0-2-2v-6c0-2 2-2 2-2z' style='color:#bebebe;fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-41 -237)'/>
+            <path d='M41 237h16v16H41z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-41 -237)'/>
+            <path d='M44 238s-2 0-2 2.062V250c0 2 2 2 2 2h10c2 0 2-2 2-2v-10s0-2-2-2zm3 2h4c2 0 2.052 2.351 2 2v1h-2v-1h-4v6h4v-1h-2v-2h4v3s0 2-2 2h-4s-2 0-2-2v-6c0-2 2-2 2-2z' style='color:#bebebe;opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-41 -237)'/>
         </g>
     </g>
 </svg>

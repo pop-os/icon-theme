@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M-297-11h16V5h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 -1 -1 0 5 -281)'/>
-            <path d='M283-5.003a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm9.063-4.06L286-3l6.063 6.063C293.5 4.5 294.75 3 293.688 1.938L288.75-3l4.938-4.937c.812-.813-.438-2.313-1.625-1.125z' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:.666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='rotate(90 143 -138)'/>
+            <path d='M-297-11h16V5h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 -1 -1 0 5 -281)'/>
+            <path d='M283-5.003a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm9.063-4.06L286-3l6.063 6.063C293.5 4.5 294.75 3 293.688 1.938L288.75-3l4.938-4.937c.812-.813-.438-2.313-1.625-1.125z' style='display:inline;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='rotate(90 143 -138)'/>
         </g>
     </g>
 </svg>

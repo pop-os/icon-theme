@@ -6,9 +6,13 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M48 398h16v16H48z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:.514644;fill:none;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-48 -398)'/>
-            <path d='M206 735.994c-.5 0-1 .5-1 1v4c0 .5.5 1 1 1h1v-2h10v2h1c.5 0 1-.5 1-1v-4c0-.5-.5-1-1-1zm2 1.006c.554 0 1 .446 1 1s-.446 1-1 1-1-.446-1-1 .446-1 1-1z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-204 -731.993)'/>
-            <path d='M4 1v2h8V1ZM4 9v5h8V9Z' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+            <g style='opacity:1;fill:#4c5263;fill-opacity:1'>
+                <path d='M48 398h16v16H48z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-48 -398)'/>
+            </g>
+            <g style='fill:#4c5263;fill-opacity:1'>
+                <path d='M206 735.994c-.5 0-1 .5-1 1v4c0 .5.5 1 1 1h1v-2h10v2h1c.5 0 1-.5 1-1v-4c0-.5-.5-1-1-1zm2 1.006c.554 0 1 .446 1 1s-.446 1-1 1-1-.446-1-1 .446-1 1-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-204 -731.993)'/>
+                <path d='M4 1v2h8V1ZM4 9v5h8V9Z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none'/>
+            </g>
         </g>
     </g>
 </svg>

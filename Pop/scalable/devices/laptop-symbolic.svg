@@ -4,10 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-365 235.003)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-16 67.997)'>
-            <path d='M381-303h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
-            <path d='M102 398.003c-1 0-1 1-1 1v9s0 1 1 1h12s1 0 1-1v-9s0-1-1-1zm1 2h10v7l-10-.024zm-3 10V411h16v-.997c0-1-1-1-1-1h-14.022s-.978 0-.978 1z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(281 -699)'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-361 247)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-20 56)'>
+            <path d='M381-303h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
+            <path d='M102 398.003c-1 0-1 1-1 1v9s0 1 1 1h12s1 0 1-1v-9s0-1-1-1zm1 2h10v7l-10-.024zm-3 10V411h16v-.997c0-1-1-1-1-1h-14.022s-.978 0-.978 1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(281 -699)'/>
         </g>
     </g>
 </svg>

@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M405-255.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-405 255.003)'/>
-            <path d='M11 1.003v3H8v2h3v3h2v-3h3v-2h-3v-3z' fill='#4c5263'/>
-            <path d='M1 4.574v9.929c0 .5.5.5.5.5h11s.5 0 .5-.5v-3.5h-2v2.002H3V8.003h3v-4H1.5s-.5.016-.5.57z' fill='#4c5263'/>
+            <path d='M405-255.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-405 255.003)'/>
+            <path d='M416-254v3h-3v2h3v3h2v-3h3v-2h-3v-3z' fill='#4c5263' style='opacity:1;fill:#232323;fill-opacity:1' transform='translate(-405 255.003)'/>
+            <path d='M406-250.43v9.93c0 .5.5.5.5.5h11s.5 0 .5-.5v-3.5h-2v2.002h-8V-247h3v-4h-4.5s-.5.016-.5.57z' fill='#4c5263' style='opacity:1;fill:#232323;fill-opacity:1' transform='translate(-405 255.003)'/>
         </g>
     </g>
 </svg>

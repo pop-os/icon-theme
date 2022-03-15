@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M321 177h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-321 -177)'/>
-            <path d='m326 189 3 4 3-4Z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-321 -177)'/>
-            <path d='M68 596a5 5 0 1 0 0 10 5 5 0 0 0 0-10z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;enable-background:accumulate' transform='translate(-60 -596)'/>
+            <path d='M321 177h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-321 -177)'/>
+            <path d='m326 189 3 4 3-4Z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-321 -177)'/>
+            <path d='M68 596a5 5 0 1 0 0 10 5 5 0 0 0 0-10z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;enable-background:accumulate' transform='translate(-60 -596)'/>
         </g>
     </g>
 </svg>

@@ -5,8 +5,8 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M484 530.99v7h12.02zm2 3.054 3.116 1.977H486z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-484 -527.997)'/>
-        <path d='M484 527.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-484 -527.997)'/>
-        <path d='M486 558c-2 0-2 2-2 2h14v9l-8.418-.016c-.028.005-.053.016-.082.016H484s0 2 2 2h12s2 0 2-2v-9s0-2-2-2h-12zm1.979 14s-.979 0-.979 1v.996h10V573c0-1-1-1-1-1z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-484 -557.997)'/>
+        <path d='M484 530.99v7h12.02zm2 3.054 3.116 1.977H486z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-484 -527.997)'/>
+        <path d='M484 527.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-484 -527.997)'/>
+        <path d='M486 558c-2 0-2 2-2 2h14v9l-8.418-.016c-.028.005-.053.016-.082.016H484s0 2 2 2h12s2 0 2-2v-9s0-2-2-2h-12zm1.979 14s-.979 0-.979 1v.996h10V573c0-1-1-1-1-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-484 -557.997)'/>
     </g>
 </svg>

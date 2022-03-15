@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M269 142s-2 0-2 2v4.5l7.75 7.25 6-6-7.25-7.75zm1 2a1 1 0 1 1 0 2 1 1 0 0 1 0-2z' style='fill:#4c5263;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' transform='translate(-265 -141)'/>
+            <path d='M269 142s-2 0-2 2v4.5l7.75 7.25 6-6-7.25-7.75zm1 2a1 1 0 1 1 0 2 1 1 0 0 1 0-2z' style='fill:#232323;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' transform='translate(-265 -141)'/>
             <g style='display:inline'>
-                <path d='M228 996h16v16h-16z' style='color:#ddd;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-228 -996)'/>
+                <path d='M228 996h16v16h-16z' style='color:#ddd;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-228 -996)'/>
             </g>
         </g>
     </g>

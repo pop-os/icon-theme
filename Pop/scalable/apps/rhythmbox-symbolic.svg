@@ -5,7 +5,7 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M261-110h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='matrix(1 0 0 -1 -261 -94)'/>
-        <path d='M265-110.004c-2 0-2 2-2 2v11c0 2 1.893 1.997 2 2h8s2-.004 2-2v-11c0-2-2-2-2-2zm7 .75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5zm-3 4.25a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='matrix(1 0 0 -1 -261 -94)'/>
+        <path d='M261-110h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='matrix(1 0 0 -1 -261 -94)'/>
+        <path d='M265-110.004c-2 0-2 2-2 2v11c0 2 1.893 1.997 2 2h8s2-.004 2-2v-11c0-2-2-2-2-2zm7 .75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5zm-3 4.25a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='matrix(1 0 0 -1 -261 -94)'/>
     </g>
 </svg>

@@ -5,13 +5,10 @@
         </filter>
     </defs>
     <g style='display:inline'>
-        <g style='display:inline;enable-background:new' transform='matrix(1 0 0 -1 -265 38)'>
-            <path d='M265-38h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:.117647;stroke:none;stroke-width:1;marker:none' transform='scale(1 -1)'/>
-            <path d='M-281 22h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:.117647;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='scale(-1 1)'/>
-            <rect height='12' ry='2' style='display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:.333333;stroke:#4c5263;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' transform='scale(1 -1)' width='12' x='267' y='-36'/>
-            <path d='M272 34v-4l4-2.309' style='display:inline;fill:none;fill-opacity:.117647;stroke:#4c5263;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new'/>
-            <rect height='1' ry='0' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' transform='scale(1 -1)' width='6' x='270' y='-38'/>
-            <rect height='1' ry='0' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' transform='scale(1 -1)' width='6' x='270' y='-23'/>
+        <g style='display:inline;enable-background:new'>
+            <path d='M265-38h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-265 38)'/>
+            <path d='M289 712v1h-1c-1.645 0-3 1.355-3 3v8c0 1.645 1.355 3 3 3h1v1h6v-1h1c1.645 0 3-1.355 3-3v-8c0-1.645-1.355-3-3-3h-1v-1zm-1 3h8c.571 0 1 .429 1 1v8c0 .571-.429 1-1 1h-8c-.571 0-1-.429-1-1v-8c0-.571.429-1 1-1z' style='color:#000;fill:#232323;stroke-linecap:round;-inkscape-stroke:none' transform='translate(-284 -712)'/>
+            <path d='m275.5 26.824-4.5 2.6V34h2v-3.422l3.5-2.021z' style='color:#000;fill:#232323;-inkscape-stroke:none' transform='matrix(1 0 0 -1 -265 38)'/>
         </g>
     </g>
 </svg>

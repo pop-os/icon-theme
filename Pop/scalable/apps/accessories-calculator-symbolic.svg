@@ -5,9 +5,9 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M926 53s-2 0-2 2v11s0 2 2 2h11s2 0 2-2V55c0-2-2-2-2-2zm0 2h5v5h-5zm6 0h5v5h-5zm1.5 1a.499.499 0 0 0-.354.854l.647.646-.647.646a.499.499 0 1 0 .707.707l.647-.646.646.647a.499.499 0 1 0 .707-.707l-.646-.647.647-.646a.499.499 0 1 0-.707-.707l-.647.646-.646-.647A.498.498 0 0 0 933.5 56Zm-7.5 5h5v5h-5zm7 1h3v1h-3zm0 2h3v1h-3z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-924 -52)'/>
-        <path d='M564 480h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-564 -480)'/>
-        <path d='M928 56v1h-1v1h1v1h1v-1h1v-1h-1v-1z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-924 -52)'/>
-        <path d='M567 491h3v1h-3z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-564 -480)'/>
+        <path d='M564 480h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-564 -480)'/>
+        <path d='M926 53s-2 0-2 2v11s0 2 2 2h11s2 0 2-2V55c0-2-2-2-2-2zm0 2h5v5h-5zm6 0h5v5h-5zm1.5 1a.499.499 0 0 0-.354.854l.647.646-.647.646a.499.499 0 1 0 .707.707l.647-.646.646.647a.499.499 0 1 0 .707-.707l-.646-.647.647-.646a.499.499 0 1 0-.707-.707l-.647.646-.646-.647A.498.498 0 0 0 933.5 56Zm-7.5 5h5v5h-5zm7 1h3v1h-3zm0 2h3v1h-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-924 -52)'/>
+        <path d='M928 56v1h-1v1h1v1h1v-1h1v-1h-1v-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-924 -52)'/>
+        <path d='M567 491h3v1h-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-564 -480)'/>
     </g>
 </svg>

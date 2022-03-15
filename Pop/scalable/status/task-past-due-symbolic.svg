@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M-401.032-215.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -385.032 215.003)'/>
-            <path d='M152 282c-1.069-.028-2.028.931-2 2h-4s-1 0-1 1v11c0 1 1 1 1 1h8v-3h-6v-1h6v-1h5v-7c0-1-1-1-1-1h-4c.047-1.082-.93-2.022-2-2zm0 1c.837-.03 1.354 1.153.719 1.719-.543.602-1.678.184-1.719-.625-.072-.573.423-1.108 1-1.094zm-4 4h8v1h-8zm0 3h8v1h-8z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:.35;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate' transform='translate(-144.031 -281.997)'/>
-            <path d='M396-204v1c0 .276.1.538.281.719l.782.781-.782.781a1.015 1.015 0 0 0-.28.719v1h1c.275 0 .537-.1.718-.281l.781-.781.781.78c.181.182.443.282.72.282h1v-1c0-.276-.101-.538-.282-.719l-.781-.781.781-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.78.781-.782-.78A1.015 1.015 0 0 0 397-204Z' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-385.032 215.003)'/>
+            <path d='M-401.032-215.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -385.032 215.003)'/>
+            <path d='M152 282c-1.069-.028-2.028.931-2 2h-4s-1 0-1 1v11c0 1 1 1 1 1h8v-3h-6v-1h6v-1h5v-7c0-1-1-1-1-1h-4c.047-1.082-.93-2.022-2-2zm0 1c.837-.03 1.354 1.153.719 1.719-.543.602-1.678.184-1.719-.625-.072-.573.423-1.108 1-1.094zm-4 4h8v1h-8zm0 3h8v1h-8z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate' transform='translate(-144.031 -281.997)'/>
+            <path d='M396-204v1c0 .276.1.538.281.719l.782.781-.782.781a1.015 1.015 0 0 0-.28.719v1h1c.275 0 .537-.1.718-.281l.781-.781.781.78c.181.182.443.282.72.282h1v-1c0-.276-.101-.538-.282-.719l-.781-.781.781-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.78.781-.782-.78A1.015 1.015 0 0 0 397-204Z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-385.032 215.003)'/>
         </g>
     </g>
 </svg>

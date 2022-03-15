@@ -4,10 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-465 235.003)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='rotate(90 622.002 325.998)'>
-            <path d='M61 467h16v16H61z' style='fill:none;stroke:none'/>
-            <path d='M63.004 481c0 1.108.892 2 2 2h9c1.108 0 2-.892 2-2v-11c0-1.108-.892-2-2-2h-9c-1.108 0-2 .892-2 2zm2 0v-11h5v11zm6-1v-4h3v4c0 .554-.446 1-1 1h-1c-.554 0-1-.446-1-1zm0-5v-4c0-.554.446-1 1-1h1c.554 0 1 .446 1 1v4z' style='display:inline;opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-461 247)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='rotate(90 626 318)'>
+            <path d='M61 467h16v16H61z' style='opacity:1;fill:gray;fill-opacity:.0117647;stroke:none'/>
+            <path d='M63.004 481c0 1.108.892 2 2 2h9c1.108 0 2-.892 2-2v-11c0-1.108-.892-2-2-2h-9c-1.108 0-2 .892-2 2zm2 0v-11h5v11zm6-1v-4h3v4c0 .554-.446 1-1 1h-1c-.554 0-1-.446-1-1zm0-5v-4c0-.554.446-1 1-1h1c.554 0 1 .446 1 1v4z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new'/>
         </g>
     </g>
 </svg>

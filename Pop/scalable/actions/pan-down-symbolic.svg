@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='m110 760-5-5 5-5z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='rotate(-90 -315.5 431.5)'/>
-            <path d='M-116 747h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 1 1 0 -747 116)'/>
+            <path d='m110 760-5-5 5-5z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='rotate(-90 -315.5 431.5)'/>
+            <path d='M-116 747h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 1 1 0 -747 116)'/>
         </g>
     </g>
 </svg>

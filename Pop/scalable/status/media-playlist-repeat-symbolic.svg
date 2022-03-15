@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M428 94.996c-1.645 0-3 1.355-3 3v4c0 1.645 1.355 3 3 3h8a3.016 3.016 0 0 0 3-2.996v-4.004a3.016 3.016 0 0 0-2.996-3c-.002 0-.004.002-.004.004a.998.998 0 0 0-.02 1.996h.02c.571 0 1 .429 1 1v4c0 .571-.429 1-1 1H428c-.571 0-1-.429-1-1v-4c0-.571.429-1 1-1h3v-2z' style='color:#000;text-indent:0;text-transform:none;fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-424 -91.997)'/>
-            <path d='m51 281-4-3v6z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-41 -277)'/>
-            <path d='M41 277h16v16H41z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none' transform='translate(-41 -277)'/>
+            <path d='M428 94.996c-1.645 0-3 1.355-3 3v4c0 1.645 1.355 3 3 3h8a3.016 3.016 0 0 0 3-2.996v-4.004a3.016 3.016 0 0 0-2.996-3c-.002 0-.004.002-.004.004a.998.998 0 0 0-.02 1.996h.02c.571 0 1 .429 1 1v4c0 .571-.429 1-1 1H428c-.571 0-1-.429-1-1v-4c0-.571.429-1 1-1h3v-2z' style='color:#000;text-indent:0;text-transform:none;opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-424 -91.997)'/>
+            <path d='m51 281-4-3v6z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-41 -277)'/>
+            <path d='M41 277h16v16H41z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none' transform='translate(-41 -277)'/>
         </g>
     </g>
 </svg>

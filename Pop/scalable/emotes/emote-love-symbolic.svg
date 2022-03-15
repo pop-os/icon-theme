@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M661-197h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-661 197)'/>
-            <path d='M424.781 310c-2.082 0-3.781 1.675-3.781 3.75 0 1.08.456 2.065 1.188 2.75l5.718 5.5 5.906-5.5a3.765 3.765 0 0 0 1.188-2.75c0-2.075-1.7-3.75-3.781-3.75-1.372 0-2.56.721-3.219 1.813a3.741 3.741 0 0 0-3.219-1.813Z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-420 -308)'/>
+            <path d='M661-197h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-661 197)'/>
+            <path d='M424.781 310c-2.082 0-3.781 1.675-3.781 3.75 0 1.08.456 2.065 1.188 2.75l5.718 5.5 5.906-5.5a3.765 3.765 0 0 0 1.188-2.75c0-2.075-1.7-3.75-3.781-3.75-1.372 0-2.56.721-3.219 1.813a3.741 3.741 0 0 0-3.219-1.813Z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-420 -308)'/>
         </g>
     </g>
 </svg>

@@ -1,0 +1,15 @@
+<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <defs>
+        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
+            <feBlend in2='BackgroundImage' mode='darken'/>
+        </filter>
+    </defs>
+    <g style='display:inline'>
+        <g style='display:inline;enable-background:new' transform='translate(-341 -257)'>
+            <g style='color:#bebebe;display:inline;visibility:visible;fill:none;stroke:none;stroke-width:1.78125;marker:none'>
+                <path d='M40 518h16v16H40z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(301 -261)'/>
+            </g>
+            <circle cx='349' cy='265.003' r='6' style='opacity:1;fill:none;fill-opacity:1;stroke:#232323;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/>
+        </g>
+    </g>
+</svg>

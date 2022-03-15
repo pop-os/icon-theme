@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M545 81h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-545 -81)'/>
-            <path d='M607 269c-1.108 0-2 .892-2 2v2a1 1 0 0 0 1 1 1 1 0 0 0 1-.994 1 1 0 0 0 0-.006v-2h10v10h-10v-2a1 1 0 0 0-1-1 1 1 0 0 0-1 .994 1 1 0 0 0 0 .006v2c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2v-10c0-1.108-.892-2-2-2z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-604 -268)'/>
-            <path d='M610.52 271.713a.98.98 0 0 0-.98.98.98.98 0 0 0 .288.692l-.002.002 1.635 1.635L605 275a1 1 0 0 0-1 1 1 1 0 0 0 1 1l6.46.021-1.624 1.624-.01.01a.98.98 0 0 0-.287.693.98.98 0 0 0 .98.98.98.98 0 0 0 .692-.287l4.002-4.041-3.977-3.975-.013-.015a.98.98 0 0 0-.012-.01.98.98 0 0 0-.691-.287z' style='fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-604 -268)'/>
+            <path d='M545 81h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-545 -81)'/>
+            <path d='M607 269c-1.108 0-2 .892-2 2v2a1 1 0 0 0 1 1 1 1 0 0 0 1-.994 1 1 0 0 0 0-.006v-2h10v10h-10v-2a1 1 0 0 0-1-1 1 1 0 0 0-1 .994 1 1 0 0 0 0 .006v2c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2v-10c0-1.108-.892-2-2-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-604 -268)'/>
+            <path d='M610.52 271.713a.98.98 0 0 0-.98.98.98.98 0 0 0 .288.692l-.002.002 1.635 1.635L605 275a1 1 0 0 0-1 1 1 1 0 0 0 1 1l6.46.021-1.624 1.624-.01.01a.98.98 0 0 0-.287.693.98.98 0 0 0 .98.98.98.98 0 0 0 .692-.287l4.002-4.041-3.977-3.975-.013-.015a.98.98 0 0 0-.012-.01.98.98 0 0 0-.691-.287z' style='opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-604 -268)'/>
         </g>
     </g>
 </svg>

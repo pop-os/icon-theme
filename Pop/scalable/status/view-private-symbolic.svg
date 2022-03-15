@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M285-251h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-285 251)'/>
-            <path d='M48 230a3 3 0 0 0 0 6c1.559 0 2.822-1.198 2.969-2.719.3-.179.656-.281 1.031-.281.375 0 .732.102 1.031.281.147 1.52 1.41 2.719 2.969 2.719a3 3 0 0 0 0-6c-1.391 0-2.535.966-2.875 2.25-.352-.145-.721-.25-1.125-.25s-.773.105-1.125.25c-.34-1.284-1.484-2.25-2.875-2.25Zm0 1.25a1.75 1.75 0 1 1 0 3.5 1.75 1.75 0 0 1 0-3.5zm8 0a1.75 1.75 0 1 1 0 3.5 1.75 1.75 0 0 1 0-3.5zM48 223l-.75 3h9.5l-.75-3-4 .5zm-1 4-3 2h16l-3-2z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-44 -222)'/>
+            <path d='M285-251h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-285 251)'/>
+            <path d='M48 230a3 3 0 0 0 0 6c1.559 0 2.822-1.198 2.969-2.719.3-.179.656-.281 1.031-.281.375 0 .732.102 1.031.281.147 1.52 1.41 2.719 2.969 2.719a3 3 0 0 0 0-6c-1.391 0-2.535.966-2.875 2.25-.352-.145-.721-.25-1.125-.25s-.773.105-1.125.25c-.34-1.284-1.484-2.25-2.875-2.25Zm0 1.25a1.75 1.75 0 1 1 0 3.5 1.75 1.75 0 0 1 0-3.5zm8 0a1.75 1.75 0 1 1 0 3.5 1.75 1.75 0 0 1 0-3.5zM48 223l-.75 3h9.5l-.75-3-4 .5zm-1 4-3 2h16l-3-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-44 -222)'/>
         </g>
     </g>
 </svg>

@@ -5,9 +5,9 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M345-159.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-345 159.003)'/>
-        <path d='M967 154c-1.108 0-2 .892-2 2v5c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2v-5c0-1.108-.892-2-2-2H971.238zm0 1h10c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1h-10c-.554 0-1-.446-1-1v-5c0-.554.446-1 1-1z' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' transform='translate(-964.031 -151.997)'/>
-        <path d='m356.969-148-2 2-2-2z' style='display:inline;opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new' transform='translate(-345 159.003)'/>
-        <path d='M348.969-154h8v1h-8zM348.969-152h8v1h-8z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:.1' transform='translate(-345 159.003)'/>
+        <path d='M345-159.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-345 159.003)'/>
+        <path d='M967 154c-1.108 0-2 .892-2 2v5c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2v-5c0-1.108-.892-2-2-2H971.238zm0 1h10c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1h-10c-.554 0-1-.446-1-1v-5c0-.554.446-1 1-1z' style='display:inline;opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' transform='translate(-964.031 -151.997)'/>
+        <path d='m356.969-148-2 2-2-2z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new' transform='translate(-345 159.003)'/>
+        <path d='M348.969-154h8v1h-8zM348.969-152h8v1h-8z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1' transform='translate(-345 159.003)'/>
     </g>
 </svg>

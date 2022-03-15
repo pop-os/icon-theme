@@ -7,9 +7,9 @@
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
             <g style='color:#bebebe;display:inline;visibility:visible;fill:none;stroke:none;stroke-width:1.78125;marker:none'>
-                <path d='M40 518h16v16H40z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-40 -518)'/>
+                <path d='M40 518h16v16H40z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-40 -518)'/>
             </g>
-            <path d='M529.5-37a2.5 2.5 0 0 0 0 5c.446 0 .856-.14 1.219-.344l1.969 1.844-1.97 1.843A2.473 2.473 0 0 0 529.5-29a2.5 2.5 0 1 0 2.5 2.5c0-.23-.036-.446-.094-.657l2.125-2.062 4.47 4.219h1.5v-1l-8.095-7.844A2.46 2.46 0 0 0 532-34.5a2.5 2.5 0 0 0-2.5-2.5zm0 1.5a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm9-.5-3.937 3.718L535.875-31 540-35v-1zm-9 8.5a1 1 0 1 1 0 2 1 1 0 0 1 0-2z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-525 39.007)'/>
+            <path d='M529.5-37a2.5 2.5 0 0 0 0 5c.446 0 .856-.14 1.219-.344l1.969 1.844-1.97 1.843A2.473 2.473 0 0 0 529.5-29a2.5 2.5 0 1 0 2.5 2.5c0-.23-.036-.446-.094-.657l2.125-2.062 4.47 4.219h1.5v-1l-8.095-7.844A2.46 2.46 0 0 0 532-34.5a2.5 2.5 0 0 0-2.5-2.5zm0 1.5a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm9-.5-3.937 3.718L535.875-31 540-35v-1zm-9 8.5a1 1 0 1 1 0 2 1 1 0 0 1 0-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-525 39.007)'/>
         </g>
     </g>
 </svg>

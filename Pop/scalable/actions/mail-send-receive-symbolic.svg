@@ -6,10 +6,10 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new' transform='translate(-301 -57)'>
-            <path d='M301 57h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none'/>
-            <rect height='6' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='4' x='304' y='61'/>
-            <rect height='6' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='4' x='310' y='63'/>
-            <path d='M302 62h8l-4-4zM316 68h-8l4 4z' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
+            <path d='M301 57h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none'/>
+            <rect height='6' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='4' x='304' y='61'/>
+            <rect height='6' ry='0' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='4' x='310' y='63'/>
+            <path d='M302 62h8l-4-4zM316 68h-8l4 4z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none'/>
         </g>
     </g>
 </svg>

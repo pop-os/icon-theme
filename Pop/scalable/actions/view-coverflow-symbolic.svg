@@ -6,12 +6,12 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new' transform='translate(-337 -117)'>
-            <path d='M337 117h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none'/>
-            <rect height='10' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='338' y='120'/>
-            <rect height='8' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='340' y='121'/>
-            <rect height='8' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='349' y='121'/>
-            <rect height='10' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='351' y='120'/>
-            <rect height='6' ry='1' style='display:inline;opacity:1;vector-effect:none;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.313725;enable-background:new' width='6' x='342.001' y='122.003'/>
+            <path d='M337 117h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none'/>
+            <rect height='10' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='338' y='120'/>
+            <rect height='8' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='340' y='121'/>
+            <rect height='8' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='349' y='121'/>
+            <rect height='10' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='351' y='120'/>
+            <rect height='6' ry='1' style='display:inline;opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.313725;enable-background:new' width='6' x='342.001' y='122.003'/>
         </g>
     </g>
 </svg>

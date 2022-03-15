@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M253-4.5 250-8h2v-2h2v2h2z' style='fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-245.003 20.019)'/>
-            <path d='M-20.019 245.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 1 1 0 -245.003 20.019)'/>
-            <path d='m253-19.5-3 3.5h2v2h2v-2h2zM260.5-12l-3.5-3v2h-2v2h2v2zM245.5-12l3.5-3v2h2v2h-2v2z' style='fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-245.003 20.019)'/>
+            <path d='M253-4.5 250-8h2v-2h2v2h2z' style='opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-245.003 20.019)'/>
+            <path d='M-20.019 245.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 1 1 0 -245.003 20.019)'/>
+            <path d='m253-19.5-3 3.5h2v2h2v-2h2zM260.5-12l-3.5-3v2h-2v2h2v2zM245.5-12l3.5-3v2h2v2h-2v2z' style='opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-245.003 20.019)'/>
         </g>
     </g>
 </svg>

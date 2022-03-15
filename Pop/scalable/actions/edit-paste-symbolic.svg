@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M301-45h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(1 0 0 -1 -301 -29)'/>
-            <path d='M309 29.003a2 2 0 0 0-2 2h-3c-1 0-1 1-1 1v11c0 1 1 1 1 1h10s1 0 1-1v-11c0-1-1-1-1-1h-3c0-.138-.005-.276-.031-.406A2.008 2.008 0 0 0 309 29.003zm0 1c.414 0 .754.266.906.625a.94.94 0 0 1 .094.375 1 1 0 1 1-1-1zm-4 3h1v1h6v-1h1v9h-8z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate' transform='translate(-301 -29)'/>
+            <path d='M301-45h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(1 0 0 -1 -301 -29)'/>
+            <path d='M309 29.003a2 2 0 0 0-2 2h-3c-1 0-1 1-1 1v11c0 1 1 1 1 1h10s1 0 1-1v-11c0-1-1-1-1-1h-3c0-.138-.005-.276-.031-.406A2.008 2.008 0 0 0 309 29.003zm0 1c.414 0 .754.266.906.625a.94.94 0 0 1 .094.375 1 1 0 1 1-1-1zm-4 3h1v1h6v-1h1v9h-8z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate' transform='translate(-301 -29)'/>
         </g>
     </g>
 </svg>

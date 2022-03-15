@@ -7,9 +7,9 @@
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
             <g style='color:#bebebe;display:inline;visibility:visible;fill:none;stroke:none;stroke-width:1.78125;marker:none'>
-                <path d='M40 518h16v16H40z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-40 -518)'/>
+                <path d='M40 518h16v16H40z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-40 -518)'/>
             </g>
-            <path d='M292 479.004a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm0 1.996a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-284 -478)'/>
+            <path d='M292 479.004a7 7 0 1 0 0 14 7 7 0 0 0 0-14z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-284 -478)'/>
         </g>
     </g>
 </svg>

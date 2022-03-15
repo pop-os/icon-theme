@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M755 67c-.554 0-1 .446-1 1v2l1.522 1.521a7 7 0 0 1-3.994 4.006L750 74h-2c-.554 0-1 .446-1 1v3c0 .554.446 1 1 1h1a10 10 0 0 0 10-10v-1c0-.554-.446-1-1-1z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-745 -65)'/>
-            <path d='M745 65h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-745 -65)'/>
+            <path d='M755 67c-.554 0-1 .446-1 1v2l1.522 1.521a7 7 0 0 1-3.994 4.006L750 74h-2c-.554 0-1 .446-1 1v3c0 .554.446 1 1 1h1a10 10 0 0 0 10-10v-1c0-.554-.446-1-1-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-745 -65)'/>
+            <path d='M745 65h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-745 -65)'/>
         </g>
     </g>
 </svg>

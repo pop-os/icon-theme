@@ -5,9 +5,9 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M42-42h16v16H42z' style='fill:none;stroke:none' transform='translate(-42 42)'/>
-        <path d='M52-26h5s.335-1 0-2c-.18.157-1.566 1-2.5 1-.934 0-2.14-.686-2.5-1-.312 1.226 0 2 0 2z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-42 42)'/>
-        <path d='M161 162v12c0 2 2 2 2 2h5v-2h-5v-12h10v4h2v-4c0-2-2-2-2-2h-10c-2 0-2 2-2 2zm4 3.004a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm6 0a1 1 0 0 0-1 .996h2a1 1 0 0 0-1-.996zm-5.826 4.826-.707.707a4.999 4.999 0 0 0 3.533 1.467v-1a4 4 0 0 1-2.826-1.174z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-160 -160)'/>
-        <path d='M54.5-35a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm0 2a1.5 1.5 0 1 1 .001 2.999A1.5 1.5 0 0 1 54.5-33z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-42 42)'/>
+        <path d='M42-42h16v16H42z' style='opacity:1;fill:gray;fill-opacity:.0117647;stroke:none' transform='translate(-42 42)'/>
+        <path d='M52-26h5s.335-1 0-2c-.18.157-1.566 1-2.5 1-.934 0-2.14-.686-2.5-1-.312 1.226 0 2 0 2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-42 42)'/>
+        <path d='M161 162v12c0 2 2 2 2 2h5v-2h-5v-12h10v4h2v-4c0-2-2-2-2-2h-10c-2 0-2 2-2 2zm4 3.004a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm6 0a1 1 0 0 0-1 .996h2a1 1 0 0 0-1-.996zm-5.826 4.826-.707.707a4.999 4.999 0 0 0 3.533 1.467v-1a4 4 0 0 1-2.826-1.174z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-160 -160)'/>
+        <path d='M54.5-35a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm0 2a1.5 1.5 0 1 1 .001 2.999A1.5 1.5 0 0 1 54.5-33z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-42 42)'/>
     </g>
 </svg>

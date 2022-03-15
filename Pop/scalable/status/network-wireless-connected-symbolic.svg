@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M499.003-281h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -265 515.003)'/>
-            <path d='M152 33.002a11.28 11.28 0 0 0-8 3.31L152 46l8-9.688a11.28 11.28 0 0 0-8-3.31zm0 1.986c1.796 0 3.514.69 5.072 1.73L152 42.86l-5.07-6.14c1.558-1.04 3.275-1.73 5.07-1.73Z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-144 -31.997)'/>
+            <path d='M499.003-281h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -265 515.003)'/>
+            <path d='M212.004 113.008a11.405 11.405 0 0 0-2.6.3l-.095.022a11.332 11.332 0 0 0-1.563.506 11.457 11.457 0 0 0-.752.34c-.084.041-.169.08-.252.123 0 0 0 .002-.002.002a11.24 11.24 0 0 0-1.426.89l-.002.002a11.32 11.32 0 0 0-.449.348l-.002.002c-.296.242-.581.501-.857.777l6.55 7.932h.003a2 2 0 0 0 2.888-.006h.004l5.446-6.584 1.109-1.342c-.07-.069-.14-.136-.211-.203l-.105-.101-.016-.014a11.5 11.5 0 0 0-.252-.225l-.115-.097c-.09-.076-.18-.152-.272-.225l-.002-.002-.01-.008a11.27 11.27 0 0 0-1.187-.822l-.137-.082c-.09-.053-.182-.103-.273-.152-.054-.03-.107-.06-.16-.088-.023-.012-.047-.02-.069-.032-.351-.181-.711-.34-1.076-.482-.137-.053-.277-.098-.416-.146a11.284 11.284 0 0 0-1.246-.354c-.264-.058-.53-.105-.797-.144-.146-.022-.291-.047-.438-.063a11.393 11.393 0 0 0-1.218-.072zm0 1.986c1.796 0 3.514.69 5.072 1.73l-5.072 6.141-5.07-6.14c1.558-1.04 3.275-1.73 5.07-1.73z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-204.003 -112.002)'/>
         </g>
     </g>
 </svg>

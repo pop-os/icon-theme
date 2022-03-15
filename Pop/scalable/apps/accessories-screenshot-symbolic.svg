@@ -5,8 +5,8 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M504 527.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-504 -527.997)'/>
-        <path d='M506 558c-2 0-2 2-2 2v9s0 2 2 2h1v-2.021l-1-.002V560h12v5h2v-5s0-2-2-2z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-504 -557.997)'/>
-        <path d='m512.032 534.997-1 1H509c-.468.065-1 .541-1 1v6c0 .458.527 1 1 1h10c.474 0 1-.542 1-1v-6c0-.459-.526-1-1-1h-1.968l-1-1zm1.968 2a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm0 1a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-504 -527.997)'/>
+        <path d='M504 527.997h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-504 -527.997)'/>
+        <path d='M506 558c-2 0-2 2-2 2v9s0 2 2 2h1v-2.021l-1-.002V560h12v5h2v-5s0-2-2-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-504 -557.997)'/>
+        <path d='m512.032 534.997-1 1H509c-.468.065-1 .541-1 1v6c0 .458.527 1 1 1h10c.474 0 1-.542 1-1v-6c0-.459-.526-1-1-1h-1.968l-1-1zm1.968 2a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm0 1a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-504 -527.997)'/>
     </g>
 </svg>

@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M401-283.375h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(1 0 0 -1 -401 -267.375)'/>
-            <path d='M411-267.375v-6h2.5l-4.5-7-4.5 7h2.5v6z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='matrix(1 0 0 -1 -401 -267.375)'/>
-            <path d='M527 86a1 1 0 0 0 0 2h10a1 1 0 0 0 0-2z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-524 -72)'/>
+            <path d='M401-283.375h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(1 0 0 -1 -401 -267.375)'/>
+            <path d='M411-267.375v-6h2.5l-4.5-7-4.5 7h2.5v6z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='matrix(1 0 0 -1 -401 -267.375)'/>
+            <path d='M527 86a1 1 0 0 0 0 2h10a1 1 0 0 0 0-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-524 -72)'/>
         </g>
     </g>
 </svg>

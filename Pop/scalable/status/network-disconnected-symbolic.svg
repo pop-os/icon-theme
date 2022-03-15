@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M496-484v1c0 .276.1.538.281.719l.782.781-.782.781a1.015 1.015 0 0 0-.28.719v1h1c.275 0 .537-.1.718-.281l.781-.781.781.78c.181.182.443.282.72.282h1v-1c0-.276-.101-.538-.282-.719l-.781-.781.781-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.78.781-.782-.78A1.015 1.015 0 0 0 497-484Z' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-485 495.003)'/>
-            <path d='M-501-495.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -485 495.003)'/>
-            <path d='m490.999-490.003 4.5 5.5 4.5-5.5c-.003.004-1.334 0-2 0v-3h-5v3h-2zM494.999-483.003l-4.5-5.5-4.5 5.5c.003-.004 1.333 0 2 0v3h5v-3h2z' style='color:#000;display:inline;opacity:.35;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-485 495.003)'/>
+            <path d='M496-484v1c0 .276.1.538.281.719l.782.781-.782.781a1.015 1.015 0 0 0-.28.719v1h1c.275 0 .537-.1.718-.281l.781-.781.781.78c.181.182.443.282.72.282h1v-1c0-.276-.101-.538-.282-.719l-.781-.781.781-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.78.781-.782-.78A1.015 1.015 0 0 0 497-484Z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-485 495.003)'/>
+            <path d='M-501-495.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -485 495.003)'/>
+            <path d='m490.999-490.003 4.5 5.5 4.5-5.5c-.003.004-1.334 0-2 0v-3h-5v3h-2zM494.999-483.003l-4.5-5.5-4.5 5.5c.003-.004 1.333 0 2 0v3h5v-3h2z' style='color:#000;display:inline;opacity:.35;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-485 495.003)'/>
         </g>
     </g>
 </svg>

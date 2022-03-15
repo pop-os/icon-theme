@@ -6,11 +6,11 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new' transform='translate(-400 -786)'>
-            <path d='M400 786h16v16h-16z' fill='none' style='fill:#040404;fill-opacity:0;fill-rule:nonzero;stroke:none'/>
-            <rect height='14' rx='0' ry='0' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new' width='2' x='401' y='787'/>
-            <rect height='14' rx='0' ry='0' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='rotate(90)' width='2' x='799' y='-415'/>
-            <path d='M401.504 800.514c.568-2.704 1.217-5.899 6.474-6.956 5.2-1.045 5.572-3.558 5.536-5.978' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#555;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new'/>
-            <path d='M401.504 800.514c.568-2.704 1.258-5.367 6.496-6.514 5.218-.955 5.086-3.648 6-6v12.558z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:.00100002;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new'/>
+            <path d='M400 786h16v16h-16z' style='opacity:1;fill:gray;fill-opacity:.0117647;fill-rule:nonzero;stroke:none'/>
+            <rect height='14' rx='0' ry='0' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new' width='2' x='401' y='787'/>
+            <rect height='14' rx='0' ry='0' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='rotate(90)' width='2' x='799' y='-415'/>
+            <path d='M401.504 800.514c.568-2.704 1.217-5.899 6.474-6.956 5.2-1.045 5.572-3.558 5.536-5.978' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#232323;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new'/>
+            <path d='M401.504 800.514c.568-2.704 1.258-5.367 6.496-6.514 5.218-.955 5.086-3.648 6-6v12.558z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new'/>
         </g>
     </g>
 </svg>

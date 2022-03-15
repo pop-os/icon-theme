@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M499.003-281h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -265 515.003)'/>
-            <path d='M112.004 113.006c-2.896 0-5.791 1.105-8 3.312l6.547 7.932h.006a2 2 0 0 0 2.888-.006h.004l6.555-7.926a11.283 11.283 0 0 0-8-3.312z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-104.003 -112.002)'/>
+            <path d='M499.003-281h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -265 515.003)'/>
+            <path d='M112.004 113.006c-2.896 0-5.791 1.105-8 3.312l6.547 7.932h.006a2 2 0 0 0 2.888-.006h.004l6.555-7.926a11.283 11.283 0 0 0-8-3.312z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-104.003 -112.002)'/>
         </g>
     </g>
 </svg>

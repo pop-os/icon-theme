@@ -5,7 +5,7 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M-99 667h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:.02;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='matrix(-1 0 0 1 -83 -667)'/>
-        <path d='m499 580-14 5h14zm-6 7v1h-8v2h8v1h2v-4zm3 1v2h3v-2z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-483.969 -578)'/>
+        <path d='M-99 667h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='matrix(-1 0 0 1 -83 -667)'/>
+        <path d='m499 580-14 5h14zm-6 7v1h-8v2h8v1h2v-4zm3 1v2h3v-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-483.969 -578)'/>
     </g>
 </svg>

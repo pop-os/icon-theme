@@ -6,10 +6,10 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;stroke:none;enable-background:new'>
-            <path d='M448 114.996c-1.645 0-3 1.355-3 3v2.688a4.453 4.453 0 0 1 2-1.407v-1.28c0-.572.429-1 1-1 .554 0 1-.447 1-1 0-.555-.446-1-1-1zm5 0v2h3c.571 0 1 .429 1 1v4c0 .571-.429 1-1 1H452.938c.018.167.062.328.062.5 0 .53-.113 1.028-.281 1.5H456c1.645 0 3-1.355 3-3v-4c0-1.645-1.355-3-3-3z' style='color:#000;text-indent:0;text-transform:none;fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-444 -111.997)'/>
-            <path d='m311-289-4-3v6z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='matrix(-1 0 0 1 317 293)'/>
-            <path d='M301-293h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none' transform='matrix(-1 0 0 1 317 293)'/>
-            <path d='M312.5-285a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm.5 1h-1v5h1v-3.5h1v-.5c-1 0-1-1-1-1z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='matrix(-1 0 0 1 317 293)'/>
+            <path d='M448 114.996c-1.645 0-3 1.355-3 3v2.688a4.453 4.453 0 0 1 2-1.407v-1.28c0-.572.429-1 1-1 .554 0 1-.447 1-1 0-.555-.446-1-1-1zm5 0v2h3c.571 0 1 .429 1 1v4c0 .571-.429 1-1 1H452.938c.018.167.062.328.062.5 0 .53-.113 1.028-.281 1.5H456c1.645 0 3-1.355 3-3v-4c0-1.645-1.355-3-3-3z' style='color:#000;text-indent:0;text-transform:none;opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-444 -111.997)'/>
+            <path d='m311-289-4-3v6z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='matrix(-1 0 0 1 317 293)'/>
+            <path d='M301-293h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none' transform='matrix(-1 0 0 1 317 293)'/>
+            <path d='M312.5-285a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm.5 1h-1v5h1v-3.5h1v-.5c-1 0-1-1-1-1z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='matrix(-1 0 0 1 317 293)'/>
         </g>
     </g>
 </svg>

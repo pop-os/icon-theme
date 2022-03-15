@@ -5,12 +5,12 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new' transform='translate(-183 -529)'>
-        <g style='display:inline'>
-            <path d='M101 277h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.781;marker:none;enable-background:new' transform='translate(82 252)'/>
+        <g style='display:inline;fill:#4c505c;fill-opacity:.5'>
+            <path d='M101 277h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:gray;fill-opacity:.0117647;stroke:none;stroke-width:1.781;marker:none;enable-background:new' transform='translate(82 252)'/>
         </g>
-        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#555;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new' transform='matrix(.49524 0 0 .49524 195.457 375.029)'/>
-        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#555;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new' transform='matrix(.49524 0 0 .49524 191.457 382.029)'/>
-        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2.15385;marker:none;enable-background:new' transform='matrix(.5713 0 0 .5713 200.141 357.61)'/>
-        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:.35;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:2.15385;marker:none;enable-background:new' transform='matrix(.49524 0 0 .49524 191.457 382.029)'/>
+        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#232323;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new' transform='matrix(.49524 0 0 .49524 195.457 375.029)'/>
+        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#232323;stroke-width:2.15385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new' transform='matrix(.49524 0 0 .49524 191.457 382.029)'/>
+        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2.15385;marker:none;enable-background:new' transform='matrix(.5713 0 0 .5713 200.141 357.61)'/>
+        <circle cx='-9' cy='321' r='7' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:.35;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2.15385;marker:none;enable-background:new' transform='matrix(.49524 0 0 .49524 191.457 382.029)'/>
     </g>
 </svg>

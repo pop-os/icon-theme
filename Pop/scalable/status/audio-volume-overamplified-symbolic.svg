@@ -9,11 +9,11 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-265 413)'>
-            <path d='M265-413h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:.01;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;marker:none'/>
-            <path d='M151.07 554.049a.995.995 0 0 0-.57.201L147 557h-2c-.554 0-1 .446-1 1v4c0 .554.446 1 1 1h2l3.5 2.75c.5.393 1.5.25 1.5-.75v-10c0-.688-.472-.97-.93-.951z' style='opacity:1;fill:#4c5263;fill-opacity:1' transform='translate(121 -965)'/>
-            <rect height='4' ry='.5' style='opacity:1;fill:#4c5263;stroke-width:4.9' width='1' x='274' y='-407'/>
-            <rect height='8' ry='1' style='opacity:1;fill:#4c5263;stroke-width:4.9' width='2' x='276' y='-409'/>
-            <rect height='12' ry='1' style='opacity:1;fill:#4c5263;stroke-width:4.9' width='2' x='279' y='-411'/>
+            <path d='M265-413h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none'/>
+            <path d='M151.07 554.049a.995.995 0 0 0-.57.201L147 557h-2c-.554 0-1 .446-1 1v4c0 .554.446 1 1 1h2l3.5 2.75c.5.393 1.5.25 1.5-.75v-10c0-.688-.472-.97-.93-.951z' style='opacity:1;fill:#232323;fill-opacity:1' transform='translate(121 -965)'/>
+            <rect height='4' ry='.5' style='opacity:1;fill:#232323;fill-opacity:1;stroke-width:4.9' width='1' x='274' y='-407'/>
+            <rect height='8' ry='1' style='opacity:1;fill:#232323;fill-opacity:1;stroke-width:4.9' width='2' x='276' y='-409'/>
+            <rect height='12' ry='1' style='opacity:1;fill:#232323;fill-opacity:1;stroke-width:4.9' width='2' x='279' y='-411'/>
         </g>
     </g>
 </svg>

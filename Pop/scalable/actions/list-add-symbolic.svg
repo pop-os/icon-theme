@@ -6,8 +6,8 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;stroke:none;enable-background:new'>
-            <path d='M61 847h16v16H61z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='translate(-61 -847)'/>
-            <path d='M212 431a1 1 0 0 0-1 1v2.996l-3 .004a1 1 0 0 0-1 1 1 1 0 0 0 1 1l3-.004V440a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3.004l3 .004a1 1 0 0 0 1-1 1 1 0 0 0-1-1l-3-.004V432a1 1 0 0 0-1-1z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:.00100002;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='translate(-204 -427.997)'/>
+            <path d='M61 847h16v16H61z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-61 -847)'/>
+            <path d='M212 431a1 1 0 0 0-1 1v2.996l-3 .004a1 1 0 0 0-1 1 1 1 0 0 0 1 1l3-.004V440a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3.004l3 .004a1 1 0 0 0 1-1 1 1 0 0 0-1-1l-3-.004V432a1 1 0 0 0-1-1z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='translate(-204 -427.997)'/>
         </g>
     </g>
 </svg>

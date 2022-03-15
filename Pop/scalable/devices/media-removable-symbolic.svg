@@ -4,11 +4,11 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-525 215)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(204 -104)'>
-            <path d='M290 513c-1.108 0-2 .892-2 2v7c0 1.108.892 2 2 2h4c1.108 0 2-.892 2-2v-7c0-1.108-.892-2-2-2z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(37 -623)'/>
-            <path d='M326-98v2h6v-2z' style='fill:#4c5263;fill-opacity:1;stroke:none'/>
-            <path d='M321-111h16v16h-16z' style='fill:none;stroke:none'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-521 227)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(200 -116)'>
+            <path d='M290 513c-1.108 0-2 .892-2 2v7c0 1.108.892 2 2 2h4c1.108 0 2-.892 2-2v-7c0-1.108-.892-2-2-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(37 -623)'/>
+            <path d='M326-98v2h6v-2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none'/>
+            <path d='M321-111h16v16h-16z' style='opacity:1;fill:gray;fill-opacity:.0117647;stroke:none'/>
         </g>
     </g>
 </svg>

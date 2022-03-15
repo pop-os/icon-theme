@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M483-272.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-483 272.003)'/>
-            <path d='M485-272c-2 0-2 2-2 2v9s0 2 2 2h12s2 0 2-2v-9s0-2-2-2zm0 2h12v8h-12zm1 13v.997h10V-257c0-1-1-1-1-1h-8.022s-.978 0-.978 1z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-483 272.003)'/>
-            <path d='M488-269v2h1v-2zm5 0v2h1v-2zm-5 4v1h6v-1h-5zm6 1v1h1v-1zm-6 0h-1v1h1z' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-483 272.003)'/>
+            <path d='M483-272.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-483 272.003)'/>
+            <path d='M485-272c-2 0-2 2-2 2v9s0 2 2 2h12s2 0 2-2v-9s0-2-2-2zm0 2h12v8h-12zm1 13v.997h10V-257c0-1-1-1-1-1h-8.022s-.978 0-.978 1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-483 272.003)'/>
+            <path d='M488-269v2h1v-2zm5 0v2h1v-2zm-5 4v1h6v-1h-5zm6 1v1h1v-1zm-6 0h-1v1h1z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-483 272.003)'/>
         </g>
     </g>
 </svg>

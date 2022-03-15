@@ -5,7 +5,7 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='M541 42a3 3 0 0 0-3 3c0 .231.044.44.094.656l-3.22 2a3 3 0 1 0 0 4.688l3.22 2c-.05.216-.094.425-.094.656a3 3 0 1 0 1.125-2.344l-3.219-2c.05-.216.094-.425.094-.656 0-.231-.044-.44-.094-.656l3.22-2A3 3 0 1 0 541 42z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(-529 -41.997)'/>
-        <path d='M529 185.997h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-529 -185.997)'/>
+        <path d='M541 42a3 3 0 0 0-3 3c0 .231.044.44.094.656l-3.22 2a3 3 0 1 0 0 4.688l3.22 2c-.05.216-.094.425-.094.656a3 3 0 1 0 1.125-2.344l-3.219-2c.05-.216.094-.425.094-.656 0-.231-.044-.44-.094-.656l3.22-2A3 3 0 1 0 541 42z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-529 -41.997)'/>
+        <path d='M529 185.997h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-529 -185.997)'/>
     </g>
 </svg>

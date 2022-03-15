@@ -4,10 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-385 195.003)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(40 218.997)'>
-            <path d='M344.999-414H361v16.001h-16.001z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none'/>
-            <path d='M353-413.999c-1.663 0-3 1.338-3 3v5c0 1.662 1.337 3 3 3 1.661 0 3-1.338 3-3v-5c0-1.662-1.339-3-3-3zM348-407a1 1 0 0 0-1 1 1 1 0 0 0 0 .002v.004a1 1 0 0 0 .003.082 5.99 5.99 0 0 0 4.996 5.82V-399a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-1.091a5.992 5.992 0 0 0 5-5.907 1 1 0 0 1 0-.002 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 1 0 .002c0 2.234-1.766 4-4 4a3.97 3.97 0 0 1-4-4 1 1 0 0 0 0-.002 1 1 0 0 0-1-1z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-381 207)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(36 207)'>
+            <path d='M344.999-414H361v16.001h-16.001z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none'/>
+            <path d='M353-413.999c-1.663 0-3 1.338-3 3v5c0 1.662 1.337 3 3 3 1.661 0 3-1.338 3-3v-5c0-1.662-1.339-3-3-3zM348-407a1 1 0 0 0-1 1 1 1 0 0 0 0 .002v.004a1 1 0 0 0 .003.082 5.99 5.99 0 0 0 4.996 5.82V-399a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-1.091a5.992 5.992 0 0 0 5-5.907 1 1 0 0 1 0-.002 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 1 0 .002c0 2.234-1.766 4-4 4a3.97 3.97 0 0 1-4-4 1 1 0 0 0 0-.002 1 1 0 0 0-1-1z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new'/>
         </g>
     </g>
 </svg>

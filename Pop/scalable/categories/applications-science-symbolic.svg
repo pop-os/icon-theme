@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M508.015 463.66v3.548c-.408.56-2.438 4.252-3.73 6.617-.409.747-.408 1.68.204 2.428.409.56 1.122.747 1.837.747h7.349c.715 0 1.428-.187 1.836-.747.612-.747.613-1.681.205-2.428-1.157-2.365-2.528-4.252-3.685-6.617v-3.548l1.004-.56h-6.023z' style='display:inline;fill:none;stroke:#555;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-502 -462)'/>
-            <path d='M508.219 471.002 506 475h8l-2.219-4z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:.25;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-502 -462)'/>
-            <path d='M502 462h16v15.996h-16z' style='fill:none;stroke:none' transform='translate(-502 -462)'/>
+            <path d='M502 462h16v15.996h-16z' style='opacity:1;fill:gray;fill-opacity:.0117647;stroke:none' transform='translate(-502 -462)'/>
+            <path d='M507.012 462.1a1 1 0 0 0-.487 1.873l.49.273v2.684c-.13.204-.249.387-.439.715-.272.47-.605 1.06-.967 1.707a514.754 514.754 0 0 0-2.203 3.994c-.572 1.047-.55 2.454.301 3.513.673.9 1.738 1.141 2.62 1.141h7.347c.882 0 1.95-.24 2.623-1.143.85-1.06.869-2.465.297-3.511-1.164-2.369-2.474-4.219-3.563-6.397v-2.701l.49-.275a1 1 0 0 0-.486-1.873zm2.004 2h2.015v3.107a1 1 0 0 0 .102.44c1.201 2.457 2.574 4.343 3.685 6.617a1 1 0 0 0 .02.04c.24.44.254.884-.1 1.315a1 1 0 0 0-.035.045c-.144.198-.489.336-1.03.336h-7.347c-.54 0-.885-.138-1.03-.336a1 1 0 0 0-.032-.045c-.354-.431-.342-.876-.102-1.314a513.042 513.042 0 0 1 2.193-3.977c.36-.641.688-1.228.952-1.681.263-.454.49-.814.517-.85a1 1 0 0 0 .192-.59z' style='color:#000;fill:#232323;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none' transform='translate(-502 -462)'/>
+            <path d='M508.219 471.002 506 475h8l-2.219-4z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-502 -462)'/>
         </g>
     </g>
 </svg>

@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M452 173a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7zm0 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z' style='opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-444 -171.997)'/>
-            <path d='M685-395.003h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-685 395.003)'/>
-            <path d='M695.407-389.816a.504.504 0 0 0-.25.156L693-387.503l-1.656-1.657c-.157-.257-.568-.306-.781-.093-.213.213-.163.624.094.78l2 2a.519.519 0 0 0 .687 0l2.5-2.5c.293-.298-.025-.91-.437-.843z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-685 395.003)'/>
+            <path d='M452 173a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7zm0 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-444 -171.997)'/>
+            <path d='M685-395.003h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-685 395.003)'/>
+            <path d='M695.407-389.816a.504.504 0 0 0-.25.156L693-387.503l-1.656-1.657c-.157-.257-.568-.306-.781-.093-.213.213-.163.624.094.78l2 2a.519.519 0 0 0 .687 0l2.5-2.5c.293-.298-.025-.91-.437-.843z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-685 395.003)'/>
         </g>
     </g>
 </svg>

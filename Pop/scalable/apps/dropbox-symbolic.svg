@@ -5,7 +5,7 @@
         </filter>
     </defs>
     <g style='display:inline;enable-background:new'>
-        <path d='m141 169-4 2.5 3 2 4-2.5zm3 2 4 2.5 3-2-4-2.5zm4 2.5-4 2.5 3 2 4-2.5zm-4 2.5-4-2.5-3 2 4 2.5zm0 1.201-2.982 1.988-1.018-.636v1.044l4.008 2.403 3.992-2.395v-1.052l-1.018.636z' style='fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-136 -168)'/>
-        <path d='M140 136h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 1 1 0 -136 -140)'/>
+        <path d='m141 169-4 2.5 3 2 4-2.5zm3 2 4 2.5 3-2-4-2.5zm4 2.5-4 2.5 3 2 4-2.5zm-4 2.5-4-2.5-3 2 4 2.5zm0 1.201-2.982 1.988-1.018-.636v1.044l4.008 2.403 3.992-2.395v-1.052l-1.018.636z' style='opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none' transform='translate(-136 -168)'/>
+        <path d='M140 136h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0 1 1 0 -136 -140)'/>
     </g>
 </svg>

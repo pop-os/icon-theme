@@ -4,10 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-465 214)'>
-        <g style='display:inline;stroke:none;filter:url(#a);enable-background:new' transform='matrix(1 0 0 -1 102 -441)'>
-            <path d='M122 374h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='translate(241 -617)'/>
-            <path d='M207 335s-2 0-2 2v11c0 .554.446 1 1 1h12c.554 0 1-.446 1-1v-11s0-2-2-2zm0 1Zm10 0Zm-10 1h1v3h8v-3h1v10h-10z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='matrix(1 0 0 -1 159 106.997)'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-461 227)'>
+        <g style='display:inline;stroke:none;filter:url(#a);enable-background:new' transform='matrix(1 0 0 -1 98 -454)'>
+            <path d='M122 374h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='translate(241 -617)'/>
+            <path d='M207 335s-2 0-2 2v11c0 .554.446 1 1 1h12c.554 0 1-.446 1-1v-11s0-2-2-2zm0 1Zm10 0Zm-10 1h1v3h8v-3h1v10h-10z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='matrix(1 0 0 -1 159 106.997)'/>
         </g>
     </g>
 </svg>

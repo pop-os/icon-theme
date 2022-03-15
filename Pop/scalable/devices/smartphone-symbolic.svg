@@ -4,10 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-305 195.004)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-136 -104.003)'>
-            <path d='M68 531.996c-1 0-1 1-1 1v14s0 1 1 1h8c1 0 1-1 1-1v-14s0-1-1-1zM70 533h4v1h-4zm-2 2h8v10h-8zm2 11h4v1h-4z' style='fill:#4c5263;fill-opacity:1;stroke:none' transform='translate(377 -622.997)'/>
-            <path d='M441 75h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='scale(1 -1)'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-301 207)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-140 -116)'>
+            <path d='M68 531.996c-1 0-1 1-1 1v14s0 1 1 1h8c1 0 1-1 1-1v-14s0-1-1-1zM70 533h4v1h-4zm-2 2h8v10h-8zm2 11h4v1h-4z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(377 -622.997)'/>
+            <path d='M441 75h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='scale(1 -1)'/>
         </g>
     </g>
 </svg>

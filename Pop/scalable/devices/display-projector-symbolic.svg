@@ -4,10 +4,10 @@
             <feBlend in2='BackgroundImage' mode='darken'/>
         </filter>
     </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-324.997 235)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='matrix(-1 0 0 1 800.997 -469)'>
-            <path d='M234-476h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='rotate(90)'/>
-            <path d='M474.497 235a.499.499 0 1 1 0 1h-.5v8c0 1-1 1-1 1h-5v1.25l2.72 1.844c.26.125.352.513.188.75-.163.236-.541.26-.75.062l-2.658-1.812-2.658 1.812c-.208.198-.586.174-.75-.062-.164-.237-.071-.625.188-.75l2.72-1.844V245h-5s-1.008 0-1-1v-8h-.5a.499.499 0 1 1 0-1h13.5zm-2.5 2h-9v6h9z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4c5263;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new'/>
+    <g style='display:inline;filter:url(#a)' transform='translate(-321 247)'>
+        <g style='display:inline;filter:url(#a);enable-background:new' transform='matrix(-1 0 0 1 797 -481)'>
+            <path d='M234-476h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='rotate(90)'/>
+            <path d='M474.497 235a.499.499 0 1 1 0 1h-.5v8c0 1-1 1-1 1h-5v1.25l2.72 1.844c.26.125.352.513.188.75-.163.236-.541.26-.75.062l-2.658-1.812-2.658 1.812c-.208.198-.586.174-.75-.062-.164-.237-.071-.625.188-.75l2.72-1.844V245h-5s-1.008 0-1-1v-8h-.5a.499.499 0 1 1 0-1h13.5zm-2.5 2h-9v6h9z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new'/>
         </g>
     </g>
 </svg>

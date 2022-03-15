@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M-481-455.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -465 455.003)'/>
-            <path d='M476-444.003v1c0 .276.1.537.282.718l.78.782-.78.78a1.015 1.015 0 0 0-.282.72v1h1c.277 0 .538-.1.72-.282l.78-.78.782.78c.18.181.442.282.718.282h1v-1c0-.277-.1-.538-.28-.72l-.782-.78.781-.782c.181-.18.281-.442.281-.718v-1h-1c-.276 0-.537.1-.718.28l-.782.782-.78-.781a1.015 1.015 0 0 0-.72-.281z' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-465 455.003)'/>
-            <path d='M26 94s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h5v-2h-4l-1-1h-2v-7h1v3h2v-3h1v3h2v-3h1v3h2v-3h1v6h2v-7c0-1-1-1-1-1z' style='display:inline;opacity:.35;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:1.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-24.003 -92.002)'/>
+            <path d='M-481-455.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -465 455.003)'/>
+            <path d='M476-444.003v1c0 .276.1.537.282.718l.78.782-.78.78a1.015 1.015 0 0 0-.282.72v1h1c.277 0 .538-.1.72-.282l.78-.78.782.78c.18.181.442.282.718.282h1v-1c0-.277-.1-.538-.28-.72l-.782-.78.781-.782c.181-.18.281-.442.281-.718v-1h-1c-.276 0-.537.1-.718.28l-.782.782-.78-.781a1.015 1.015 0 0 0-.72-.281z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-465 455.003)'/>
+            <path d='M26 94s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h5v-2h-4l-1-1h-2v-7h1v3h2v-3h1v3h2v-3h1v3h2v-3h1v6h2v-7c0-1-1-1-1-1z' style='display:inline;opacity:.35;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-24.003 -92.002)'/>
         </g>
     </g>
 </svg>

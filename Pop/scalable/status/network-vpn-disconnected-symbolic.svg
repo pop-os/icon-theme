@@ -6,9 +6,9 @@
     </defs>
     <g style='display:inline'>
         <g style='display:inline;enable-background:new'>
-            <path d='M-181-415.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -165 415.003)'/>
-            <path d='M169.5-412a4.5 4.5 0 0 0 0 9 4.5 4.5 0 0 0 4.237-3l2.262-.003v1.004h3v-1.008l1 .004 1-2v-1l-7.263.004a4.5 4.5 0 0 0-4.236-3zm0 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z' style='display:inline;opacity:.35;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:31;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-165 415.003)'/>
-            <path d='M176-404v1c0 .276.1.538.281.719l.782.781-.782.781a1.015 1.015 0 0 0-.28.719v1h1c.275 0 .537-.1.718-.281l.781-.781.781.78c.181.182.443.282.72.282h1v-1c0-.276-.101-.538-.282-.719l-.781-.781.781-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.78.781-.782-.78A1.015 1.015 0 0 0 177-404Z' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-165 415.003)'/>
+            <path d='M-181-415.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -165 415.003)'/>
+            <path d='M169.5-412a4.5 4.5 0 0 0 0 9 4.5 4.5 0 0 0 4.237-3l2.262-.003v1.004h3v-1.008l1 .004 1-2v-1l-7.263.004a4.5 4.5 0 0 0-4.236-3zm0 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z' style='display:inline;opacity:.35;fill:#232323;fill-opacity:1;stroke:none;stroke-width:31;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new' transform='translate(-165 415.003)'/>
+            <path d='M176-404v1c0 .276.1.538.281.719l.782.781-.782.781a1.015 1.015 0 0 0-.28.719v1h1c.275 0 .537-.1.718-.281l.781-.781.781.78c.181.182.443.282.72.282h1v-1c0-.276-.101-.538-.282-.719l-.781-.781.781-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.78.781-.782-.78A1.015 1.015 0 0 0 177-404Z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-165 415.003)'/>
         </g>
     </g>
 </svg>
