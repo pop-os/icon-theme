@@ -10,6 +10,8 @@ for SCALE in "${SCALES[@]}"
 do
 	for SIZE in "${SIZES[@]}"
 	do
-		rm -r  /usr/share/icons/Pop/$SIZE$SCALE
+		# We don't care if the folders are already gone. This is only needed to 
+		# ensure the HiDPI icons get installed
+		rm -r  /usr/share/icons/Pop/$SIZE$SCALE &>/dev/null 
 	done
 done
