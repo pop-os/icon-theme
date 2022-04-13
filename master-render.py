@@ -21,6 +21,8 @@ import shutil
 import subprocess
 from pathlib import Path
 
+from importlib_metadata import sys
+
 THEMENAME:str = 'Pop'
 BINDIR = Path('/usr/bin')
 BASEDIR = Path(os.getcwd())
@@ -41,19 +43,35 @@ SIZES = (
 def render_bitmaps() -> None:
     print('  -- Rendering bitmap icons...')
     os.chdir(SRCDIR / 'bitmaps')
-    subprocess.run('./render-bitmaps.py')
+    try:
+        subprocess.run('./render-bitmaps.py', check=True)
+    except subprocess.CalledProcessError:
+        print('Failed to render fullcolor icons. See output above.')
+        sys.exit(1)
 
 def render_symbolics() -> None:
     print('  -- Rendering symbolic icons...')
     os.chdir(SRCDIR / 'scalable')
-    subprocess.run('./extract-symbolic-icons.rb')
+    try:
+        subprocess.run('./extract-symbolic-icons.rb', check=True)
+    except subprocess.CalledProcessError:
+        print('Failed to render symbolic icons. See output above.')
+        sys.exit(1)
 
 def generate_symlinks() -> None:
     print('  -- Generating symbolic links...')
     os.chdir(SRCDIR / 'symlinks')
-    subprocess.run('./generate-symlinks.sh')
+    try:
+        subprocess.run('./generate-symlinks.sh', check=True)
+    except subprocess.CalledProcessError:
+        print('Failed to generate fullcolor symlinks. See output above.')
+        sys.exit(1)
     os.chdir(SRCDIR / 'scalable')
-    subprocess.run('./generate-symbolic-symlinks.sh')
+    try:
+        subprocess.run('./generate-symbolic-symlinks.sh', check=True)
+    except subprocess.CalledProcessError:
+        print('Failed to generate sylbolic symlinks. See output above.')
+        sys.exit(1)
 
 def install_metadata() -> None:
     print('  -- Installing theme Metadata...')
