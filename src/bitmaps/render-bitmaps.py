@@ -17,14 +17,25 @@
 #
 # Thanks to the GNOME icon developers for the original version of this script
 
+import glob
 import os
+import shutil
 import sys
 import xml.sax
 import subprocess
 import argparse
 
-INKSCAPE = '/usr/bin/inkscape'
-MAINDIR = '../../Pop'
+from pathlib import Path
+
+INKSCAPE = Path('/usr/bin/inkscape')
+SCOUR = Path('/usr/bin/scour')
+HAS_SCOUR = os.path.exists(SCOUR)
+SVGO = Path('/usr/local/bin/svgo')
+HAS_SVGO = os.path.exists(SVGO)
+MAINDIR = Path('../../Pop')
+SVGO_CONFIG = MAINDIR / '..' / 'svgo.config.js'
+CLI_OUTPUT=subprocess.DEVNULL
+
 SOURCES = ('actions', 'apps', 'categories', 'devices', 'emblems', 'logos', 'mimetypes', 'places', 'preferences', 'status')
 
 # the resolution that non-hi-dpi icons are rendered at
@@ -38,15 +49,67 @@ def main(args, SRC):
 
 	def inkscape_render_rect(icon_file, rect, dpi, output_file):
 
+		# if HAS_SCOUR:
+		# 	output_file += 'unoptimized-'
+
 		cmd = [
 			INKSCAPE,
 			'-d', str(dpi), # export-dpi
+			'--actions=select-all:all;transform-remove',
 			'-i', rect, # export-id
-			'-o', output_file, # export-filename
+			'-o', f'{output_file}', # export-filename
 			icon_file # input file
 		]
 		print(f'Rendering {output_file}')
-		subprocess.run(cmd)
+		if CLI_OUTPUT == None:
+			print(f'Running {cmd}')
+		try:
+			subprocess.run(cmd, check=True, stderr=CLI_OUTPUT, stdout=CLI_OUTPUT)
+		except subprocess.CalledProcessError:
+			print(f'Could not render {output_file}: see output')
+			sys.exit(1)
+	
+	def scour_clean_svg(icon_file):
+		out_file = Path(icon_file)
+		in_file = Path(f'{icon_file}-unop')
+		shutil.copy(out_file, in_file)
+		cmd = [
+			SCOUR,
+			f'-i', in_file,
+			f'-o', out_file,
+			'--enable-viewboxing',
+			'--enable-id-stripping',
+			'--enable-comment-stripping',
+			'--shorten-ids',
+			'--indent=none'
+		]
+		print(f'Cleaning up {out_file}')
+		if CLI_OUTPUT == None:
+			print(f'Running {cmd}')
+		try:
+			if in_file.exists():
+				subprocess.run(cmd, check=True, stderr=CLI_OUTPUT, stdout=CLI_OUTPUT)
+		except subprocess.CalledProcessError:
+			print(f'Could not clean up {icon_file}: see output')
+			sys.exit(1)
+		os.remove(in_file)
+	
+	def svgo_optimize_svgs(icon_file):
+		cmd = [
+			SVGO,
+			f'--config={SVGO_CONFIG}',
+			f'--input={icon_file}',
+			f'--output={icon_file}',
+		]
+		print(f'Optimizing {icon_file}')
+		if CLI_OUTPUT == None:
+			print(f'Running {cmd}')
+		try:
+			subprocess.run(cmd, check=True, stderr=CLI_OUTPUT, stdout=CLI_OUTPUT)
+		except subprocess.CalledProcessError:
+			print(f'Could not optimize {icon_file}: see output')
+			sys.exit(1)
+
 
 	class ContentHandler(xml.sax.ContentHandler):
 		ROOT = 0
@@ -139,12 +202,20 @@ def main(args, SRC):
 						# Do a time based check!
 						if self.force or not os.path.exists(outfile):
 							inkscape_render_rect(self.path, id, dpi, outfile)
+							if HAS_SCOUR:
+								scour_clean_svg(outfile)
+							if HAS_SVGO:
+								svgo_optimize_svgs(outfile)
 							sys.stdout.write('.')
 						else:
 							stat_in = os.stat(self.path)
 							stat_out = os.stat(outfile)
 							if stat_in.st_mtime > stat_out.st_mtime:
 								inkscape_render_rect(self.path, id, dpi, outfile)
+								if HAS_SCOUR:
+									scour_clean_svg(outfile)
+								if HAS_SVGO:
+									svgo_optimize_svgs(outfile)
 								sys.stdout.write('.')
 							else:
 								sys.stdout.write('-')
