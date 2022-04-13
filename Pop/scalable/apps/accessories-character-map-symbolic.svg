@@ -1,12 +1,1 @@
-<svg height='16.035' style='enable-background:new' width='16.031' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline;enable-background:new'>
-        <path d='M265 103.035h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-264.969 -103.035)'/>
-        <path d='M946 72s-2 0-2 2v7s0 2 2 2l2 .01V81c-1.108 0-2-.892-2-2v-2c0-1.108.892-2 2-2 .834 0 1.545.506 1.846 1.229A3.003 3.003 0 0 1 951 76h4v-1.965c0-2-2-2-2-2zm.5 1a.499.499 0 1 1 0 1 .499.499 0 1 1 0-1zm3 0a.499.499 0 1 1 0 1 .499.499 0 1 1 0-1zm-1.5 3c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1v-1c0-.87.372-1.646.96-2.193A.983.983 0 0 0 948 76Z' style='opacity:.5;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-944 -72)'/>
-        <path d='M951 77s-2 0-2 2v7s0 2 2 2l7 .035s2 0 2-2v-7c0-2-2-2-2-2zm3 1 .707.707 1.414 1.414-.707.707L954 79.414l-1.414 1.414-.707-.707 1.414-1.414zm0 3c1.108 0 2 .892 2 2v2h-3c0 .554.446 1 1 1h2v1h-2c-1.108 0-2-.892-2-2v-2c0-1.108.892-2 2-2zm0 1c-.554 0-1 .446-1 1v1h2v-1c0-.554-.446-1-1-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-944 -72)'/>
-    </g>
-</svg>
+<svg viewBox='0 0 16.031 16.035' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M.03-.004h16v16h-16z' fill='gray' fill-opacity='.01'/><path d='M2 .001s-2 0-2 2v7s0 2 2 2l2 .01V9c-1.108 0-2-.892-2-2V5c0-1.108.892-2 2-2 .834 0 1.545.506 1.846 1.229A3.003 3.003 0 0 1 7 4h4V2.036c0-2-2-2-2-2zm.5 1a.499.499 0 1 1 0 1 .499.499 0 1 1 0-1zm3 0a.499.499 0 1 1 0 1 .499.499 0 1 1 0-1zm-1.5 3c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1v-1c0-.87.372-1.646.96-2.193A.983.983 0 0 0 4 4z' fill='#232323' opacity='.5'/><path d='M7 5.001s-2 0-2 2v7s0 2 2 2l7 .035s2 0 2-2v-7c0-2-2-2-2-2zm3 1 2.121 2.121-.707.707L10 7.415 8.586 8.829l-.707-.707 1.414-1.414zm0 3c1.108 0 2 .892 2 2v2H9c0 .554.446 1 1 1h2v1h-2c-1.108 0-2-.892-2-2v-2c0-1.108.892-2 2-2zm0 1c-.554 0-1 .446-1 1v1h2v-1c0-.554-.446-1-1-1z' fill='#232323'/></svg>

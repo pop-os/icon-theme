@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M461 251.993h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-461 -251.993)'/>
-            <path d='M461 253.993v10.01c0 .834.574 1.506 1.063 1.75.488.245.937.25.937.25h12s.449-.006.938-.25c.488-.244 1.062-.916 1.062-1.75v-5h-13.031l-.469 5.032a.52.52 0 0 1-.531.468.52.52 0 0 1-.469-.53l.5-5.5a.515.515 0 0 1 .406-.47.489.489 0 0 1 .094 0H475v-2.01c0-1-.965-.99-.965-.99H469.5l-2.5-2.01h-5s-1 0-1 1z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-461 -251.993)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g color='#000'><path d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M461 253.99V264c0 .833.574 1.506 1.063 1.75.488.244.937.25.937.25h12s.449-.006.938-.25c.488-.244 1.062-.917 1.062-1.75v-5h-13.031l-.469 5.031a.52.52 0 0 1-.531.469.52.52 0 0 1-.469-.531l.5-5.5a.515.515 0 0 1 .406-.469.489.489 0 0 1 .094 0H475v-2.01c0-1-.965-.99-.965-.99H469.5l-2.5-2.01h-5s-1 0-1 1z' fill='#232323' style='text-decoration-line:none;text-indent:0;text-transform:none' transform='translate(-461 -251.99)'/></g></svg>

@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-581 207)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(316 184)'>
-            <path d='M-391-281h16v16h-16z' style='color:#ddd;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='rotate(90)'/>
-            <path d='M273-391a2.005 2.005 0 0 0-1.097.33 2 2 0 0 0-.03.02h-.002a1.995 1.995 0 0 0-.271.224l-.02.018a2.01 2.01 0 0 0-.404.595 2 2 0 0 0-.027.063 1.977 1.977 0 0 0-.1.324 2 2 0 0 0-.01.041A2.016 2.016 0 0 0 271-389a2 2 0 0 0 0 .002h-1.02c-1.095.01-1.98.9-1.98 1.998v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-9a1.999 1.999 0 0 0-1.98-1.998h-.52l-.5.002V-389a2.005 2.005 0 0 0-.15-.756 2 2 0 0 0-.006-.021l-.002-.002a2 2 0 0 0-.006-.014 2 2 0 0 0-.174-.317 2 2 0 0 0-.006-.01 2.018 2.018 0 0 0-.232-.28 2 2 0 0 0-.016-.02 2.002 2.002 0 0 0-.268-.221 2 2 0 0 0-.035-.025 1.999 1.999 0 0 0-.299-.162 2 2 0 0 0-.047-.02 2.002 2.002 0 0 0-.335-.103 2 2 0 0 0-.04-.01 2.029 2.029 0 0 0-.384-.04zm0 5.002v3h3l-3 5v-3h-3z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new'/>
-        </g>
-    </g>
-</svg>
+<svg enable-background='new' viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><defs><filter color-interpolation-filters='sRGB' height='1' id='a' width='1' x='0' y='0'><feBlend in2='BackgroundImage' mode='darken'/></filter></defs><g filter='url(#a)' transform='translate(-581 207)'><path color='#ddd' d='M597-207v16h-16v-16z' fill='gray' fill-opacity='.01'/><path d='M589-207a2.005 2.005 0 0 0-1.098.33 2 2 0 0 0-.029.02h-.002a1.995 1.995 0 0 0-.271.224l-.02.018a2.01 2.01 0 0 0-.404.595 2 2 0 0 0-.028.063 1.977 1.977 0 0 0-.1.324 2 2 0 0 0-.01.041A2.016 2.016 0 0 0 587-205a2 2 0 0 0 0 .002h-1.02c-1.095.01-1.98.9-1.98 1.998v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-9a1.999 1.999 0 0 0-1.98-1.998h-.52l-.5.002V-205a2.005 2.005 0 0 0-.15-.756 2 2 0 0 0-.006-.021l-.002-.002a2 2 0 0 0-.006-.014 2 2 0 0 0-.174-.316 2 2 0 0 0-.006-.01 2.018 2.018 0 0 0-.233-.282 2 2 0 0 0-.015-.02 2.002 2.002 0 0 0-.268-.22 2 2 0 0 0-.035-.025 1.999 1.999 0 0 0-.299-.162 2 2 0 0 0-.047-.02 2.002 2.002 0 0 0-.336-.103 2 2 0 0 0-.039-.01A2.029 2.029 0 0 0 589-207zm0 5.002v3h3l-3 5v-3h-3z' fill='#232323'/></g></svg>

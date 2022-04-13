@@ -1,17 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new' transform='translate(-337 -117)'>
-            <path d='M337 117h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none'/>
-            <rect height='10' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='338' y='120'/>
-            <rect height='8' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='340' y='121'/>
-            <rect height='8' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='349' y='121'/>
-            <rect height='10' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' width='1' x='351' y='120'/>
-            <rect height='6' ry='1' style='display:inline;opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.313725;enable-background:new' width='6' x='342.001' y='122.003'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g transform='translate(-337 -117)'><path color='#bebebe' d='M337 117h16v16h-16z' fill='gray' fill-opacity='.01'/><rect color='#bebebe' fill='#232323' height='10' ry='.5' width='1' x='338' y='120'/><rect color='#bebebe' fill='#232323' height='8' ry='.5' width='1' x='340' y='121'/><rect color='#bebebe' fill='#232323' height='8' ry='.5' width='1' x='349' y='121'/><rect color='#bebebe' fill='#232323' height='10' ry='.5' width='1' x='351' y='120'/><rect fill='#232323' height='6' ry='1' width='6' x='342' y='122'/></g></svg>

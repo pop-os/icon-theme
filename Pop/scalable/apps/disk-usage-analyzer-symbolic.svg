@@ -1,17 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-        <filter height='1' id='b' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline;filter:url(#b);enable-background:new' transform='matrix(0 -1 -1 0 -103.035 281)'>
-        <path d='M265 103.035h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='scale(1 -1)'/>
-        <path d='M27 355c-1 0-1 1-1 1v12s0 1 1 1h10s1 0 1-1v-12s0-1-1-1zm5 2a4 4 0 1 1 0 8h-4v-4a4 4 0 0 1 4-4zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='matrix(0 -1 -1 0 634.966 -79.034)'/>
-        <path d='M279-107.035c0 .554-.446 1-1 1h-9c-.554 0-1-.446-1-1v-8c0-.554.446-1 1-1h9c.554 0 1 .446 1 1zm-5-4v-4a4 4 0 0 0-4 4z' style='opacity:.2;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1;enable-background:new'/>
-        <path d='M107.035-274a4 4 0 0 1 4-4 4 4 0 0 1 4 4' style='opacity:.2;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1;enable-background:new' transform='matrix(0 -1 -1 0 0 0)'/>
-        <path d='M107.035-274a4 4 0 0 1 4-4v4z' style='opacity:.2;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1;enable-background:new' transform='matrix(0 -1 -1 0 0 0)'/>
-    </g>
-</svg>
+<svg enable-background='new' viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><defs><filter color-interpolation-filters='sRGB' height='1' id='a' width='1' x='0' y='0'><feBlend in2='BackgroundImage' mode='darken'/></filter></defs><g filter='url(#a)' transform='matrix(0 -1 -1 0 -103.03 281)'><path color='#bebebe' d='M265-103.03h16v-16h-16z' enable-background='accumulate' fill='gray' fill-opacity='.01'/><path d='M279.97-106.034c0 1-1 1-1 1h-12s-1 0-1-1v-10s0-1 1-1h12s1 0 1 1zm-2-5a4 4 0 0 0-8 0v4h4a4 4 0 0 0 4-4zm-2 0a2 2 0 1 1-4 0 2 2 0 0 1 4 0z' fill='#232323'/><path d='M279-107.03c0 .554-.446 1-1 1h-9c-.554 0-1-.446-1-1v-8c0-.554.446-1 1-1h9c.554 0 1 .446 1 1zm-5-4v-4a4 4 0 0 0-4 4z' fill='#232323' opacity='.2'/><path d='M274-107.03a4 4 0 0 1 4-4 4 4 0 0 1-4-4' fill='#232323' opacity='.2'/><path d='M274-107.03a4 4 0 0 1 4-4h-4z' fill='#232323' opacity='.2'/></g></svg>

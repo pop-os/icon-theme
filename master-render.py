@@ -58,6 +58,9 @@ def render_symbolics() -> None:
         print('Failed to render symbolic icons. See output above.')
         sys.exit(1)
 
+def cleanup_unoptomized_renders() -> None:
+    print('  -- Cleaning up any unoptimized output')
+
 def generate_symlinks() -> None:
     print('  -- Generating symbolic links...')
     os.chdir(SRCDIR / 'symlinks')

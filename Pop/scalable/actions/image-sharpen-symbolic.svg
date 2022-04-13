@@ -1,7 +1,1 @@
-<svg height='960' style='enable-background:new' width='1024' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-</svg>
+<svg viewBox='0 0 1024 960' xmlns='http://www.w3.org/2000/svg'/>

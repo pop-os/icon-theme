@@ -1,17 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <g style='fill:#333'>
-                <path d='M346.191 963.178h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-346.19 -963.178)'/>
-            </g>
-            <path d='M606 383.006c-1.645 0-3 1.355-3 3v8c0 1.645 1.355 3 3 3h8c1.645 0 3-1.355 3-3v-8c0-1.645-1.355-3-3-3zm0 2h8c.571 0 1 .429 1 1v8c0 .571-.429 1-1 1h-8c-.571 0-1-.429-1-1v-8c0-.571.429-1 1-1z' style='color:#000;fill:#232323;stroke-linecap:round;-inkscape-stroke:none' transform='translate(-602 -382)'/>
-            <path d='M606 386.007v6l1.5-1.5 1.5 1.5 2.5-2.5 2.5 2.5v-6z' style='display:inline;opacity:.5;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' transform='translate(-602 -382)'/>
-            <path d='m610 390.007 4 4h-8z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new' transform='translate(-602 -382)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path color='#000' d='M606 383.01c-1.645 0-3 1.355-3 3v8c0 1.645 1.355 3 3 3h8c1.645 0 3-1.355 3-3v-8c0-1.645-1.355-3-3-3zm0 2h8c.571 0 1 .429 1 1v8c0 .571-.429 1-1 1h-8c-.571 0-1-.429-1-1v-8c0-.571.429-1 1-1z' fill='#232323' style='-inkscape-stroke:none' transform='translate(-602 -382)'/><path d='M4 4.01v6l1.5-1.5 1.5 1.5 2.5-2.5 2.5 2.5v-6z' fill='#232323' opacity='.5'/><path d='m8 8.01 4 4H4z' fill='#232323'/></svg>

@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M369 252V256.281a1.995 1.995 0 0 0-1-.281 2 2 0 1 0 2 2l.003-4h4l-.003 2.281a1.995 1.995 0 0 0-1-.281 2 2 0 1 0 2 2v-6h-5z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50794;marker:none;enable-background:new' transform='translate(-360 -244)'/>
-            <path d='M241 543h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-241 -543)'/>
-            <path d='M242.004 544v1H242v12h.004v2h1v-1h1v1h1v-2H245l.004-1h1l-.004-2h-1v-5h8v1h3v-4h.004v-2h-1v1h-1v-1h-1v1H253l.004 2h-8l-.004-1h.004v-2h-1v1h-1v-1zm.996 2h1v1h-1zm11 0h1v1h-1zm-11 2h1v1h-1zm11 0h1v1h-1zm-11 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50794;marker:none;enable-background:new' transform='translate(-241 -543)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#000' d='M9 8v4.281A1.995 1.995 0 0 0 8 12a2 2 0 1 0 2 2l.003-4h4L14 12.281A1.995 1.995 0 0 0 13 12a2 2 0 1 0 2 2V8h-5z' fill='#232323'/><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path color='#000' d='M1 1v1H.996v12H1v2h1v-1h1v1h1v-2h-.004L4 13h1l-.004-2h-1V6h8v1h3V3H15V1h-1v1h-1V1h-1v1h-.004L12 4H4l-.004-1H4V1H3v1H2V1zm.996 2h1v1h-1zm11 0h1v1h-1zm-11 2h1v1h-1zm11 0h1v1h-1zm-11 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1z' fill='#232323'/></svg>

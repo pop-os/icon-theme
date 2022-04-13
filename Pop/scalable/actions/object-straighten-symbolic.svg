@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M425 121h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-425 -121)'/>
-            <path d='m436.875 122.219-9.844 1.75c-.984.173-.812 1.156-.812 1.156l.5 2.875h12.187l-.875-4.969c-.173-.985-1.156-.812-1.156-.812zM427.25 131l.719 3.969c.174.985 1.156.812 1.156.812l9.844-1.75s.986-.171.812-1.156l-.343-1.875Z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-425 -121)'/>
-            <path d='M185 602v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='translate(-184 -594)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M11.88 1.22 2.036 2.97c-.985.174-.812 1.156-.812 1.156l.5 2.875h12.188l-.875-4.969c-.174-.984-1.157-.812-1.157-.812zm-9.625 8.781.719 3.969c.173.985 1.156.812 1.156.812l9.844-1.75s.986-.17.812-1.156l-.344-1.875z' fill='#232323'/><path color='#000' d='M185 602v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1z' fill='#232323' style='text-decoration-line:none;text-indent:0;text-transform:none' transform='translate(-184 -594)'/></svg>

@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M245-315.003h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-245 315.003)'/>
-            <path d='M226 210.004c-1.108 0-2 .892-2 2v8c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2v-8c0-1.108-.892-2-2-2zm0 2 6 3 6-3v2l-6 3-6-3zm2 3.996 1.25.639L226 220v-2zm8 0 2 2v2l-3.25-3.361z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-224 -208)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#000' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M2 2C.892 2 0 2.892 0 4v8c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V4c0-1.108-.892-2-2-2zm0 2 6 3 6-3v2L8 9 2 6zm2 3.996 1.25.639L2 11.996v-2zm8 0 2 2v2l-3.25-3.361z' fill='#232323'/></svg>

@@ -1,14 +1,1 @@
-<svg height='16.003' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M-397.031-208.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -381.031 208.003)'/>
-            <path d='M152 242c-1.069-.028-2.028.931-2 2h-4s-1 0-1 1v11c0 1 1 1 1 1h9v-3h-7v-1h7v-2h-7v-1h7v-2h-7v-1h8v1h3v-3c0-1-1-1-1-1h-4c.047-1.082-.93-2.022-2-2zm0 1c.837-.03 1.354 1.153.719 1.719-.543.602-1.678.184-1.719-.625-.072-.573.423-1.108 1-1.094z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate' transform='translate(-144.031 -241.997)'/>
-            <path class='warning' d='M393-201v4l.25 2h1.5l.25-2v-4zm0 7v2h2v-2z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ff9800;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-381.031 208.003)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16.003' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M16 0H0v16h16z' fill='gray' fill-opacity='.01'/><path color='#000' d='M7.97 0c-1.069-.028-2.028.931-2 2h-4s-1 0-1 1v11c0 1 1 1 1 1h9v-3h-7v-1h7V9h-7V8h7V6h-7V5h8v1h3V3c0-1-1-1-1-1h-4c.047-1.082-.93-2.022-2-2zm0 1c.837-.03 1.354 1.153.719 1.719-.543.602-1.678.184-1.719-.625-.072-.573.423-1.107 1-1.094z' fill='#232323'/><path class='warning' color='#bebebe' d='M11.97 7v4l.25 2h1.5l.25-2V7zm0 7v2h2v-2z' fill='#ff9800'/></svg>

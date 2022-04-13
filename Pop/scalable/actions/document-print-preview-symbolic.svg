@@ -1,16 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <g style='opacity:1;fill:#4c5263;fill-opacity:1'>
-                <path d='M48 398h16v16H48z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-48 -398)'/>
-            </g>
-            <path d='M188 732.994v2h8v-2zm-2 3c-.5 0-1 .5-1 1v4c0 .5.5 1 1 1h1v-2h5.125a3.66 3.66 0 0 1 2.531-1.031c1.782 0 3.29 1.28 3.625 2.969.393-.138.719-.531.719-.938v-4c0-.5-.5-1-1-1zm2 1.006a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zm0 3.994v5h5.094a3.709 3.709 0 0 1-2.125-3.344c0-.595.151-1.156.406-1.656z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-184 -731.993)'/>
-            <path d='M58.656 405.938a2.726 2.726 0 0 0-2.718 2.718 2.726 2.726 0 0 0 2.718 2.719c.488 0 .948-.148 1.344-.375a.75.75 0 0 0 .156.219L62 413.03a.751.751 0 1 0 1.063-1.062l-1.844-1.813A.75.75 0 0 0 61 410c.227-.396.375-.857.375-1.344a2.726 2.726 0 0 0-2.719-2.719zm0 1c.956 0 1.72.763 1.72 1.718s-.764 1.719-1.72 1.719a1.711 1.711 0 0 1-1.718-1.719c0-.955.763-1.719 1.718-1.719z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-48 -398)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M4 1v2h8V1zM2 4c-.5 0-1 .5-1 1v4c0 .5.5 1 1 1h1V8h5.125a3.66 3.66 0 0 1 2.531-1.031c1.782 0 3.29 1.28 3.625 2.969C14.674 9.8 15 9.407 15 9V5c0-.5-.5-1-1-1zm2 1.006a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zM4 9v5h5.094a3.709 3.709 0 0 1-2.125-3.344c0-.595.151-1.156.406-1.656z' fill='#232323'/><path color='#000' d='M58.656 405.94c-1.496 0-2.719 1.223-2.719 2.719s1.223 2.719 2.719 2.719c.487 0 .947-.149 1.344-.375a.75.75 0 0 0 .156.218L62 413.034a.751.751 0 1 0 1.062-1.063l-1.843-1.812a.75.75 0 0 0-.22-.156c.227-.397.376-.857.376-1.344a2.726 2.726 0 0 0-2.719-2.719zm0 1c.955 0 1.719.764 1.719 1.719s-.764 1.719-1.719 1.719-1.719-.764-1.719-1.72.764-1.718 1.719-1.718z' fill='#232323' style='text-decoration-line:none;text-indent:0;text-transform:none' transform='translate(-48 -398)'/></svg>

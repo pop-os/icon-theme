@@ -1,16 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M-501-455.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -485 455.003)'/>
-            <path d='M499.997-443.005a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z' style='display:inline;opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.313725;enable-background:new' transform='translate(-485 455.003)'/>
-            <g style='display:inline;opacity:.35;fill:#4c5263;fill-opacity:1;enable-background:new'>
-                <path d='M46 94s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h1v-2l-1-1h-2v-7h1v3h2v-3h1v3h2v-3h1v3h2v-3h1v6h2v-7c0-1-1-1-1-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='matrix(1 0 0 1 -44.003 -92.002)'/>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M16 0H0v16h16z' fill='gray' fill-opacity='.01'/><path d='M15 12a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z' fill='#232323'/><g opacity='.35'><path d='M1.997 1.995s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h1v-2l-1-1h-2v-7h1v3h2v-3h1v3h2v-3h1v3h2v-3h1v6h2v-7c0-1-1-1-1-1z' fill='#232323' opacity='1'/></g></svg>

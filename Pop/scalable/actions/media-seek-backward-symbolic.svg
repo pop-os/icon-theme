@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;stroke:none;enable-background:new'>
-            <path d='M-36 487h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(-1 0 0 1 -20 -487)'/>
-            <path d='M27 491.707a1 1 0 0 0-.578.185l-3.854 2.211a1 1 0 0 0-.134.078l-.012.006v.002a1 1 0 0 0-.422.815 1 1 0 0 0 .422.816l.004.002a1 1 0 0 0 .138.08l3.858 2.219a1 1 0 0 0 1.578-.815v-2.298h.004l5.418 3.109a1 1 0 0 0 1.578-.815v-4.592a1 1 0 0 0-1.578-.814l-5.418 3.11H28v-2.3a1 1 0 0 0-1-1z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-20 -487)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M16 0H0v16h16z' fill='gray' fill-opacity='.01'/><path d='M7 4.71a1 1 0 0 0-.578.186l-3.854 2.21a1 1 0 0 0-.134.079l-.012.006v.002A1 1 0 0 0 2 8.007a1 1 0 0 0 .422.816l.004.002a1 1 0 0 0 .138.08l3.858 2.22A1 1 0 0 0 8 10.31v-2.3h.004l5.418 3.11A1 1 0 0 0 15 10.306V5.714a1 1 0 0 0-1.578-.815L8.004 8.01H8v-2.3a1 1 0 0 0-1-1z' fill='#232323'/></svg>

@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16.001' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M499.003-281h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -265 515.003)'/>
-            <path d='M172.004 113.006a11.34 11.34 0 0 0-4.258.828 11.242 11.242 0 0 0-3.742 2.484l6.55 7.932h.003a2 2 0 0 0 2.888-.006h.004l6.555-7.926a11.31 11.31 0 0 0-2.74-2.02l-.069-.03c-.351-.182-.711-.34-1.076-.483-.137-.053-.277-.098-.416-.146a11.284 11.284 0 0 0-1.246-.354c-.264-.058-.53-.105-.797-.144-.146-.022-.29-.047-.437-.063a11.393 11.393 0 0 0-1.219-.072z' style='opacity:.35;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-164.003 -112.002)'/>
-            <path d='M172.004 120.006a5.208 5.208 0 0 0-3.693 1.527l2.244 2.717h.002a2 2 0 0 0 2.888-.006h.004l2.244-2.713a5.203 5.203 0 0 0-3.689-1.525z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-164.003 -112.002)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16.001 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M16 16V0H0v16z' fill='gray' fill-opacity='.01'/><path d='M8 1.01a11.34 11.34 0 0 0-4.258.828A11.241 11.241 0 0 0 0 4.323l6.55 7.931h.003a2 2 0 0 0 2.888-.006h.004L16 4.322a11.31 11.31 0 0 0-2.74-2.019c-.022-.012-.046-.02-.068-.031a11.36 11.36 0 0 0-1.077-.483c-.137-.053-.277-.098-.416-.146a11.284 11.284 0 0 0-1.246-.354c-.264-.058-.53-.105-.797-.144-.145-.022-.29-.047-.437-.063A11.393 11.393 0 0 0 8 1.01z' fill='#232323' opacity='.35'/><path d='M8 8.01a5.208 5.208 0 0 0-3.693 1.527l2.244 2.717h.002a2 2 0 0 0 2.888-.006h.004l2.244-2.713A5.203 5.203 0 0 0 8 8.01z' fill='#232323'/></svg>

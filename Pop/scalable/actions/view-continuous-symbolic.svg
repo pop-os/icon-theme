@@ -1,17 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;stroke:none;enable-background:new' transform='translate(-241 -297)'>
-            <path d='M241 297h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate'/>
-            <rect height='2.003' rx='0' ry='1' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='scale(-1 1)' width='8' x='-253' y='307.003'/>
-            <rect height='1.996' rx='0' ry='1' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='scale(-1 1)' width='8' x='-253' y='301.007'/>
-            <rect height='1.997' ry='1' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='scale(-1 1)' width='12' x='-255' y='304.003'/>
-            <rect height='1' rx='0' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='scale(-1 1)' width='4' x='-251' y='310.003'/>
-            <rect height='1' rx='0' ry='.5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='scale(-1 1)' width='4' x='-251' y='299.003'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g color='#bebebe' transform='translate(-241 -297)'><path d='M241 297h16v16h-16z' fill='gray' fill-opacity='.01'/><rect fill='#232323' height='2.003' rx='0' ry='1' transform='scale(-1 1)' width='8' x='-253' y='307'/><rect fill='#232323' height='1.996' rx='0' ry='1' transform='scale(-1 1)' width='8' x='-253' y='301.01'/><rect fill='#232323' height='1.996' ry='1' transform='scale(-1 1)' width='12' x='-255' y='304'/><rect fill='#232323' height='1' rx='0' ry='.5' transform='scale(-1 1)' width='4' x='-251' y='310'/><rect fill='#232323' height='1' rx='0' ry='.5' transform='scale(-1 1)' width='4' x='-251' y='299'/></g></svg>

@@ -1,15 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-521 207)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(136 -48)'>
-            <path d='M145 324v3s0 1 1 1h5v2h2v-2h5c1 0 1-1 1-1v-3zm2 1h1v1h-1z' style='color:#000;display:inline;overflow:visible;visibility:visible;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate' transform='translate(241 -473)'/>
-            <path d='M385-159h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate'/>
-            <path d='M286 537c-.5 0-1 .5-1 1v3h14v-3c0-.5-.5-1-1-1zm2 1.006c.554 0 1 .446 1 1s-.446 1-1 1-1-.446-1-1 .446-1 1-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(101 -691)'/>
-            <path d='M389-158v3h8v-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none'/>
-        </g>
-    </g>
-</svg>
+<svg enable-background='new' viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><defs><filter color-interpolation-filters='sRGB' height='1' id='a' width='1' x='0' y='0'><feBlend in2='BackgroundImage' mode='darken'/></filter></defs><g filter='url(#a)' transform='translate(-521 207)'><path color='#000' d='M522-197v3s0 1 1 1h5v2h2v-2h5c1 0 1-1 1-1v-3zm2 1h1v1h-1z' enable-background='accumulate' fill='#232323'/><path color='#bebebe' d='M521-207h16v16h-16z' enable-background='accumulate' fill='gray' fill-opacity='.01'/><path d='M523-202c-.5 0-1 .5-1 1v3h14v-3c0-.5-.5-1-1-1zm2 1.006c.554 0 1 .446 1 1s-.446 1-1 1-1-.446-1-1 .446-1 1-1z' fill='#232323'/><path d='M525-206v3h8v-3z' fill='#232323'/></g></svg>

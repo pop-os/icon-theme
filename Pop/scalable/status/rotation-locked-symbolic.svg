@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16.001' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M465 238.972h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(1 0 0 -1 -465 254.972)'/>
-            <path d='M212 224a6 6 0 0 0-6 6h-2l3 4 3-4h-2a4 4 0 1 1 8 0c0 .067-.016.13-.02.195.32-.12.66-.195 1.02-.195.35 0 .68.073.99.186.002-.063.01-.123.01-.186a6 6 0 0 0-6-6zm1 9.857a3.969 3.969 0 0 1-1 .143v2a1 1 0 0 0 .1-.006c.307-.005.606-.04.9-.09v-2.047zm2 1.143v.188c.104-.06.205-.122.305-.188z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-204 -222.028)'/>
-            <path d='M478-246c-1.107 0-2 .91-2 2.031v.969h-1v4h6v-4h-1v-.969c0-1.12-.891-2.031-2-2.031zm0 1c.555 0 1 .442 1 1v1h-2v-1c0-.558.447-1 1-1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-465 254.972)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16.001 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 16h16V0H0z' fill='gray' fill-opacity='.01'/><path d='M8 1.97a6 6 0 0 0-6 6H0l3 4 3-4H4a4 4 0 0 1 8 0c0 .067-.016.13-.02.195.32-.12.66-.195 1.02-.195.35 0 .68.073.99.186.002-.063.01-.123.01-.186a6 6 0 0 0-6-6zm1 9.857a3.969 3.969 0 0 1-1 .143v2a1 1 0 0 0 .1-.006c.307-.005.606-.04.9-.09v-2.047zm2 1.143v.187c.104-.06.205-.121.305-.187z' fill='#232323'/><path d='M13 8.97c-1.108 0-2 .91-2 2.031v.969h-1v4h6v-4h-1V11c0-1.12-.892-2.031-2-2.031zm0 1c.554 0 1 .442 1 1v1h-2v-1c0-.558.446-1 1-1z' fill='#232323'/></svg>

@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new' transform='matrix(0 -1 -1 0 -319.003 301)'>
-            <path d='M319.003 285h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='rotate(-90)'/>
-            <path d='M52 163c-.554 0-1 .446-1 1v1.594l6.191 6.191.746.246c1.047.262 1.063.265 1.063-.531 0-.432-.012-.434-.5-.719l-5.5-3.687V164c0-.554-.446-1-1-1zm-1.785 4.621-4.715 3.16c-.457.267-.498.284-.5.656v.063c.001.794.033.78 1.031.531L51 170.406v4.5l-1.781 1.219c-.21.14-.219.123-.219.344v.219c0 .427.438.28.438.28l2.562-.28 2.563.28s.437.14.437-.25v-.25c0-.21-.009-.203-.219-.343L53 174.906v-4.5z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(241 -497)'/>
-            <rect height='1.994' ry='.997' style='display:inline;opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:.392157;enable-background:new' transform='scale(-1 1) rotate(-45)' width='17.987' x='15.048' y='-439.404'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g transform='matrix(0 -1 -1 0 -319 301)'><path color='#bebebe' d='M285-319v-16h16v16z' fill='gray' fill-opacity='.01'/><path d='M293-334c-.554 0-1 .446-1 1v1.594l6.191 6.191.746.246c1.047.262 1.063.265 1.063-.531 0-.432-.012-.434-.5-.719l-5.5-3.687V-333c0-.554-.446-1-1-1zm-1.785 4.621-4.715 3.16c-.457.267-.498.284-.5.657v.062c.001.794.033.78 1.031.531l4.969-1.625v4.5l-1.781 1.22c-.209.138-.219.122-.219.343v.219c0 .427.438.28.438.28l2.562-.28 2.563.28s.437.14.437-.25v-.25c0-.21-.009-.203-.219-.343l-1.78-1.219v-4.5z' fill='#232323'/><rect fill='#232323' height='1.994' ry='.997' transform='scale(-1 1) rotate(-45)' width='17.987' x='15.048' y='-439.4'/></g></svg>

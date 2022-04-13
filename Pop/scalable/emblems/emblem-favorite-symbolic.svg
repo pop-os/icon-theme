@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M661-197h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-661 197)'/>
-            <path d='M424.781 310c-2.082 0-3.781 1.675-3.781 3.75 0 1.08.456 2.065 1.188 2.75l5.718 5.5 5.906-5.5a3.765 3.765 0 0 0 1.188-2.75c0-2.075-1.7-3.75-3.781-3.75-1.372 0-2.56.721-3.219 1.813a3.741 3.741 0 0 0-3.219-1.813Z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-420 -308)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M4.78 2C2.698 2 .999 3.675.999 5.75c0 1.08.456 2.065 1.187 2.75l5.72 5.5 5.905-5.5A3.765 3.765 0 0 0 15 5.75C15 3.675 13.3 2 11.219 2c-1.372 0-2.56.721-3.22 1.813A3.74 3.74 0 0 0 4.78 2z' fill='#232323'/></svg>

@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M281 149h16v16h-16z' xml:space='preserve' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-281 -149)'/>
-            <path d='m49.219 620-.313.281-3.625 3.625-.281.313V629.78l.281.313 3.625 3.625.313.281H54.78l.313-.281 3.625-3.625.281-.313V624.22l-.281-.313-3.625-3.625-.313-.281h-5.156ZM51 623h2v3l-.25 2h-1.469L51 626Zm1 5.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='translate(-44 -619)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g color='#000'><path d='M0 0h16v16H0z' fill='gray' fill-opacity='.01' xml:space='preserve'/><path d='m49.219 620-.313.281-3.624 3.625-.282.313v5.561l.282.313 3.625 3.625.312.281h5.563l.312-.281 3.625-3.625.281-.313v-5.56l-.281-.313-3.625-3.625-.313-.281h-5.156zM51 623h2v3l-.25 2h-1.469l-.28-2zm1 5.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z' fill='#232323' style='text-decoration-line:none;text-indent:0;text-transform:none' transform='translate(-44 -619)'/></g></svg>

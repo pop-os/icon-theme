@@ -1,14 +1,1 @@
-<svg height='16.003' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M496-484v1c0 .276.1.538.281.719l.782.781-.782.781a1.015 1.015 0 0 0-.28.719v1h1c.275 0 .537-.1.718-.281l.781-.781.781.78c.181.182.443.282.72.282h1v-1c0-.276-.101-.538-.282-.719l-.781-.781.781-.781c.18-.181.281-.443.281-.719v-1h-1c-.276 0-.538.1-.719.281l-.78.781-.782-.78A1.015 1.015 0 0 0 497-484Z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-485 495.003)'/>
-            <path d='M-501-495.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(-1 0 0 1 -485 495.003)'/>
-            <path d='m490.999-490.003 4.5 5.5 4.5-5.5c-.003.004-1.334 0-2 0v-3h-5v3h-2zM494.999-483.003l-4.5-5.5-4.5 5.5c.003-.004 1.333 0 2 0v3h5v-3h2z' style='color:#000;display:inline;opacity:.35;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-485 495.003)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16.003' xmlns='http://www.w3.org/2000/svg'><path d='M11 11v1c0 .276.1.538.281.719l.781.781-.78.781A1.015 1.015 0 0 0 11 15v1h1c.276 0 .538-.1.719-.281l.781-.781.781.78c.181.182.443.282.719.282h1v-1c0-.276-.1-.538-.281-.719l-.781-.781.78-.781c.182-.181.282-.443.282-.719v-1h-1c-.276 0-.538.1-.719.281l-.781.781-.781-.78A1.015 1.015 0 0 0 12 11z' fill='#232323'/><path color='#bebebe' d='M16 0H0v16h16z' fill='gray' fill-opacity='.01'/><path color='#000' d='m6 5 4.5 5.5L15 5c-.003.004-1.333 0-2 0V2H8v3H6z' fill='#232323' opacity='.35'/><path color='#000' d='M10 12 5.5 6.5 1 12c.003-.004 1.333 0 2 0v3h5v-3h2z' fill='#232323' opacity='.35'/></svg>

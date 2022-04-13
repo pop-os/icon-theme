@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M281 149h16v16h-16z' xml:space='preserve' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-281 -149)'/>
-            <path d='m229.219 673-.313.281-3.625 3.625-.281.313V682.78l.281.313 3.625 3.625.313.281H234.78l.313-.281 3.625-3.625.281-.313V677.22l-.281-.313-3.625-3.625-.313-.281h-5.156zm6.73 3.637a1 1 0 0 1 .707.293 1 1 0 0 1 0 1.414L231 684l-3.535-3.535a1 1 0 0 1 0-1.414 1 1 0 0 1 1.414 0l2.121 2.12 4.242-4.241a1 1 0 0 1 .707-.293z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='translate(-224 -672)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g color='#000'><path d='M0 0h16v16H0z' fill='gray' fill-opacity='.01' xml:space='preserve'/><path d='m229.22 673-.313.281-3.625 3.625-.28.313v5.561l.28.313 3.625 3.625.313.281h5.562l.313-.281 3.625-3.625.281-.313v-5.56l-.281-.313-3.625-3.625-.313-.281h-5.156zm6.73 3.637a1 1 0 0 1 .708.293 1 1 0 0 1 0 1.414L231 684l-3.535-3.535a1 1 0 0 1 0-1.414 1 1 0 0 1 1.414 0l2.121 2.12 4.243-4.241a1 1 0 0 1 .707-.293z' fill='#232323' style='text-decoration-line:none;text-indent:0;text-transform:none' transform='translate(-224 -672)'/></g></svg>

@@ -1,16 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline;enable-background:new' transform='translate(-323 -629)'>
-        <path d='M323 629h16v16h-16z' style='opacity:1;fill:gray;fill-opacity:.0117647;stroke:none'/>
-        <path d='M789 153c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h7c1.108 0 2-.892 2-2v-10c0-1.108-.892-2-2-2zm0 1h7c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1h-7z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1' transform='translate(-461.031 477)'/>
-        <rect height='14' ry='0' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1' width='2' x='325.969' y='630'/>
-        <path d='M953 157c-1.662 0-3 1.338-3 3s1.338 3 3 3h.5a.499.499 0 1 0 0-1h-.5c-1.108 0-2-.892-2-2s.892-2 2-2 2 .892 2 2h-1a1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0 1 1h2c.554 0 1-.446 1-1 0-1.662-1.338-3-3-3z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1' transform='translate(-621.031 477)'/>
-        <rect height='3' ry='1' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1' width='2' x='335.969' y='632'/>
-        <rect height='3' ry='1' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1' width='2' x='335.969' y='636'/>
-        <rect height='3' ry='1' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.1' width='2' x='335.969' y='640'/>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g transform='translate(-323 -629)'><path d='M323 629h16v16h-16z' fill='gray' fill-opacity='.012'/><path d='M327.97 630c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h7c1.108 0 2-.892 2-2v-10c0-1.108-.892-2-2-2zm0 1h7c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1h-7z' fill='#232323'/><rect fill='#232323' height='14' ry='0' width='2' x='325.97' y='630'/><path d='M331.97 634c-1.662 0-3 1.338-3 3s1.338 3 3 3h.5a.499.499 0 1 0 0-1h-.5c-1.108 0-2-.892-2-2s.892-2 2-2 2 .892 2 2h-1a1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0 1 1h2c.554 0 1-.446 1-1 0-1.662-1.338-3-3-3z' fill='#232323'/><rect fill='#232323' height='3' ry='1' width='2' x='335.97' y='632'/><rect fill='#232323' height='3' ry='1' width='2' x='335.97' y='636'/><rect fill='#232323' height='3' ry='1' width='2' x='335.97' y='640'/></g></svg>

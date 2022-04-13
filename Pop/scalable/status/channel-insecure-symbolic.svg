@@ -1,13 +1,1 @@
-<svg height='16.003' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M279.003 365h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='rotate(-90 -34.998 330.002)'/>
-            <path d='M447 213c-1.108 0-2 .892-2 2v11c0 1.108.892 2 2 2h11c1.108 0 2-.892 2-2v-11c0-1.108-.892-2-2-2zm5 2h1c1.662 0 3 1.338 3 3v2c.554 0 1 .446 1 1v4c0 .554-.446 1-1 1h-7c-.554 0-1-.446-1-1v-4c0-1 1-1 1-1h6v-2c0-1.108-.892-2-2-2h-1c-1.108 0-2.018.892-2 2h-1c0-1.662 1.338-3 3-3zm.5 6a1.5 1.5 0 0 0-.5 2.912V225h1v-1.088a1.5 1.5 0 0 0-.5-2.912z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-444 -211.997)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16.003' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 16V0h16v16z' fill='gray' fill-opacity='.01'/><path d='M3 1c-1.108 0-2 .892-2 2v11c0 1.108.892 2 2 2h11c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2zm5 2h1c1.662 0 3 1.338 3 3v2c.554 0 1 .446 1 1v4c0 .554-.446 1-1 1H5c-.554 0-1-.446-1-1V9c0-1 1-1 1-1h6V6c0-1.108-.892-2-2-2H8c-1.108 0-2.018.892-2 2H5c0-1.662 1.338-3 3-3zm.5 6a1.5 1.5 0 0 0-.5 2.912V13h1v-1.088A1.5 1.5 0 0 0 8.5 9z' fill='#232323'/></svg>

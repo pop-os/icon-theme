@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M821-93h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-821 93)'/>
-            <path d='M572 338.996a7 7 0 1 0 0 14 7 7 0 0 0 0-14zM569 343a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm6 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm-.229 3.994c.336.025.671.13.948.315.368.245.619.608.75 1.03.357.693-.808 1.08-.938.313a.966.966 0 0 0-.375-.5.933.933 0 0 0-.593-.156c-.297.028-.64.23-1.032.469-.197.12-.436.238-.687.344-.253.106-.53.187-.844.187-.314 0-.591-.081-.844-.187a5.326 5.326 0 0 1-.687-.344c-.392-.239-.735-.441-1.032-.469a.932.932 0 0 0-.593.156.966.966 0 0 0-.375.5c-.13.768-1.295.38-.938-.312.131-.423.382-.786.75-1.031.277-.185.602-.288.938-.313.112-.008.233-.01.343 0 .608.057 1.054.36 1.438.594.19.116.364.242.531.312a1.212 1.212 0 0 0 .938 0c.167-.07.34-.196.531-.312.384-.234.83-.537 1.438-.594.11-.01.221-.01.333-.002z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='translate(-564 -337.997)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g color='#bebebe'><path d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zM5 5.004a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm6 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm-.229 3.994c.336.025.671.13.948.314.368.246.619.609.75 1.032.357.692-.808 1.08-.938.312a.966.966 0 0 0-.375-.5.933.933 0 0 0-.594-.156c-.296.028-.639.23-1.03.469-.198.12-.437.238-.688.343C8.59 10.92 8.314 11 8 11c-.314 0-.591-.081-.844-.188a5.326 5.326 0 0 1-.687-.343c-.392-.239-.735-.441-1.031-.47-.207-.019-.422.042-.594.157s-.314.302-.375.5c-.13.768-1.294.38-.938-.312.132-.423.382-.786.75-1.032.277-.184.602-.288.938-.312.112-.008.233-.01.344 0 .607.057 1.053.36 1.437.594.19.116.364.242.531.312a1.212 1.212 0 0 0 .938 0c.167-.07.34-.196.531-.312.384-.234.83-.537 1.438-.594.11-.01.222-.01.334-.002z' fill='#232323'/></g></svg>

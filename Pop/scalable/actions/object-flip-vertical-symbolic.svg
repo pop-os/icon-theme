@@ -1,13 +1,1 @@
-<svg height='16.003' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;stroke:none;enable-background:new'>
-            <path d='m252 474-3 5h2v6h-2l3 5 3-5h-2v-6h2z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-244 -473.997)'/>
-            <path d='M-277-803h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none' transform='rotate(180 -130.5 -393.5)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16.003' xmlns='http://www.w3.org/2000/svg'><path d='M8 0 5 5h2v6H5l3 5 3-5H9V5h2z' fill='#232323'/><path color='#bebebe' d='M16 16H0V0h16z' fill='gray' fill-opacity='.01'/></svg>

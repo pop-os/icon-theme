@@ -1,16 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M325 101h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-325 -101)'/>
-            <path d='m330 113 3 4 3-4z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-325 -101)'/>
-            <path d='M329.5 101c-1.645 0-3 1.355-3 3v5c0 1.645 1.355 3 3 3h7c1.645 0 3-1.355 3-3v-5c0-1.645-1.355-3-3-3zm0 2h7c.571 0 1 .429 1 1v5c0 .571-.429 1-1 1h-7c-.571 0-1-.429-1-1v-5c0-.571.429-1 1-1z' style='color:#000;fill:#232323;stroke-linecap:round;-inkscape-stroke:none' transform='translate(-325 -101)'/>
-            <path d='M329.5 104v3l1.313-1.125 1.312 1.125 2.188-1.875L336.5 107v-3z' style='display:inline;opacity:.5;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1.62019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new' transform='translate(-325 -101)'/>
-            <path d='m333 106 3.5 3h-7z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:.810093px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new' transform='translate(-325 -101)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='m5 12 3 4 3-4z' fill='#232323'/><path color='#000' d='M329.5 101c-1.645 0-3 1.355-3 3v5c0 1.645 1.355 3 3 3h7c1.645 0 3-1.355 3-3v-5c0-1.645-1.355-3-3-3zm0 2h7c.571 0 1 .429 1 1v5c0 .571-.429 1-1 1h-7c-.571 0-1-.429-1-1v-5c0-.571.429-1 1-1z' fill='#232323' style='-inkscape-stroke:none' transform='translate(-325 -101)'/><path d='M4.5 3v3l1.313-1.125L7.125 6l2.188-1.875L11.5 6V3z' fill='#232323' opacity='.5'/><path d='m8 5 3.5 3h-7z' fill='#232323'/></svg>

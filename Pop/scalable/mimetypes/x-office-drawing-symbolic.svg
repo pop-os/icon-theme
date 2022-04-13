@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M685-331.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-685 331.003)'/>
-            <path d='M447 166.996c-2 .004-2 2.004-2 2.004.018 3.398-.014 6.969 0 10 0 2 2 2 2 2h10s2 0 2-2v-10c0-2-2-2-2-2l-10-.004zm2.5 3.004a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5zm3 5c.446 0 .832.213 1.072.475.24.261.375.552.5.802s.24.46.344.573c.104.113.155.15.334.15H456v1h-1.25c-.446 0-.832-.213-1.072-.475-.24-.261-.375-.552-.5-.802s-.24-.46-.344-.573c-.104-.113-.155-.15-.334-.15-.18 0-.23.037-.334.15-.104.114-.219.323-.344.573-.125.25-.26.54-.5.802s-.626.475-1.072.475H448v-1h2.25c.18 0 .23-.037.334-.15.104-.114.219-.323.344-.573.125-.25.26-.54.5-.802s.626-.475 1.072-.475Z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;filter:url(#filter14069);enable-background:new' transform='translate(-444 -165.997)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M447 167c-2 .004-2 2.004-2 2.004.018 3.398-.014 6.968 0 10 0 2 2 2 2 2h10s2 0 2-2v-10c0-2-2-2-2-2L447 167zm2.5 3.004a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5zm3 5c.446 0 .832.213 1.072.475.24.261.375.552.5.802s.24.46.344.573c.104.113.155.15.334.15H456v1h-1.25c-.446 0-.832-.213-1.072-.475-.24-.261-.375-.552-.5-.802s-.24-.46-.344-.573c-.104-.113-.155-.15-.334-.15s-.23.037-.334.15c-.104.114-.219.323-.344.573s-.26.54-.5.802-.626.475-1.072.475H448v-1h2.25c.18 0 .23-.037.334-.15.104-.114.219-.323.344-.573s.26-.54.5-.802.626-.475 1.072-.475z' fill='#232323' filter='url(#filter14069)' transform='translate(-444 -166)'/></svg>

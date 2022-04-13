@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M437-161h16v16h-16z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:0;marker:none;enable-background:new' transform='translate(-437 161)'/>
-            <path d='M204 307a7 7 0 0 0 0 14c.702 0 1.392-.09 2.031-.281.054-.42.214-.839.531-1.156l.063-.063-.063-.063a1.917 1.917 0 0 1-.5-.906A4.927 4.927 0 0 1 204 319a5 5 0 1 1 5-5c0 .741-.18 1.43-.469 2.063.332.08.65.244.906.5l.063.062.063-.063c.317-.317.736-.477 1.156-.53.192-.64.281-1.33.281-2.032a7 7 0 0 0-7-7zm2.406 4.188a.504.504 0 0 0-.25.156L204 313.5l-1.656-1.656c-.157-.257-.568-.307-.781-.094-.214.213-.164.624.093.781l2 2a.519.519 0 0 0 .688 0l2.5-2.5c.293-.298-.025-.91-.438-.843z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-196 -306)'/>
-            <path d='M207 317v1c0 .276.1.538.281.719l.781.781-.78.781A1.015 1.015 0 0 0 207 321v1h1c.276 0 .538-.1.719-.281l.781-.781.781.78c.181.182.443.282.719.282h1v-1c0-.276-.1-.538-.281-.719l-.781-.781.78-.781c.182-.181.282-.443.282-.719v-1h-1c-.276 0-.538.1-.719.281l-.781.781-.781-.78A1.015 1.015 0 0 0 208 317Z' style='display:inline;opacity:1;fill:#232323;fill-opacity:1;stroke:none;enable-background:new' transform='translate(-196 -306)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#000' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path color='#bebebe' d='M8 1a7 7 0 1 0 0 14 7.12 7.12 0 0 0 2.031-.281c.054-.42.214-.839.531-1.156l.063-.063-.063-.062a1.917 1.917 0 0 1-.5-.907A4.927 4.927 0 0 1 8 13a5 5 0 1 1 5-5c0 .741-.18 1.43-.469 2.063.332.08.65.244.906.5l.063.062.062-.062c.318-.318.737-.478 1.157-.532.192-.639.28-1.33.28-2.03a7 7 0 0 0-7-7zm2.406 4.188a.504.504 0 0 0-.25.156L8 7.5 6.344 5.844c-.157-.257-.568-.307-.781-.094-.213.213-.164.624.093.781l2 2a.519.519 0 0 0 .688 0l2.5-2.5c.293-.298-.025-.91-.438-.843z' fill='#232323'/><path d='M11 11v1c0 .276.1.538.281.719l.781.781-.78.781A1.015 1.015 0 0 0 11 15v1h1c.276 0 .538-.1.719-.281l.781-.781.781.78c.181.182.443.282.719.282h1v-1c0-.276-.1-.538-.281-.719l-.781-.781.78-.781c.182-.181.282-.443.282-.719v-1h-1c-.276 0-.538.1-.719.281l-.781.781-.781-.78A1.015 1.015 0 0 0 12 11z' fill='#232323'/></svg>

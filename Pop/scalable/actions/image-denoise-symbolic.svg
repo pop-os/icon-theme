@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M401 785h16v16h-16z' style='opacity:1;fill:gray;fill-opacity:.0117647;fill-rule:nonzero;stroke:none' transform='translate(-401 -785)'/>
-            <path d='M402 786h2v2h-2zM404 786h2v2h-2zM406 786h2v2h-2zM406 788h2v2h-2zM404 790h2v2h-2zM402 792h2v2h-2zM404 794h2v2h-2zM406 792h2v2h-2zM408 790h2v2h-2zM410 790h2v2h-2zM410 786h2v2h-2zM412 788h2v2h-2zM412 794h2v2h-2zM408 796h2v2h-2zM410 798h2v2h-2zM404 798h2v2h-2zM414 796h2v2h-2zM414 798h2v2h-2z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='translate(-401 -785)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path d='M0 0h16v16H0z' fill='gray' fill-opacity='.012'/><path color='#000' d='M1 1h2v2H1z' fill='#232323'/><path color='#000' d='M3 1h2v2H3z' fill='#232323'/><path color='#000' d='M5 1h2v2H5z' fill='#232323'/><path color='#000' d='M5 3h2v2H5z' fill='#232323'/><path color='#000' d='M3 5h2v2H3z' fill='#232323'/><path color='#000' d='M1 7h2v2H1z' fill='#232323'/><path color='#000' d='M3 9h2v2H3z' fill='#232323'/><path color='#000' d='M5 7h2v2H5z' fill='#232323'/><path color='#000' d='M7 5h2v2H7z' fill='#232323'/><path color='#000' d='M9 5h2v2H9z' fill='#232323'/><path color='#000' d='M9 1h2v2H9z' fill='#232323'/><path color='#000' d='M11 3h2v2h-2z' fill='#232323'/><path color='#000' d='M11 9h2v2h-2z' fill='#232323'/><path color='#000' d='M7 11h2v2H7z' fill='#232323'/><path color='#000' d='M9 13h2v2H9z' fill='#232323'/><path color='#000' d='M3 13h2v2H3z' fill='#232323'/><path color='#000' d='M13 11h2v2h-2z' fill='#232323'/><path color='#000' d='M13 13h2v2h-2z' fill='#232323'/></svg>

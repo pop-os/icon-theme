@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16.003' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;fill:#4c5263;fill-opacity:.556832;enable-background:new'>
-            <path d='M201 543h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1.781;marker:none;enable-background:new;stop-opacity:1' transform='translate(-201 -543)'/>
-            <path d='M586 512c-1.108 0-2 .892-2 2v12c0 1.108.892 2 2 2s2-.892 2-2v-4h8v4c0 1.108.892 2 2 2s2-.892 2-2v-12c0-1.108-.892-2-2-2zm1.5 2h1c.277 0 .5.223.5.5v1.5h1.5c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5H589v1.5c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5V518h-1.5a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5h1.5v-1.5c0-.277.223-.5.5-.5zm8 0h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5zm-2 2h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5zm4 0h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5zm-2 2h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5z' style='opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-opacity:1' transform='translate(-583.996 -512)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16.003 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path d='M2 0C.892 0 0 .892 0 2v12c0 1.108.892 2 2 2s2-.892 2-2v-4h8v4c0 1.108.892 2 2 2s2-.892 2-2V2c0-1.108-.892-2-2-2zm1.5 2h1c.277 0 .5.223.5.5V4h1.5c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5H5v1.5c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5V6H1.5a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5H3V2.5c0-.277.223-.5.5-.5zm8 0h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5zm-2 2h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5zm4 0h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5zm-2 2h1c.277 0 .5.223.5.5v1c0 .277-.223.5-.5.5h-1a.499.499 0 0 1-.5-.5v-1c0-.277.223-.5.5-.5z' fill='#232323'/></svg>

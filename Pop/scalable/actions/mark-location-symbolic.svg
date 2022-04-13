@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;stroke:none;enable-background:new' transform='translate(-381 -57)'>
-            
-            <path d='M389 58.003a5 5 0 0 0-5 5c0 .173.014.332.031.5.014.168.036.337.063.5.572 3.515 2.906 6.004 4.906 8.004 2-2 4.334-4.49 4.906-8.004.027-.163.05-.332.063-.5.017-.168.031-.327.031-.5a5 5 0 0 0-5-5zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><g transform='translate(-381 -57)'><path color='#000' d='M389 58.003a5 5 0 0 0-5 5c0 .173.014.332.031.5.014.167.036.336.063.5.572 3.514 2.906 6.003 4.906 8.003 2-2 4.334-4.489 4.906-8.003a6.38 6.38 0 0 0 .063-.5c.017-.168.03-.327.03-.5a5 5 0 0 0-5-5zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4z' fill='#232323'/></g></svg>

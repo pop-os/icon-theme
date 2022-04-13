@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M744-306.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='translate(-744 306.003)'/>
-            <path d='M587.98 135.004a.996.996 0 0 0-.98.996v.004c0 .554.446 1 1 1h8c.554 0 1-.446 1-1V136a.996.996 0 0 0-.98-.996zm0 4A.998.998 0 0 0 588 141h4a.998.998 0 0 0 1-.996V140a.996.996 0 0 0-.98-.996zM590 143l-2.016.004A.998.998 0 0 0 588 145h2c.554 0 1-.446 1-1a.998.998 0 0 0-.996-1H590z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:1;marker:none' transform='translate(-584 -132)'/>
-            <path d='M595 139c-.554 0-1 .446-1 1V143.094a1.55 1.55 0 0 0-.5-.094 1.5 1.5 0 1 0 1.5 1.5V141h3v2.094a1.55 1.55 0 0 0-.5-.094 1.5 1.5 0 1 0 1.5 1.5V140c0-.554-.446-1-1-1z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new' transform='translate(-584 -132)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path color='#bebebe' d='M3.98 3a.996.996 0 0 0-.98.996V4c0 .554.446 1 1 1h8c.554 0 1-.446 1-1v-.004A.996.996 0 0 0 12.02 3zm0 4A.998.998 0 0 0 4 8.996h4A.998.998 0 0 0 9 8v-.004A.996.996 0 0 0 8.02 7zM6 10.996 3.984 11A.998.998 0 0 0 4 12.996h2c.554 0 1-.446 1-1a.998.998 0 0 0-.997-1H6z' fill='#232323'/><path color='#000' d='M11 7c-.554 0-1 .446-1 1v3.094A1.55 1.55 0 0 0 9.5 11a1.5 1.5 0 1 0 1.5 1.5V9h3v2.094a1.55 1.55 0 0 0-.5-.094 1.5 1.5 0 1 0 1.5 1.5V8c0-.554-.446-1-1-1z' fill='#232323'/></svg>

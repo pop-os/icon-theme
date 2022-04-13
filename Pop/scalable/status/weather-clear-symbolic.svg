@@ -1,13 +1,1 @@
-<svg height='16.001' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='m132 161.996-.5 1.031c.165-.011.332-.03.5-.03.168 0 .335.019.5.03zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12zm-5.656.344.375 1.094c.218-.252.467-.501.719-.72zm11.312 0-1.094.375c.252.218.501.467.72.719zm-12.625 5.156-1.031.5 1.031.5c-.011-.165-.031-.332-.031-.5 0-.168.02-.335.031-.5zm13.938 0c.011.165.031.332.031.5 0 .168-.02.335-.031.5l1.031-.5zm-12.25 5.063-.375 1.093 1.094-.375a7.326 7.326 0 0 1-.72-.718zm10.562 0c-.218.25-.467.5-.719.718l1.094.375zm-5.781 2.406.5 1.031.5-1.031c-.165.012-.332.031-.5.031-.168 0-.335-.02-.5-.031z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-124 -161.996)'/>
-            <path d='M362-274h16v16h-16z' fill='none' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:0;stroke:none;stroke-width:1.781;marker:none;enable-background:new' transform='translate(-362 274)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16.001' xmlns='http://www.w3.org/2000/svg'><g color='#bebebe'><path d='m8 .001-.5 1.031c.165-.012.332-.031.5-.031s.335.02.5.031zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12zm-5.656.344.375 1.094c.218-.252.468-.501.719-.72zm11.312 0-1.094.375c.251.218.501.467.719.718zM1.031 7.5 0 8l1.031.5C1.019 8.336 1 8.169 1 8s.02-.335.031-.5zm13.938 0c.012.165.031.332.031.5s-.02.335-.031.5L16 8zm-12.25 5.062-.375 1.094 1.094-.375a7.326 7.326 0 0 1-.719-.719zm10.562 0a7.404 7.404 0 0 1-.719.72l1.094.374zM7.5 14.97 8 16l.5-1.03c-.165.011-.332.03-.5.03s-.335-.019-.5-.03z' fill='#232323'/><path d='M0 .001h16v16H0z' fill='none'/></g></svg>

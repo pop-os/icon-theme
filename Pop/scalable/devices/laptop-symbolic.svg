@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-361 247)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(-20 56)'>
-            <path d='M381-303h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:2;marker:none;enable-background:accumulate'/>
-            <path d='M102 398.003c-1 0-1 1-1 1v9s0 1 1 1h12s1 0 1-1v-9s0-1-1-1zm1 2h10v7l-10-.024zm-3 10V411h16v-.997c0-1-1-1-1-1h-14.022s-.978 0-.978 1z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(281 -699)'/>
-        </g>
-    </g>
-</svg>
+<svg enable-background='new' viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><defs><filter color-interpolation-filters='sRGB' height='1' id='a' width='1' x='0' y='0'><feBlend in2='BackgroundImage' mode='darken'/></filter></defs><g filter='url(#a)' transform='translate(-361 247)'><path color='#bebebe' d='M361-247h16v16h-16z' enable-background='accumulate' fill='gray' fill-opacity='.01'/><path d='M363-245c-1 0-1 1-1 1v9s0 1 1 1h12s1 0 1-1v-9s0-1-1-1zm1 2h10v7l-10-.024zm-3 10v.997h16V-233c0-1-1-1-1-1h-14.022s-.978 0-.978 1z' fill='#232323'/></g></svg>

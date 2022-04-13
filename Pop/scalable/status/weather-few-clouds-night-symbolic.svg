@@ -1,14 +1,1 @@
-<svg height='16.005' style='enable-background:new' width='16.002' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M191.75 143.031c-2.763.102-5.309 1.805-6.313 4.563-1.263 3.472.37 7.324 3.688 8.812a3.3 3.3 0 0 1-.125-1.062c.028-1.001.584-1.888 1.375-2.469a6.497 6.497 0 0 1-1.281-6.594c.514-1.412 1.474-2.508 2.656-3.25z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='translate(-183.998 -141.995)'/>
-            <path d='M424.998-331.005h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1.781;marker:none;enable-background:new' transform='translate(-424.998 331.005)'/>
-            <path d='M195 171c-1.312 0-2.405.858-2.813 2.031A2.494 2.494 0 0 0 192.5 178h5a2.494 2.494 0 0 0 .313-4.969c-.408-1.173-1.501-2.031-2.813-2.031Z' style='opacity:1;fill:#232323;fill-opacity:1;stroke:none' transform='translate(-183.998 -161.995)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16.002 16.005' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M7.752 1.035C4.989 1.136 2.443 2.84 1.44 5.597c-1.264 3.473.368 7.325 3.687 8.813a3.3 3.3 0 0 1-.125-1.063c.028-1 .584-1.887 1.375-2.468a6.497 6.497 0 0 1-1.281-6.594c.514-1.413 1.474-2.509 2.656-3.25z' fill='gray' fill-opacity='.01'/><path color='#bebebe' d='M.002-.005h16v16h-16z' fill='gray' fill-opacity='.01'/><path d='M11.002 9.005c-1.312 0-2.405.858-2.812 2.031a2.494 2.494 0 0 0 .312 4.969h5a2.494 2.494 0 0 0 .313-4.969c-.408-1.173-1.501-2.031-2.813-2.031z' fill='#232323'/></svg>

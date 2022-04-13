@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M399.003-161h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none' transform='matrix(0 -1 -1 0 -145 415.003)'/>
-            <path d='M72.004 113.008c-1.15 0-2.296.181-3.402.53-.33.103-.658.22-.979.355-.146.06-.288.133-.432.2a11.194 11.194 0 0 0-1.148.622c-.23.143-.454.298-.676.459-.13.094-.262.186-.388.287-.336.267-.664.549-.975.86l6.55 7.931h.003a2 2 0 0 0 2.888-.006h.004l1.555-1.88v-5.36h4.432l.568-.686a11.415 11.415 0 0 0-.785-.709c-.067-.055-.136-.106-.203-.16-.215-.17-.435-.332-.659-.484-.072-.05-.143-.101-.216-.149a11.23 11.23 0 0 0-1.88-.982l-.001-.002a11.337 11.337 0 0 0-4.256-.826z' style='opacity:.35;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' transform='translate(-64.003 -112.002)'/>
-            <path class='error' d='M157-409v4l.25 2h1.5l.25-2v-4zm0 7v2h2v-2z' style='color:#444;fill:#f44336;fill-opacity:1;stroke:none' transform='translate(-145 415.003)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M16 16V0H0v16z' fill='gray' fill-opacity='.01'/><path d='M8.001 1.01c-1.15 0-2.296.181-3.402.53-.33.103-.658.22-.979.355-.146.061-.288.133-.431.2a11.194 11.194 0 0 0-1.149.622c-.23.143-.454.298-.676.459-.13.095-.261.186-.388.287-.336.267-.664.549-.975.86l6.55 7.931h.003a2 2 0 0 0 2.889-.006h.003l1.555-1.88v-5.36h4.432L16 4.322a11.413 11.413 0 0 0-.785-.709c-.067-.055-.136-.106-.203-.16-.215-.17-.435-.332-.658-.484-.073-.05-.144-.101-.217-.149a11.233 11.233 0 0 0-1.88-.982l-.001-.002A11.338 11.338 0 0 0 8 1.01z' fill='#232323' opacity='.35'/><path class='error' color='#444' d='M12 6v4l.25 2h1.5l.25-2V6zm0 7v2h2v-2z' fill='#f44336'/></svg>

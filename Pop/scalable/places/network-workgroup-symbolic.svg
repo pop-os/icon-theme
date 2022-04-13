@@ -1,13 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M805.679-308.593h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:3;marker:none;enable-background:accumulate' transform='translate(-805.679 308.593)'/>
-            <path d='M630.5 53c-.822 0-1.5.678-1.5 1.5v2c0 .822.678 1.5 1.5 1.5h.5v1h-6v2h2v1h-.5c-.822 0-1.5.678-1.5 1.5v2c0 .822.678 1.5 1.5 1.5h3c.822 0 1.5-.678 1.5-1.5v-2c0-.822-.678-1.5-1.5-1.5h-.5v-1h6v1h-.5c-.822 0-1.5.678-1.5 1.5v2c0 .822.678 1.5 1.5 1.5h3c.822 0 1.5-.678 1.5-1.5v-2c0-.822-.678-1.5-1.5-1.5h-.5v-1h2v-2h-6v-1h.5c.822 0 1.5-.678 1.5-1.5v-2c0-.822-.678-1.5-1.5-1.5zm0 1h3c.286 0 .5.214.5.5v2c0 .286-.214.5-.5.5h-3a.488.488 0 0 1-.5-.5v-2c0-.286.214-.5.5-.5zm-4 9h3c.286 0 .5.214.5.5v2c0 .286-.214.5-.5.5h-3a.488.488 0 0 1-.5-.5v-2c0-.286.214-.5.5-.5zm8 0h3c.286 0 .5.214.5.5v2c0 .286-.214.5-.5.5h-3a.488.488 0 0 1-.5-.5v-2c0-.286.214-.5.5-.5z' style='color:#000;fill:#232323;stroke-linecap:round;-inkscape-stroke:none' transform='translate(-624 -52)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path color='#000' d='M630.5 53c-.822 0-1.5.678-1.5 1.5v2c0 .822.678 1.5 1.5 1.5h.5v1h-6v2h2v1h-.5c-.822 0-1.5.678-1.5 1.5v2c0 .822.678 1.5 1.5 1.5h3c.822 0 1.5-.678 1.5-1.5v-2c0-.822-.678-1.5-1.5-1.5h-.5v-1h6v1h-.5c-.822 0-1.5.678-1.5 1.5v2c0 .822.678 1.5 1.5 1.5h3c.822 0 1.5-.678 1.5-1.5v-2c0-.822-.678-1.5-1.5-1.5h-.5v-1h2v-2h-6v-1h.5c.822 0 1.5-.678 1.5-1.5v-2c0-.822-.678-1.5-1.5-1.5zm0 1h3c.286 0 .5.214.5.5v2c0 .286-.214.5-.5.5h-3a.488.488 0 0 1-.5-.5v-2c0-.286.214-.5.5-.5zm-4 9h3c.286 0 .5.214.5.5v2c0 .286-.214.5-.5.5h-3a.488.488 0 0 1-.5-.5v-2c0-.286.214-.5.5-.5zm8 0h3c.286 0 .5.214.5.5v2c0 .286-.214.5-.5.5h-3a.488.488 0 0 1-.5-.5v-2c0-.286.214-.5.5-.5z' fill='#232323' style='-inkscape-stroke:none' transform='translate(-624 -52)'/></svg>

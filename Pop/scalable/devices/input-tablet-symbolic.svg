@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline;filter:url(#a)' transform='translate(-481 247)'>
-        <g style='display:inline;filter:url(#a);enable-background:new' transform='translate(20 -144)'>
-            <path d='M461-103h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.0117647;stroke:none;stroke-width:1.781;marker:none;enable-background:new'/>
-            <path d='M246 493c-1.108 0-2 .892-2 2v9c0 1.108.892 2 2 2 3.336 0 6.665.006 10 0 1.108 0 2-.892 2-2v-5.125l-2 2V504h-10v-9h10v.125l1.473-1.473A1.988 1.988 0 0 0 256 493h-10z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate' transform='translate(217 -594.997)'/>
-            <path d='M239 336c-.277 0-.538.1-.719.281l-6 6c-.18.181-.281.442-.281.719v1h1c.277 0 .538-.1.719-.281l6-6c.18-.181.281-.442.281-.719 0-.554-.446-1-1-1z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate' transform='translate(237 -436.997)'/>
-        </g>
-    </g>
-</svg>
+<svg enable-background='new' viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><defs><filter color-interpolation-filters='sRGB' height='1' id='a' width='1' x='0' y='0'><feBlend in2='BackgroundImage' mode='darken'/></filter></defs><g filter='url(#a)' transform='translate(-481 247)'><g color='#bebebe'><path d='M481-247h16v16h-16z' enable-background='new' fill='gray' fill-opacity='.012'/><path d='M483-246c-1.108 0-2 .892-2 2v9c0 1.108.892 2 2 2 3.336 0 6.665.006 10 0 1.108 0 2-.892 2-2v-5.125l-2 2V-235h-10v-9h10v.125l1.473-1.473A1.988 1.988 0 0 0 493-246h-10z' enable-background='accumulate' fill='#232323'/><path d='M496-245c-.277 0-.538.1-.719.281l-6 6c-.18.181-.281.442-.281.719v1h1c.277 0 .538-.1.719-.281l6-6c.18-.181.281-.442.281-.719 0-.554-.446-1-1-1z' enable-background='accumulate' fill='#232323'/></g></g></svg>

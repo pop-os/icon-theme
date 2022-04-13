@@ -1,14 +1,1 @@
-<svg height='16' style='enable-background:new' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <defs>
-        <filter height='1' id='a' style='color-interpolation-filters:sRGB' width='1' x='0' y='0'>
-            <feBlend in2='BackgroundImage' mode='darken'/>
-        </filter>
-    </defs>
-    <g style='display:inline'>
-        <g style='display:inline;enable-background:new'>
-            <path d='M405-195.003h16v16h-16z' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:gray;fill-opacity:.01;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-405 195.003)'/>
-            <path d='M408-189.003c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm5 0c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm5 0c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2z' style='color:#000;display:inline;overflow:visible;visibility:visible;opacity:.35;fill:#232323;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='translate(-405 195.003)'/>
-            <path d='M413-193.004a3 3 0 0 0-3 3v.004h6v-.004a3 3 0 0 0-3-3zM408.844-184c-1.836 1.186-1.844 3-1.844 3v1h12v-1s-.008-1.814-1.84-3z' style='color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate' transform='translate(-405 195.003)'/>
-        </g>
-    </g>
-</svg>
+<svg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'><path color='#bebebe' d='M0 0h16v16H0z' fill='gray' fill-opacity='.01'/><path color='#000' d='M3 6c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm5 0c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm5 0c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2z' fill='#232323' opacity='.35'/><path color='#000' d='M413-193a3 3 0 0 0-3 3v.004h6V-190a3 3 0 0 0-3-3zm-4.156 9.004c-1.836 1.186-1.844 3-1.844 3v1h12v-1s-.008-1.814-1.84-3z' fill='#232323' style='text-decoration-line:none;text-indent:0;text-transform:none' transform='translate(-405 195)'/></svg>
