@@ -1,3 +1,9 @@
+pop-icon-theme (3.0.0) impish; urgency=medium
+
+  * Switch icons to SVG format
+
+ -- Ian Santopietro <ian@system76.com>  Thu, 10 Mar 2022 14:12:08 -0700
+
 pop-icon-theme (2.1.0) disco; urgency=medium
 
   * New symbolic firmware icons.

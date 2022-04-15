@@ -23,33 +23,60 @@ require "fileutils"
 
 include REXML
 
-VERBOSE = FALSE
+VERBOSE = false
 
 # INKSCAPE = 'flatpak run org.inkscape.Inkscape'
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "./source-symbolic.svg"
 PREFIX = "../../Pop/scalable"
+SVGO_CONFIG = "../../svgo.config.js"
 
 # install with `sudo npm install -g svgo`
 SVGO = '/usr/local/bin/svgo'
+SCOUR = '/usr/bin/scour'
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
 	unless (File.exists?(icon[:file]) && !icon[:forcerender])
 		FileUtils.cp(SRC,icon[:file]) 
-		puts " >> #{icon[:name]}"
-		cmd = "#{INKSCAPE} #{icon[:file]} -g --select #{icon[:id]} "
-		cmd += '--verb="FitCanvasToSelection;EditCopy;EditSelectAllInAllLayers;'\
-		  'EditDelete;EditPasteInPlace;EditSelectAll;FileVacuum;FileSave;FileQuit"'
+		puts " >> #{icon[:name]} from #{icon[:file]} as #{icon[:id]}"
+		# cmd = "#{INKSCAPE} #{icon[:file]} --select #{icon[:id]} "
+		# cmd += '--verb="FitCanvasToSelection;EditCopy;EditSelectAllInAllLayers;'\
+		#   'EditDelete;EditPasteInPlace;EditSelectAll;FileVacuum;FileSave;FileQuit"'
+		cmd = "#{INKSCAPE} -i #{icon[:id]} -o #{icon[:file]} --export-id-only #{SRC}"
 	  cmd += " > /dev/null 2>&1" unless VERBOSE
 	  puts " Running '#{cmd}'" if VERBOSE
 		system(cmd)
 		#saving as plain SVG gets rid of the classes :/
 		cmd = "#{INKSCAPE} --vacuum-defs -z #{icon[:file]} --export-plain-svg=#{icon[:file]}"
+		cmd += " > /dev/null 2>&1" unless VERBOSE
 		system(cmd)
-		#completely vaccuum with svgo
-		cmd = "#{SVGO} --pretty -i  #{icon[:file]} -o  #{icon[:file]}"
-		system(cmd)
+		# #completely vaccuum with svgo
+		# cmd = "#{SVGO} --pretty -i  #{icon[:file]} -o  #{icon[:file]}"
+		
+		if (File.exist?(SCOUR)) #clean up SVGs with scour
+			puts " !! #{icon[:name]} in #{icon[:file]}"
+			FileUtils.copy(icon[:file], "#{icon[:file]}-unop") 
+
+			cmd = "#{SCOUR} -i #{icon[:file]}-unop -o #{icon[:file]} "
+			cmd += "--enable-viewboxing --enable-id-stripping --enable-comment-stripping --shorten-ids --indent=none"
+			cmd += " > /dev/null 2>&1" unless VERBOSE
+			puts " Running '#{cmd}'" if VERBOSE
+			system(cmd)
+			FileUtils.remove("#{icon[:file]}-unop")
+		end
+
+		if (File.exists?(SVGO)) #optimize SVGs
+			puts " !! #{icon[:name]} in #{icon[:file]}"
+			FileUtils.copy(icon[:file], "#{icon[:file]}-unop") 
+
+			cmd = "#{SVGO} --config=#{SVGO_CONFIG} --input=#{icon[:file]} --output=#{icon[:file]}"
+			cmd += " > /dev/null 2>&1" unless VERBOSE
+			puts " Running '#{cmd}'" if VERBOSE
+			system(cmd)
+			FileUtils.remove("#{icon[:file]}-unop")
+		end
+
 		# crop
 		svgcrop = Document.new(File.new(icon[:file], 'r'))
 		svgcrop.root.each_element("//rect") do |rect| 
