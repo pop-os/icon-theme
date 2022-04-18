@@ -12,6 +12,6 @@ do
 	do
 		# We don't care if the folders are already gone. This is only needed to 
 		# ensure the HiDPI icons get installed
-		rm -rf "/usr/share/icons/Pop/$SIZE$SCALE"
+		rm -rf "/usr/share/icons/Pop/${SIZE}${SCALE}"
 	done
 done
