@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-filename="/home/sam/Pop-template.png"
    style="display:inline;enable-background:new"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="network-server.svg"
-   inkscape:version="1.0alpha (989d59584b, 2019-01-13)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:version="0.32"
    id="svg11300"
    height="300"
    width="736"
    inkscape:export-xdpi="90.000000"
-   inkscape:export-ydpi="90.000000">
+   inkscape:export-ydpi="90.000000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3004">Pop Icon Theme Template</title>
   <sodipodi:namedview
@@ -32,7 +32,7 @@
      inkscape:snap-global="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:snap-grids="true"
@@ -42,17 +42,17 @@
      inkscape:snap-nodes="true"
      height="300px"
      width="400px"
-     inkscape:window-y="32"
-     inkscape:window-x="411"
-     inkscape:window-height="1371"
-     inkscape:window-width="2149"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
-     inkscape:current-layer="svg11300"
-     inkscape:cy="175.28668"
-     inkscape:cx="420.47546"
+     inkscape:current-layer="layer6"
+     inkscape:cy="176"
+     inkscape:cx="420"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -61,7 +61,8 @@
      pagecolor="#ffffff"
      id="base"
      fill="#f57900"
-     stroke="#ef2929">
+     stroke="#ef2929"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        originy="0"
        originx="0"
@@ -780,875 +781,645 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.08355808px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.6406672;enable-background:new"
          aria-label="?" />
       <g
-         id="g1908">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1542"
-           width="52"
-           height="16"
-           x="230"
-           y="262"
-           ry="4" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1548"
-           width="4"
-           height="12"
-           x="357.56381"
-           y="14.859655"
-           ry="2"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="2"
-           y="8.6724567"
-           x="363.75101"
-           height="12"
-           width="4"
-           id="rect1550"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1552"
-           width="4"
-           height="12"
-           x="369.9382"
-           y="2.4852827"
-           ry="2"
-           transform="rotate(45)" />
-        <path
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:2;stroke-linecap:square"
-           d="m 234,262 c -2.216,0 -4,1.784 -4,4 v 8 c 0,2.216 1.784,4 4,4 h 44 c 2.216,0 4,-1.784 4,-4 v -8 c 0,-2.216 -1.784,-4 -4,-4 z m 0,1 h 44 c 1.662,0 3,1.338 3,3 v 7 c 0,1.662 -1.338,3 -3,3 h -44 c -1.662,0 -3,-1.338 -3,-3 v -7 c 0,-1.662 1.338,-3 3,-3 z"
-           id="rect1554"
-           inkscape:connector-curvature="0" />
-        <circle
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="path1561"
-           cx="268"
-           cy="270"
-           r="2" />
-        <circle
-           r="2"
-           cy="270"
-           cx="273"
-           id="circle1563"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="circle1565"
-           cx="278"
-           cy="270"
-           r="2" />
-      </g>
-      <rect
-         style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-         id="rect1567"
-         width="40"
-         height="12"
-         x="160"
-         y="267"
-         ry="3" />
-      <rect
-         style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-         id="rect1569"
-         width="3"
-         height="9"
-         x="308.21277"
-         y="70.453323"
-         ry="1.5"
-         transform="rotate(45)" />
-      <rect
-         transform="rotate(45)"
-         ry="1.5"
-         y="65.326797"
-         x="313.33929"
-         height="9"
-         width="3"
-         id="rect1571"
-         style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
-      <rect
-         style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-         id="rect1573"
-         width="3"
-         height="9"
-         x="318.46585"
-         y="60.200245"
-         ry="1.5"
-         transform="rotate(45)" />
-      <circle
-         style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-         id="circle1575"
-         cx="187.5"
-         cy="272.5"
-         r="1.5" />
-      <circle
-         r="1.5"
-         cy="272.5"
-         cx="191.5"
-         id="circle1577"
-         style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
-      <circle
-         style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-         id="circle1579"
-         cx="195.5"
-         cy="272.5"
-         r="1.5" />
-      <rect
-         ry="1"
-         y="278"
-         x="15.999998"
-         height="5"
-         width="16"
-         id="rect1595"
-         style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
-      <rect
-         transform="rotate(45)"
-         ry="0.5"
-         y="183.76198"
-         x="210.92493"
-         height="3"
-         width="1"
-         id="rect1597"
-         style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
-      <rect
-         style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-         id="rect1599"
-         width="1"
-         height="3"
-         x="212.51591"
-         y="182.17099"
-         ry="0.5"
-         transform="rotate(45)" />
-      <rect
-         transform="rotate(45)"
-         ry="0.5"
-         y="180.58"
-         x="214.1069"
-         height="3"
-         width="1"
-         id="rect1601"
-         style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
-      <circle
-         r="0.5"
-         cy="280.5"
-         cx="25.5"
-         id="circle1603"
-         style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
-      <circle
-         style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-         id="circle1605"
-         cx="27.5"
-         cy="280.5"
-         r="0.5" />
-      <circle
-         r="0.5"
-         cy="280.5"
-         cx="29.5"
-         id="circle1607"
-         style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
-      <rect
-         ry="0"
-         y="280"
-         x="25"
-         height="1"
-         width="1"
-         id="rect1609"
-         style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-      <rect
-         y="280"
-         x="27"
-         height="1"
-         width="1"
-         id="rect1611"
-         style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-      <rect
-         y="280"
-         x="29"
-         height="1"
-         width="1"
-         id="rect1613"
-         style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-      <path
-         id="rect1663"
-         d="M 163 267 C 161.338 267 160 268.338 160 270 L 160 276 C 160 277.662 161.338 279 163 279 L 197 279 C 198.662 279 200 277.662 200 276 L 200 270 C 200 268.338 198.662 267 197 267 L 163 267 z M 163 268 L 197 268 C 198.108 268 199 268.892 199 270 L 199 274 C 199 275.108 198.108 276 197 276 L 163 276 C 161.892 276 161 275.108 161 274 L 161 270 C 161 268.892 161.892 268 163 268 z "
-         style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1.5;stroke-linecap:square" />
-      <g
-         id="g1818">
-        <rect
-           ry="2"
-           y="273"
-           x="103"
-           height="8"
-           width="26"
-           id="rect1581"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="1"
-           y="116.32424"
-           x="270.70578"
-           height="6"
-           width="2"
-           id="rect1583"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="rect1585"
-           width="2"
-           height="6"
-           x="273.44583"
-           y="113.58421"
-           ry="1"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="1"
-           y="110.84417"
-           x="276.18585"
-           height="6"
-           width="2"
-           id="rect1587"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <circle
-           r="1"
-           cy="276"
-           cx="120"
-           id="circle1589"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="circle1591"
-           cx="123"
-           cy="276"
-           r="1" />
-        <circle
-           r="1"
-           cy="276"
-           cx="126"
-           id="circle1593"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <path
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1;stroke-linecap:square"
-           d="M 105 273 C 103.892 273 103 273.892 103 275 L 103 279 C 103 280.108 103.892 281 105 281 L 127 281 C 128.108 281 129 280.108 129 279 L 129 275 C 129 273.892 128.108 273 127 273 L 105 273 z M 105 274 L 127 274 C 127.554 274 128 274.446 128 275 L 128 278 C 128 278.554 127.554 279 127 279 L 105 279 C 104.446 279 104 278.554 104 278 L 104 275 C 104 274.446 104.446 274 105 274 z "
-           id="rect1665" />
-      </g>
-      <path
-         id="rect1667"
-         d="M 17 278 C 16.446 278 16 278.446 16 279 L 16 282 C 16 282.554 16.446 283 17 283 L 31 283 C 31.554 283 32 282.554 32 282 L 32 279 C 32 278.446 31.554 278 31 278 L 17 278 z M 17 279 L 31 279 L 31 282 L 17 282 L 17 279 z "
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.5;stroke-linecap:square" />
-      <g
-         id="g1772">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
-           id="rect1615"
-           width="24"
-           height="7"
-           x="56"
-           y="276"
-           ry="1.5" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
-           id="rect1617"
-           width="1.5"
-           height="4.5"
-           x="240.19662"
-           y="152.07605"
-           ry="0.75"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="0.75"
-           y="149.51279"
-           x="242.75989"
-           height="4.5"
-           width="1.5"
-           id="rect1619"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
-           id="rect1621"
-           width="1.5"
-           height="4.5"
-           x="245.32317"
-           y="146.94952"
-           ry="0.75"
-           transform="rotate(45)" />
-        <rect
-           ry="0"
-           y="279"
-           x="73"
-           height="1"
-           width="1"
-           id="rect1629"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           y="279"
-           x="75"
-           height="1"
-           width="1"
-           id="rect1631"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           y="279"
-           x="77"
-           height="1"
-           width="1"
-           id="rect1633"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <path
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.75;stroke-linecap:square"
-           d="M 57.5 276 C 56.669 276 56 276.669 56 277.5 L 56 281.5 C 56 282.331 56.669 283 57.5 283 L 78.5 283 C 79.331 283 80 282.331 80 281.5 L 80 277.5 C 80 276.669 79.331 276 78.5 276 L 57.5 276 z M 57.5 277 L 78.5 277 C 78.777 277 79 277.223 79 277.5 L 79 281.5 C 79 281.777 78.777 282 78.5 282 L 57.5 282 C 57.223 282 57 281.777 57 281.5 L 57 277.5 C 57 277.223 57.223 277 57.5 277 z "
-           id="rect1669" />
-      </g>
-      <g
-         id="g1954">
-        <rect
-           ry="8"
-           y="240"
-           x="324"
-           height="32"
-           width="104"
-           id="rect1635"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="4"
-           y="-74.932495"
-           x="418.14276"
-           height="24"
-           width="8"
-           id="rect1637"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="rect1639"
-           width="8"
-           height="24"
-           x="430.51715"
-           y="-87.306892"
-           ry="4"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="4"
-           y="-99.681236"
-           x="442.89154"
-           height="24"
-           width="8"
-           id="rect1641"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <circle
-           r="4"
-           cy="256"
-           cx="400"
-           id="circle1643"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="circle1645"
-           cx="410"
-           cy="256"
-           r="4" />
-        <circle
-           r="4"
-           cy="256"
-           cx="420"
-           id="circle1647"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <path
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:4;stroke-linecap:square"
-           d="M 332 240 C 327.568 240 324 243.568 324 248 L 324 264 C 324 268.432 327.568 272 332 272 L 420 272 C 424.432 272 428 268.432 428 264 L 428 248 C 428 243.568 424.432 240 420 240 L 332 240 z M 332 241 L 420 241 C 423.878 241 427 244.122 427 248 L 427 261 C 427 264.878 423.878 268 420 268 L 332 268 C 328.122 268 325 264.878 325 261 L 325 248 C 325 244.122 328.122 241 332 241 z "
-           id="rect1671" />
-      </g>
-      <g
-         id="g2000">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="rect1649"
-           width="208"
-           height="64"
-           x="488"
-           y="196"
-           ry="16" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="rect1651"
-           width="16"
-           height="48"
-           x="522.33014"
-           y="-237.54623"
-           ry="8"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="8"
-           y="-262.29504"
-           x="547.07892"
-           height="48"
-           width="16"
-           id="rect1653"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="rect1655"
-           width="16"
-           height="48"
-           x="571.8277"
-           y="-287.04373"
-           ry="8"
-           transform="rotate(45)" />
-        <circle
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="circle1657"
-           cx="640"
-           cy="228"
-           r="8" />
-        <circle
-           r="8"
-           cy="228"
-           cx="660"
-           id="circle1659"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="circle1661"
-           cx="680"
-           cy="228"
-           r="8" />
-        <path
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:8;stroke-linecap:square"
-           d="M 504 196 C 495.136 196 488 203.136 488 212 L 488 244 C 488 252.864 495.136 260 504 260 L 680 260 C 688.864 260 696 252.864 696 244 L 696 212 C 696 203.136 688.864 196 680 196 L 504 196 z M 504 197 L 680 197 C 688.31 197 695 203.69 695 212 L 695 240 C 695 248.31 688.31 255 680 255 L 504 255 C 495.69 255 489 248.31 489 240 L 489 212 C 489 203.69 495.69 197 504 197 z "
-           id="rect1673" />
-      </g>
-      <g
-         id="g1738">
+         id="network-server-16">
         <rect
            ry="1"
-           y="273"
+           y="278"
            x="15.999998"
            height="5"
            width="16"
-           id="rect1705"
+           id="rect1595"
            style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
         <rect
            transform="rotate(45)"
            ry="0.5"
-           y="180.22644"
-           x="207.3894"
+           y="183.76198"
+           x="210.92493"
            height="3"
            width="1"
-           id="rect1707"
+           id="rect1597"
            style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
         <rect
            style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-           id="rect1709"
+           id="rect1599"
            width="1"
            height="3"
-           x="208.98039"
-           y="178.63545"
+           x="212.51591"
+           y="182.17099"
            ry="0.5"
            transform="rotate(45)" />
         <rect
            transform="rotate(45)"
            ry="0.5"
-           y="177.04446"
-           x="210.57138"
+           y="180.58"
+           x="214.1069"
            height="3"
            width="1"
-           id="rect1711"
+           id="rect1601"
            style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
         <circle
            r="0.5"
-           cy="275.5"
+           cy="280.5"
            cx="25.5"
-           id="circle1713"
+           id="circle1603"
            style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
         <circle
            style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-           id="circle1715"
+           id="circle1605"
            cx="27.5"
-           cy="275.5"
+           cy="280.5"
            r="0.5" />
         <circle
            r="0.5"
-           cy="275.5"
+           cy="280.5"
            cx="29.5"
-           id="circle1717"
+           id="circle1607"
            style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
         <rect
            ry="0"
-           y="275"
+           y="280"
            x="25"
            height="1"
            width="1"
-           id="rect1719"
+           id="rect1609"
            style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
         <rect
-           y="275"
+           y="280"
            x="27"
            height="1"
            width="1"
-           id="rect1721"
+           id="rect1611"
            style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
         <rect
-           y="275"
+           y="280"
            x="29"
            height="1"
            width="1"
-           id="rect1723"
+           id="rect1613"
            style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
         <path
-           id="path1725"
-           d="m 17,273 c -0.554,0 -1,0.446 -1,1 v 3 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -3 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 14 v 3 H 17 Z"
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.5;stroke-linecap:square"
-           inkscape:connector-curvature="0" />
+           id="rect1667"
+           d="M 17 278 C 16.446 278 16 278.446 16 279 L 16 282 C 16 282.554 16.446 283 17 283 L 31 283 C 31.554 283 32 282.554 32 282 L 32 279 C 32 278.446 31.554 278 31 278 L 17 278 z M 17 279 L 31 279 L 31 282 L 17 282 L 17 279 z "
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.5;stroke-linecap:square" />
+        <g
+           id="g1738">
+          <rect
+             ry="1"
+             y="273"
+             x="15.999998"
+             height="5"
+             width="16"
+             id="rect1705"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="0.5"
+             y="180.22644"
+             x="207.3894"
+             height="3"
+             width="1"
+             id="rect1707"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
+             id="rect1709"
+             width="1"
+             height="3"
+             x="208.98039"
+             y="178.63545"
+             ry="0.5"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="0.5"
+             y="177.04446"
+             x="210.57138"
+             height="3"
+             width="1"
+             id="rect1711"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
+          <circle
+             r="0.5"
+             cy="275.5"
+             cx="25.5"
+             id="circle1713"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
+             id="circle1715"
+             cx="27.5"
+             cy="275.5"
+             r="0.5" />
+          <circle
+             r="0.5"
+             cy="275.5"
+             cx="29.5"
+             id="circle1717"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
+          <rect
+             ry="0"
+             y="275"
+             x="25"
+             height="1"
+             width="1"
+             id="rect1719"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             y="275"
+             x="27"
+             height="1"
+             width="1"
+             id="rect1721"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             y="275"
+             x="29"
+             height="1"
+             width="1"
+             id="rect1723"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <path
+             id="path1725"
+             d="m 17,273 c -0.554,0 -1,0.446 -1,1 v 3 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -3 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 14 v 3 H 17 Z"
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.5;stroke-linecap:square"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(1.9073486e-6,-5)"
+           id="g1762">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
+             id="rect1740"
+             width="16"
+             height="5"
+             x="15.999998"
+             y="273"
+             ry="1" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
+             id="rect1742"
+             width="1"
+             height="3"
+             x="207.3894"
+             y="180.22644"
+             ry="0.5"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="0.5"
+             y="178.63545"
+             x="208.98039"
+             height="3"
+             width="1"
+             id="rect1744"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
+             id="rect1746"
+             width="1"
+             height="3"
+             x="210.57138"
+             y="177.04446"
+             ry="0.5"
+             transform="rotate(45)" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
+             id="circle1748"
+             cx="25.5"
+             cy="275.5"
+             r="0.5" />
+          <circle
+             r="0.5"
+             cy="275.5"
+             cx="27.5"
+             id="circle1750"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
+             id="circle1752"
+             cx="29.5"
+             cy="275.5"
+             r="0.5" />
+          <rect
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1754"
+             width="1"
+             height="1"
+             x="25"
+             y="275"
+             ry="0" />
+          <rect
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1756"
+             width="1"
+             height="1"
+             x="27"
+             y="275" />
+          <rect
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1758"
+             width="1"
+             height="1"
+             x="29"
+             y="275" />
+          <path
+             inkscape:connector-curvature="0"
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.5;stroke-linecap:square"
+             d="m 17,273 c -0.554,0 -1,0.446 -1,1 v 3 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -3 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 14 v 3 H 17 Z"
+             id="path1760" />
+        </g>
       </g>
       <g
-         transform="translate(1.9073486e-6,-5)"
-         id="g1762">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-           id="rect1740"
-           width="16"
-           height="5"
-           x="15.999998"
-           y="273"
-           ry="1" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-           id="rect1742"
-           width="1"
-           height="3"
-           x="207.3894"
-           y="180.22644"
-           ry="0.5"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="0.5"
-           y="178.63545"
-           x="208.98039"
-           height="3"
-           width="1"
-           id="rect1744"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-           id="rect1746"
-           width="1"
-           height="3"
-           x="210.57138"
-           y="177.04446"
-           ry="0.5"
-           transform="rotate(45)" />
-        <circle
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-           id="circle1748"
-           cx="25.5"
-           cy="275.5"
-           r="0.5" />
-        <circle
-           r="0.5"
-           cy="275.5"
-           cx="27.5"
-           id="circle1750"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:0.5;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:0.5;stroke-linecap:square"
-           id="circle1752"
-           cx="29.5"
-           cy="275.5"
-           r="0.5" />
-        <rect
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1754"
-           width="1"
-           height="1"
-           x="25"
-           y="275"
-           ry="0" />
-        <rect
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1756"
-           width="1"
-           height="1"
-           x="27"
-           y="275" />
-        <rect
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1758"
-           width="1"
-           height="1"
-           x="29"
-           y="275" />
-        <path
-           inkscape:connector-curvature="0"
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.5;stroke-linecap:square"
-           d="m 17,273 c -0.554,0 -1,0.446 -1,1 v 3 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -3 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 14 v 3 H 17 Z"
-           id="path1760" />
+         id="network-server-24">
+        <g
+           id="g1772">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
+             id="rect1615"
+             width="24"
+             height="7"
+             x="56"
+             y="276"
+             ry="1.5" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
+             id="rect1617"
+             width="1.5"
+             height="4.5"
+             x="240.19662"
+             y="152.07605"
+             ry="0.75"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="0.75"
+             y="149.51279"
+             x="242.75989"
+             height="4.5"
+             width="1.5"
+             id="rect1619"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
+             id="rect1621"
+             width="1.5"
+             height="4.5"
+             x="245.32317"
+             y="146.94952"
+             ry="0.75"
+             transform="rotate(45)" />
+          <rect
+             ry="0"
+             y="279"
+             x="73"
+             height="1"
+             width="1"
+             id="rect1629"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             y="279"
+             x="75"
+             height="1"
+             width="1"
+             id="rect1631"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             y="279"
+             x="77"
+             height="1"
+             width="1"
+             id="rect1633"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <path
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.75;stroke-linecap:square"
+             d="M 57.5 276 C 56.669 276 56 276.669 56 277.5 L 56 281.5 C 56 282.331 56.669 283 57.5 283 L 78.5 283 C 79.331 283 80 282.331 80 281.5 L 80 277.5 C 80 276.669 79.331 276 78.5 276 L 57.5 276 z M 57.5 277 L 78.5 277 C 78.777 277 79 277.223 79 277.5 L 79 281.5 C 79 281.777 78.777 282 78.5 282 L 57.5 282 C 57.223 282 57 281.777 57 281.5 L 57 277.5 C 57 277.223 57.223 277 57.5 277 z "
+             id="rect1669" />
+        </g>
+        <g
+           transform="translate(0,-7)"
+           id="g1790">
+          <rect
+             ry="1.5"
+             y="276"
+             x="56"
+             height="7"
+             width="24"
+             id="rect1774"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="0.75"
+             y="152.07605"
+             x="240.19662"
+             height="4.5"
+             width="1.5"
+             id="rect1776"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
+             id="rect1778"
+             width="1.5"
+             height="4.5"
+             x="242.75989"
+             y="149.51279"
+             ry="0.75"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="0.75"
+             y="146.94952"
+             x="245.32317"
+             height="4.5"
+             width="1.5"
+             id="rect1780"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1782"
+             width="1"
+             height="1"
+             x="73"
+             y="279"
+             ry="0" />
+          <rect
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1784"
+             width="1"
+             height="1"
+             x="75"
+             y="279" />
+          <rect
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1786"
+             width="1"
+             height="1"
+             x="77"
+             y="279" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1788"
+             d="m 57.5,276 c -0.831,0 -1.5,0.669 -1.5,1.5 v 4 c 0,0.831 0.669,1.5 1.5,1.5 h 21 c 0.831,0 1.5,-0.669 1.5,-1.5 v -4 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 0,1 h 21 c 0.277,0 0.5,0.223 0.5,0.5 v 4 c 0,0.277 -0.223,0.5 -0.5,0.5 h -21 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -4 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.75;stroke-linecap:square" />
+        </g>
+        <g
+           id="g1808"
+           transform="translate(0,-14)">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
+             id="rect1792"
+             width="24"
+             height="7"
+             x="56"
+             y="276"
+             ry="1.5" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
+             id="rect1794"
+             width="1.5"
+             height="4.5"
+             x="240.19662"
+             y="152.07605"
+             ry="0.75"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="0.75"
+             y="149.51279"
+             x="242.75989"
+             height="4.5"
+             width="1.5"
+             id="rect1796"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
+             id="rect1798"
+             width="1.5"
+             height="4.5"
+             x="245.32317"
+             y="146.94952"
+             ry="0.75"
+             transform="rotate(45)" />
+          <rect
+             ry="0"
+             y="279"
+             x="73"
+             height="1"
+             width="1"
+             id="rect1800"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             y="279"
+             x="75"
+             height="1"
+             width="1"
+             id="rect1802"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             y="279"
+             x="77"
+             height="1"
+             width="1"
+             id="rect1804"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <path
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.75;stroke-linecap:square"
+             d="m 57.5,276 c -0.831,0 -1.5,0.669 -1.5,1.5 v 4 c 0,0.831 0.669,1.5 1.5,1.5 h 21 c 0.831,0 1.5,-0.669 1.5,-1.5 v -4 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 0,1 h 21 c 0.277,0 0.5,0.223 0.5,0.5 v 4 c 0,0.277 -0.223,0.5 -0.5,0.5 h -21 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -4 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+             id="path1806"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
       <g
-         transform="translate(0,-7)"
-         id="g1790">
-        <rect
-           ry="1.5"
-           y="276"
-           x="56"
-           height="7"
-           width="24"
-           id="rect1774"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="0.75"
-           y="152.07605"
-           x="240.19662"
-           height="4.5"
-           width="1.5"
-           id="rect1776"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
-           id="rect1778"
-           width="1.5"
-           height="4.5"
-           x="242.75989"
-           y="149.51279"
-           ry="0.75"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="0.75"
-           y="146.94952"
-           x="245.32317"
-           height="4.5"
-           width="1.5"
-           id="rect1780"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1782"
-           width="1"
-           height="1"
-           x="73"
-           y="279"
-           ry="0" />
-        <rect
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1784"
-           width="1"
-           height="1"
-           x="75"
-           y="279" />
-        <rect
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1786"
-           width="1"
-           height="1"
-           x="77"
-           y="279" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path1788"
-           d="m 57.5,276 c -0.831,0 -1.5,0.669 -1.5,1.5 v 4 c 0,0.831 0.669,1.5 1.5,1.5 h 21 c 0.831,0 1.5,-0.669 1.5,-1.5 v -4 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 0,1 h 21 c 0.277,0 0.5,0.223 0.5,0.5 v 4 c 0,0.277 -0.223,0.5 -0.5,0.5 h -21 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -4 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.75;stroke-linecap:square" />
+         id="network-server-32">
+        <g
+           id="g1818">
+          <rect
+             ry="2"
+             y="273"
+             x="103"
+             height="8"
+             width="26"
+             id="rect1581"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="1"
+             y="116.32424"
+             x="270.70578"
+             height="6"
+             width="2"
+             id="rect1583"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="rect1585"
+             width="2"
+             height="6"
+             x="273.44583"
+             y="113.58421"
+             ry="1"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="1"
+             y="110.84417"
+             x="276.18585"
+             height="6"
+             width="2"
+             id="rect1587"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <circle
+             r="1"
+             cy="276"
+             cx="120"
+             id="circle1589"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="circle1591"
+             cx="123"
+             cy="276"
+             r="1" />
+          <circle
+             r="1"
+             cy="276"
+             cx="126"
+             id="circle1593"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <path
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1;stroke-linecap:square"
+             d="M 105 273 C 103.892 273 103 273.892 103 275 L 103 279 C 103 280.108 103.892 281 105 281 L 127 281 C 128.108 281 129 280.108 129 279 L 129 275 C 129 273.892 128.108 273 127 273 L 105 273 z M 105 274 L 127 274 C 127.554 274 128 274.446 128 275 L 128 278 C 128 278.554 127.554 279 127 279 L 105 279 C 104.446 279 104 278.554 104 278 L 104 275 C 104 274.446 104.446 274 105 274 z "
+             id="rect1665" />
+        </g>
+        <g
+           transform="translate(0,-7)"
+           id="g1836">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="rect1820"
+             width="26"
+             height="8"
+             x="103"
+             y="273"
+             ry="2" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="rect1822"
+             width="2"
+             height="6"
+             x="270.70578"
+             y="116.32424"
+             ry="1"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="1"
+             y="113.58421"
+             x="273.44583"
+             height="6"
+             width="2"
+             id="rect1824"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="rect1826"
+             width="2"
+             height="6"
+             x="276.18585"
+             y="110.84417"
+             ry="1"
+             transform="rotate(45)" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="circle1828"
+             cx="120"
+             cy="276"
+             r="1" />
+          <circle
+             r="1"
+             cy="276"
+             cx="123"
+             id="circle1830"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="circle1832"
+             cx="126"
+             cy="276"
+             r="1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1834"
+             d="m 105,273 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.108 0.892,2 2,2 h 22 c 1.108,0 2,-0.892 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 22 c 0.554,0 1,0.446 1,1 v 3 c 0,0.554 -0.446,1 -1,1 h -22 c -0.554,0 -1,-0.446 -1,-1 v -3 c 0,-0.554 0.446,-1 1,-1 z"
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1;stroke-linecap:square" />
+        </g>
+        <g
+           id="g1854"
+           transform="translate(0,-14)">
+          <rect
+             ry="2"
+             y="273"
+             x="103"
+             height="8"
+             width="26"
+             id="rect1838"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="1"
+             y="116.32424"
+             x="270.70578"
+             height="6"
+             width="2"
+             id="rect1840"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="rect1842"
+             width="2"
+             height="6"
+             x="273.44583"
+             y="113.58421"
+             ry="1"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="1"
+             y="110.84417"
+             x="276.18585"
+             height="6"
+             width="2"
+             id="rect1844"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <circle
+             r="1"
+             cy="276"
+             cx="120"
+             id="circle1846"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1;stroke-linecap:square"
+             id="circle1848"
+             cx="123"
+             cy="276"
+             r="1" />
+          <circle
+             r="1"
+             cy="276"
+             cx="126"
+             id="circle1850"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
+          <path
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1;stroke-linecap:square"
+             d="m 105,273 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.108 0.892,2 2,2 h 22 c 1.108,0 2,-0.892 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 22 c 0.554,0 1,0.446 1,1 v 3 c 0,0.554 -0.446,1 -1,1 h -22 c -0.554,0 -1,-0.446 -1,-1 v -3 c 0,-0.554 0.446,-1 1,-1 z"
+             id="path1852"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
       <g
-         id="g1808"
-         transform="translate(0,-14)">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
-           id="rect1792"
-           width="24"
-           height="7"
-           x="56"
-           y="276"
-           ry="1.5" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
-           id="rect1794"
-           width="1.5"
-           height="4.5"
-           x="240.19662"
-           y="152.07605"
-           ry="0.75"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="0.75"
-           y="149.51279"
-           x="242.75989"
-           height="4.5"
-           width="1.5"
-           id="rect1796"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.75;stroke-linecap:square"
-           id="rect1798"
-           width="1.5"
-           height="4.5"
-           x="245.32317"
-           y="146.94952"
-           ry="0.75"
-           transform="rotate(45)" />
-        <rect
-           ry="0"
-           y="279"
-           x="73"
-           height="1"
-           width="1"
-           id="rect1800"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           y="279"
-           x="75"
-           height="1"
-           width="1"
-           id="rect1802"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           y="279"
-           x="77"
-           height="1"
-           width="1"
-           id="rect1804"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <path
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:0.75;stroke-linecap:square"
-           d="m 57.5,276 c -0.831,0 -1.5,0.669 -1.5,1.5 v 4 c 0,0.831 0.669,1.5 1.5,1.5 h 21 c 0.831,0 1.5,-0.669 1.5,-1.5 v -4 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 0,1 h 21 c 0.277,0 0.5,0.223 0.5,0.5 v 4 c 0,0.277 -0.223,0.5 -0.5,0.5 h -21 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -4 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
-           id="path1806"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="translate(0,-7)"
-         id="g1836">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="rect1820"
-           width="26"
-           height="8"
-           x="103"
-           y="273"
-           ry="2" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="rect1822"
-           width="2"
-           height="6"
-           x="270.70578"
-           y="116.32424"
-           ry="1"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="1"
-           y="113.58421"
-           x="273.44583"
-           height="6"
-           width="2"
-           id="rect1824"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="rect1826"
-           width="2"
-           height="6"
-           x="276.18585"
-           y="110.84417"
-           ry="1"
-           transform="rotate(45)" />
-        <circle
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="circle1828"
-           cx="120"
-           cy="276"
-           r="1" />
-        <circle
-           r="1"
-           cy="276"
-           cx="123"
-           id="circle1830"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="circle1832"
-           cx="126"
-           cy="276"
-           r="1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path1834"
-           d="m 105,273 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.108 0.892,2 2,2 h 22 c 1.108,0 2,-0.892 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 22 c 0.554,0 1,0.446 1,1 v 3 c 0,0.554 -0.446,1 -1,1 h -22 c -0.554,0 -1,-0.446 -1,-1 v -3 c 0,-0.554 0.446,-1 1,-1 z"
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1;stroke-linecap:square" />
-      </g>
-      <g
-         id="g1854"
-         transform="translate(0,-14)">
-        <rect
-           ry="2"
-           y="273"
-           x="103"
-           height="8"
-           width="26"
-           id="rect1838"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="1"
-           y="116.32424"
-           x="270.70578"
-           height="6"
-           width="2"
-           id="rect1840"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="rect1842"
-           width="2"
-           height="6"
-           x="273.44583"
-           y="113.58421"
-           ry="1"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="1"
-           y="110.84417"
-           x="276.18585"
-           height="6"
-           width="2"
-           id="rect1844"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <circle
-           r="1"
-           cy="276"
-           cx="120"
-           id="circle1846"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1;stroke-linecap:square"
-           id="circle1848"
-           cx="123"
-           cy="276"
-           r="1" />
-        <circle
-           r="1"
-           cy="276"
-           cx="126"
-           id="circle1850"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1;stroke-linecap:square" />
-        <path
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1;stroke-linecap:square"
-           d="m 105,273 c -1.108,0 -2,0.892 -2,2 v 4 c 0,1.108 0.892,2 2,2 h 22 c 1.108,0 2,-0.892 2,-2 v -4 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 22 c 0.554,0 1,0.446 1,1 v 3 c 0,0.554 -0.446,1 -1,1 h -22 c -0.554,0 -1,-0.446 -1,-1 v -3 c 0,-0.554 0.446,-1 1,-1 z"
-           id="path1852"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="translate(0,-11)"
-         id="g1880">
+         id="network-server-48">
         <rect
            style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-           id="rect1856"
+           id="rect1567"
            width="40"
            height="12"
            x="160"
@@ -1656,7 +1427,7 @@
            ry="3" />
         <rect
            style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-           id="rect1858"
+           id="rect1569"
            width="3"
            height="9"
            x="308.21277"
@@ -1670,11 +1441,11 @@
            x="313.33929"
            height="9"
            width="3"
-           id="rect1860"
+           id="rect1571"
            style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
         <rect
            style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-           id="rect1862"
+           id="rect1573"
            width="3"
            height="9"
            x="318.46585"
@@ -1683,7 +1454,7 @@
            transform="rotate(45)" />
         <circle
            style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-           id="circle1864"
+           id="circle1575"
            cx="187.5"
            cy="272.5"
            r="1.5" />
@@ -1691,453 +1462,704 @@
            r="1.5"
            cy="272.5"
            cx="191.5"
-           id="circle1866"
+           id="circle1577"
            style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
         <circle
            style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-           id="circle1868"
+           id="circle1579"
            cx="195.5"
            cy="272.5"
            r="1.5" />
         <path
-           inkscape:connector-curvature="0"
-           id="path1870"
-           d="m 163,267 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 34 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 34 c 1.108,0 2,0.892 2,2 v 4 c 0,1.108 -0.892,2 -2,2 h -34 c -1.108,0 -2,-0.892 -2,-2 v -4 c 0,-1.108 0.892,-2 2,-2 z"
+           id="rect1663"
+           d="M 163 267 C 161.338 267 160 268.338 160 270 L 160 276 C 160 277.662 161.338 279 163 279 L 197 279 C 198.662 279 200 277.662 200 276 L 200 270 C 200 268.338 198.662 267 197 267 L 163 267 z M 163 268 L 197 268 C 198.108 268 199 268.892 199 270 L 199 274 C 199 275.108 198.108 276 197 276 L 163 276 C 161.892 276 161 275.108 161 274 L 161 270 C 161 268.892 161.892 268 163 268 z "
            style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1.5;stroke-linecap:square" />
+        <g
+           transform="translate(0,-11)"
+           id="g1880">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+             id="rect1856"
+             width="40"
+             height="12"
+             x="160"
+             y="267"
+             ry="3" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+             id="rect1858"
+             width="3"
+             height="9"
+             x="308.21277"
+             y="70.453323"
+             ry="1.5"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="1.5"
+             y="65.326797"
+             x="313.33929"
+             height="9"
+             width="3"
+             id="rect1860"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+             id="rect1862"
+             width="3"
+             height="9"
+             x="318.46585"
+             y="60.200245"
+             ry="1.5"
+             transform="rotate(45)" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+             id="circle1864"
+             cx="187.5"
+             cy="272.5"
+             r="1.5" />
+          <circle
+             r="1.5"
+             cy="272.5"
+             cx="191.5"
+             id="circle1866"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+             id="circle1868"
+             cx="195.5"
+             cy="272.5"
+             r="1.5" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1870"
+             d="m 163,267 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 34 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 34 c 1.108,0 2,0.892 2,2 v 4 c 0,1.108 -0.892,2 -2,2 h -34 c -1.108,0 -2,-0.892 -2,-2 v -4 c 0,-1.108 0.892,-2 2,-2 z"
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1.5;stroke-linecap:square" />
+        </g>
+        <g
+           id="g1898"
+           transform="translate(0,-22)">
+          <rect
+             ry="3"
+             y="267"
+             x="160"
+             height="12"
+             width="40"
+             id="rect1882"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="1.5"
+             y="70.453323"
+             x="308.21277"
+             height="9"
+             width="3"
+             id="rect1884"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+             id="rect1886"
+             width="3"
+             height="9"
+             x="313.33929"
+             y="65.326797"
+             ry="1.5"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="1.5"
+             y="60.200245"
+             x="318.46585"
+             height="9"
+             width="3"
+             id="rect1888"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
+          <circle
+             r="1.5"
+             cy="272.5"
+             cx="187.5"
+             id="circle1890"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
+             id="circle1892"
+             cx="191.5"
+             cy="272.5"
+             r="1.5" />
+          <circle
+             r="1.5"
+             cy="272.5"
+             cx="195.5"
+             id="circle1894"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
+          <path
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1.5;stroke-linecap:square"
+             d="m 163,267 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 34 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 34 c 1.108,0 2,0.892 2,2 v 4 c 0,1.108 -0.892,2 -2,2 h -34 c -1.108,0 -2,-0.892 -2,-2 v -4 c 0,-1.108 0.892,-2 2,-2 z"
+             id="path1896"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
       <g
-         id="g1898"
-         transform="translate(0,-22)">
-        <rect
-           ry="3"
-           y="267"
-           x="160"
-           height="12"
-           width="40"
-           id="rect1882"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="1.5"
-           y="70.453323"
-           x="308.21277"
-           height="9"
-           width="3"
-           id="rect1884"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-           id="rect1886"
-           width="3"
-           height="9"
-           x="313.33929"
-           y="65.326797"
-           ry="1.5"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="1.5"
-           y="60.200245"
-           x="318.46585"
-           height="9"
-           width="3"
-           id="rect1888"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
-        <circle
-           r="1.5"
-           cy="272.5"
-           cx="187.5"
-           id="circle1890"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:1.5;stroke-linecap:square"
-           id="circle1892"
-           cx="191.5"
-           cy="272.5"
-           r="1.5" />
-        <circle
-           r="1.5"
-           cy="272.5"
-           cx="195.5"
-           id="circle1894"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:1.5;stroke-linecap:square" />
-        <path
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:1.5;stroke-linecap:square"
-           d="m 163,267 c -1.662,0 -3,1.338 -3,3 v 6 c 0,1.662 1.338,3 3,3 h 34 c 1.662,0 3,-1.338 3,-3 v -6 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 34 c 1.108,0 2,0.892 2,2 v 4 c 0,1.108 -0.892,2 -2,2 h -34 c -1.108,0 -2,-0.892 -2,-2 v -4 c 0,-1.108 0.892,-2 2,-2 z"
-           id="path1896"
-           inkscape:connector-curvature="0" />
+         id="network-server-64">
+        <g
+           id="g1908">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1542"
+             width="52"
+             height="16"
+             x="230"
+             y="262"
+             ry="4" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1548"
+             width="4"
+             height="12"
+             x="357.56381"
+             y="14.859655"
+             ry="2"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="2"
+             y="8.6724567"
+             x="363.75101"
+             height="12"
+             width="4"
+             id="rect1550"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1552"
+             width="4"
+             height="12"
+             x="369.9382"
+             y="2.4852827"
+             ry="2"
+             transform="rotate(45)" />
+          <path
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:2;stroke-linecap:square"
+             d="m 234,262 c -2.216,0 -4,1.784 -4,4 v 8 c 0,2.216 1.784,4 4,4 h 44 c 2.216,0 4,-1.784 4,-4 v -8 c 0,-2.216 -1.784,-4 -4,-4 z m 0,1 h 44 c 1.662,0 3,1.338 3,3 v 7 c 0,1.662 -1.338,3 -3,3 h -44 c -1.662,0 -3,-1.338 -3,-3 v -7 c 0,-1.662 1.338,-3 3,-3 z"
+             id="rect1554"
+             inkscape:connector-curvature="0" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="path1561"
+             cx="268"
+             cy="270"
+             r="2" />
+          <circle
+             r="2"
+             cy="270"
+             cx="273"
+             id="circle1563"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="circle1565"
+             cx="278"
+             cy="270"
+             r="2" />
+        </g>
+        <g
+           transform="translate(0,-16)"
+           id="g1926">
+          <rect
+             ry="4"
+             y="262"
+             x="230"
+             height="16"
+             width="52"
+             id="rect1910"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="2"
+             y="14.859655"
+             x="357.56381"
+             height="12"
+             width="4"
+             id="rect1912"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1914"
+             width="4"
+             height="12"
+             x="363.75101"
+             y="8.6724567"
+             ry="2"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="2"
+             y="2.4852827"
+             x="369.9382"
+             height="12"
+             width="4"
+             id="rect1916"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1918"
+             d="m 234,262 c -2.216,0 -4,1.784 -4,4 v 8 c 0,2.216 1.784,4 4,4 h 44 c 2.216,0 4,-1.784 4,-4 v -8 c 0,-2.216 -1.784,-4 -4,-4 z m 0,1 h 44 c 1.662,0 3,1.338 3,3 v 7 c 0,1.662 -1.338,3 -3,3 h -44 c -1.662,0 -3,-1.338 -3,-3 v -7 c 0,-1.662 1.338,-3 3,-3 z"
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:2;stroke-linecap:square" />
+          <circle
+             r="2"
+             cy="270"
+             cx="268"
+             id="circle1920"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="circle1922"
+             cx="273"
+             cy="270"
+             r="2" />
+          <circle
+             r="2"
+             cy="270"
+             cx="278"
+             id="circle1924"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+        </g>
+        <g
+           id="g1944"
+           transform="translate(0,-32)">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1928"
+             width="52"
+             height="16"
+             x="230"
+             y="262"
+             ry="4" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1930"
+             width="4"
+             height="12"
+             x="357.56381"
+             y="14.859655"
+             ry="2"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="2"
+             y="8.6724567"
+             x="363.75101"
+             height="12"
+             width="4"
+             id="rect1932"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="rect1934"
+             width="4"
+             height="12"
+             x="369.9382"
+             y="2.4852827"
+             ry="2"
+             transform="rotate(45)" />
+          <path
+             style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:2;stroke-linecap:square"
+             d="m 234,262 c -2.216,0 -4,1.784 -4,4 v 8 c 0,2.216 1.784,4 4,4 h 44 c 2.216,0 4,-1.784 4,-4 v -8 c 0,-2.216 -1.784,-4 -4,-4 z m 0,1 h 44 c 1.662,0 3,1.338 3,3 v 7 c 0,1.662 -1.338,3 -3,3 h -44 c -1.662,0 -3,-1.338 -3,-3 v -7 c 0,-1.662 1.338,-3 3,-3 z"
+             id="path1936"
+             inkscape:connector-curvature="0" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="circle1938"
+             cx="268"
+             cy="270"
+             r="2" />
+          <circle
+             r="2"
+             cy="270"
+             cx="273"
+             id="circle1940"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
+             id="circle1942"
+             cx="278"
+             cy="270"
+             r="2" />
+        </g>
       </g>
       <g
-         transform="translate(0,-16)"
-         id="g1926">
-        <rect
-           ry="4"
-           y="262"
-           x="230"
-           height="16"
-           width="52"
-           id="rect1910"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="2"
-           y="14.859655"
-           x="357.56381"
-           height="12"
-           width="4"
-           id="rect1912"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1914"
-           width="4"
-           height="12"
-           x="363.75101"
-           y="8.6724567"
-           ry="2"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="2"
-           y="2.4852827"
-           x="369.9382"
-           height="12"
-           width="4"
-           id="rect1916"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path1918"
-           d="m 234,262 c -2.216,0 -4,1.784 -4,4 v 8 c 0,2.216 1.784,4 4,4 h 44 c 2.216,0 4,-1.784 4,-4 v -8 c 0,-2.216 -1.784,-4 -4,-4 z m 0,1 h 44 c 1.662,0 3,1.338 3,3 v 7 c 0,1.662 -1.338,3 -3,3 h -44 c -1.662,0 -3,-1.338 -3,-3 v -7 c 0,-1.662 1.338,-3 3,-3 z"
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:2;stroke-linecap:square" />
-        <circle
-           r="2"
-           cy="270"
-           cx="268"
-           id="circle1920"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="circle1922"
-           cx="273"
-           cy="270"
-           r="2" />
-        <circle
-           r="2"
-           cy="270"
-           cx="278"
-           id="circle1924"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
+         id="network-server-128">
+        <g
+           id="g1954">
+          <rect
+             ry="8"
+             y="240"
+             x="324"
+             height="32"
+             width="104"
+             id="rect1635"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="4"
+             y="-74.932495"
+             x="418.14276"
+             height="24"
+             width="8"
+             id="rect1637"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="rect1639"
+             width="8"
+             height="24"
+             x="430.51715"
+             y="-87.306892"
+             ry="4"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="4"
+             y="-99.681236"
+             x="442.89154"
+             height="24"
+             width="8"
+             id="rect1641"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <circle
+             r="4"
+             cy="256"
+             cx="400"
+             id="circle1643"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="circle1645"
+             cx="410"
+             cy="256"
+             r="4" />
+          <circle
+             r="4"
+             cy="256"
+             cx="420"
+             id="circle1647"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <path
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:4;stroke-linecap:square"
+             d="M 332 240 C 327.568 240 324 243.568 324 248 L 324 264 C 324 268.432 327.568 272 332 272 L 420 272 C 424.432 272 428 268.432 428 264 L 428 248 C 428 243.568 424.432 240 420 240 L 332 240 z M 332 241 L 420 241 C 423.878 241 427 244.122 427 248 L 427 261 C 427 264.878 423.878 268 420 268 L 332 268 C 328.122 268 325 264.878 325 261 L 325 248 C 325 244.122 328.122 241 332 241 z "
+             id="rect1671" />
+        </g>
+        <g
+           transform="translate(0,-31)"
+           id="g1972">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="rect1956"
+             width="104"
+             height="32"
+             x="324"
+             y="240"
+             ry="8" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="rect1958"
+             width="8"
+             height="24"
+             x="418.14276"
+             y="-74.932495"
+             ry="4"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="4"
+             y="-87.306892"
+             x="430.51715"
+             height="24"
+             width="8"
+             id="rect1960"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="rect1962"
+             width="8"
+             height="24"
+             x="442.89154"
+             y="-99.681236"
+             ry="4"
+             transform="rotate(45)" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="circle1964"
+             cx="400"
+             cy="256"
+             r="4" />
+          <circle
+             r="4"
+             cy="256"
+             cx="410"
+             id="circle1966"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="circle1968"
+             cx="420"
+             cy="256"
+             r="4" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1970"
+             d="m 332,240 c -4.432,0 -8,3.568 -8,8 v 16 c 0,4.432 3.568,8 8,8 h 88 c 4.432,0 8,-3.568 8,-8 v -16 c 0,-4.432 -3.568,-8 -8,-8 z m 0,1 h 88 c 3.878,0 7,3.122 7,7 v 13 c 0,3.878 -3.122,7 -7,7 h -88 c -3.878,0 -7,-3.122 -7,-7 v -13 c 0,-3.878 3.122,-7 7,-7 z"
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:4;stroke-linecap:square" />
+        </g>
+        <g
+           id="g1990"
+           transform="translate(0,-62)">
+          <rect
+             ry="8"
+             y="240"
+             x="324"
+             height="32"
+             width="104"
+             id="rect1974"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="4"
+             y="-74.932495"
+             x="418.14276"
+             height="24"
+             width="8"
+             id="rect1976"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="rect1978"
+             width="8"
+             height="24"
+             x="430.51715"
+             y="-87.306892"
+             ry="4"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="4"
+             y="-99.681236"
+             x="442.89154"
+             height="24"
+             width="8"
+             id="rect1980"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <circle
+             r="4"
+             cy="256"
+             cx="400"
+             id="circle1982"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:4;stroke-linecap:square"
+             id="circle1984"
+             cx="410"
+             cy="256"
+             r="4" />
+          <circle
+             r="4"
+             cy="256"
+             cx="420"
+             id="circle1986"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
+          <path
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:4;stroke-linecap:square"
+             d="m 332,240 c -4.432,0 -8,3.568 -8,8 v 16 c 0,4.432 3.568,8 8,8 h 88 c 4.432,0 8,-3.568 8,-8 v -16 c 0,-4.432 -3.568,-8 -8,-8 z m 0,1 h 88 c 3.878,0 7,3.122 7,7 v 13 c 0,3.878 -3.122,7 -7,7 h -88 c -3.878,0 -7,-3.122 -7,-7 v -13 c 0,-3.878 3.122,-7 7,-7 z"
+             id="path1988"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
       <g
-         id="g1944"
-         transform="translate(0,-32)">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1928"
-           width="52"
-           height="16"
-           x="230"
-           y="262"
-           ry="4" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1930"
-           width="4"
-           height="12"
-           x="357.56381"
-           y="14.859655"
-           ry="2"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="2"
-           y="8.6724567"
-           x="363.75101"
-           height="12"
-           width="4"
-           id="rect1932"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="rect1934"
-           width="4"
-           height="12"
-           x="369.9382"
-           y="2.4852827"
-           ry="2"
-           transform="rotate(45)" />
-        <path
-           style="vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke-width:2;stroke-linecap:square"
-           d="m 234,262 c -2.216,0 -4,1.784 -4,4 v 8 c 0,2.216 1.784,4 4,4 h 44 c 2.216,0 4,-1.784 4,-4 v -8 c 0,-2.216 -1.784,-4 -4,-4 z m 0,1 h 44 c 1.662,0 3,1.338 3,3 v 7 c 0,1.662 -1.338,3 -3,3 h -44 c -1.662,0 -3,-1.338 -3,-3 v -7 c 0,-1.662 1.338,-3 3,-3 z"
-           id="path1936"
-           inkscape:connector-curvature="0" />
-        <circle
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="circle1938"
-           cx="268"
-           cy="270"
-           r="2" />
-        <circle
-           r="2"
-           cy="270"
-           cx="273"
-           id="circle1940"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:2;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:2;stroke-linecap:square"
-           id="circle1942"
-           cx="278"
-           cy="270"
-           r="2" />
-      </g>
-      <g
-         transform="translate(0,-31)"
-         id="g1972">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="rect1956"
-           width="104"
-           height="32"
-           x="324"
-           y="240"
-           ry="8" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="rect1958"
-           width="8"
-           height="24"
-           x="418.14276"
-           y="-74.932495"
-           ry="4"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="4"
-           y="-87.306892"
-           x="430.51715"
-           height="24"
-           width="8"
-           id="rect1960"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="rect1962"
-           width="8"
-           height="24"
-           x="442.89154"
-           y="-99.681236"
-           ry="4"
-           transform="rotate(45)" />
-        <circle
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="circle1964"
-           cx="400"
-           cy="256"
-           r="4" />
-        <circle
-           r="4"
-           cy="256"
-           cx="410"
-           id="circle1966"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="circle1968"
-           cx="420"
-           cy="256"
-           r="4" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path1970"
-           d="m 332,240 c -4.432,0 -8,3.568 -8,8 v 16 c 0,4.432 3.568,8 8,8 h 88 c 4.432,0 8,-3.568 8,-8 v -16 c 0,-4.432 -3.568,-8 -8,-8 z m 0,1 h 88 c 3.878,0 7,3.122 7,7 v 13 c 0,3.878 -3.122,7 -7,7 h -88 c -3.878,0 -7,-3.122 -7,-7 v -13 c 0,-3.878 3.122,-7 7,-7 z"
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:4;stroke-linecap:square" />
-      </g>
-      <g
-         id="g1990"
-         transform="translate(0,-62)">
-        <rect
-           ry="8"
-           y="240"
-           x="324"
-           height="32"
-           width="104"
-           id="rect1974"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="4"
-           y="-74.932495"
-           x="418.14276"
-           height="24"
-           width="8"
-           id="rect1976"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="rect1978"
-           width="8"
-           height="24"
-           x="430.51715"
-           y="-87.306892"
-           ry="4"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="4"
-           y="-99.681236"
-           x="442.89154"
-           height="24"
-           width="8"
-           id="rect1980"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <circle
-           r="4"
-           cy="256"
-           cx="400"
-           id="circle1982"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:4;stroke-linecap:square"
-           id="circle1984"
-           cx="410"
-           cy="256"
-           r="4" />
-        <circle
-           r="4"
-           cy="256"
-           cx="420"
-           id="circle1986"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:4;stroke-linecap:square" />
-        <path
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:4;stroke-linecap:square"
-           d="m 332,240 c -4.432,0 -8,3.568 -8,8 v 16 c 0,4.432 3.568,8 8,8 h 88 c 4.432,0 8,-3.568 8,-8 v -16 c 0,-4.432 -3.568,-8 -8,-8 z m 0,1 h 88 c 3.878,0 7,3.122 7,7 v 13 c 0,3.878 -3.122,7 -7,7 h -88 c -3.878,0 -7,-3.122 -7,-7 v -13 c 0,-3.878 3.122,-7 7,-7 z"
-           id="path1988"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="translate(0,-63)"
-         id="g2018">
-        <rect
-           ry="16"
-           y="196"
-           x="488"
-           height="64"
-           width="208"
-           id="rect2002"
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <rect
-           transform="rotate(45)"
-           ry="8"
-           y="-237.54623"
-           x="522.33014"
-           height="48"
-           width="16"
-           id="rect2004"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="rect2006"
-           width="16"
-           height="48"
-           x="547.07892"
-           y="-262.29504"
-           ry="8"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="8"
-           y="-287.04373"
-           x="571.8277"
-           height="48"
-           width="16"
-           id="rect2008"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <circle
-           r="8"
-           cy="228"
-           cx="640"
-           id="circle2010"
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="circle2012"
-           cx="660"
-           cy="228"
-           r="8" />
-        <circle
-           r="8"
-           cy="228"
-           cx="680"
-           id="circle2014"
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path2016"
-           d="m 504,196 c -8.864,0 -16,7.136 -16,16 v 32 c 0,8.864 7.136,16 16,16 h 176 c 8.864,0 16,-7.136 16,-16 v -32 c 0,-8.864 -7.136,-16 -16,-16 z m 0,1 h 176 c 8.31,0 15,6.69 15,15 v 28 c 0,8.31 -6.69,15 -15,15 H 504 c -8.31,0 -15,-6.69 -15,-15 v -28 c 0,-8.31 6.69,-15 15,-15 z"
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:8;stroke-linecap:square" />
-      </g>
-      <g
-         id="g2036"
-         transform="translate(0,-126)">
-        <rect
-           style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="rect2020"
-           width="208"
-           height="64"
-           x="488"
-           y="196"
-           ry="16" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="rect2022"
-           width="16"
-           height="48"
-           x="522.33014"
-           y="-237.54623"
-           ry="8"
-           transform="rotate(45)" />
-        <rect
-           transform="rotate(45)"
-           ry="8"
-           y="-262.29504"
-           x="547.07892"
-           height="48"
-           width="16"
-           id="rect2024"
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <rect
-           style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="rect2026"
-           width="16"
-           height="48"
-           x="571.8277"
-           y="-287.04373"
-           ry="8"
-           transform="rotate(45)" />
-        <circle
-           style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="circle2028"
-           cx="640"
-           cy="228"
-           r="8" />
-        <circle
-           r="8"
-           cy="228"
-           cx="660"
-           id="circle2030"
-           style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
-        <circle
-           style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:8;stroke-linecap:square"
-           id="circle2032"
-           cx="680"
-           cy="228"
-           r="8" />
-        <path
-           style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:8;stroke-linecap:square"
-           d="m 504,196 c -8.864,0 -16,7.136 -16,16 v 32 c 0,8.864 7.136,16 16,16 h 176 c 8.864,0 16,-7.136 16,-16 v -32 c 0,-8.864 -7.136,-16 -16,-16 z m 0,1 h 176 c 8.31,0 15,6.69 15,15 v 28 c 0,8.31 -6.69,15 -15,15 H 504 c -8.31,0 -15,-6.69 -15,-15 v -28 c 0,-8.31 6.69,-15 15,-15 z"
-           id="path2034"
-           inkscape:connector-curvature="0" />
+         id="network-server-256">
+        <g
+           id="g2000">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="rect1649"
+             width="208"
+             height="64"
+             x="488"
+             y="196"
+             ry="16" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="rect1651"
+             width="16"
+             height="48"
+             x="522.33014"
+             y="-237.54623"
+             ry="8"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="8"
+             y="-262.29504"
+             x="547.07892"
+             height="48"
+             width="16"
+             id="rect1653"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="rect1655"
+             width="16"
+             height="48"
+             x="571.8277"
+             y="-287.04373"
+             ry="8"
+             transform="rotate(45)" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="circle1657"
+             cx="640"
+             cy="228"
+             r="8" />
+          <circle
+             r="8"
+             cy="228"
+             cx="660"
+             id="circle1659"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="circle1661"
+             cx="680"
+             cy="228"
+             r="8" />
+          <path
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:8;stroke-linecap:square"
+             d="M 504 196 C 495.136 196 488 203.136 488 212 L 488 244 C 488 252.864 495.136 260 504 260 L 680 260 C 688.864 260 696 252.864 696 244 L 696 212 C 696 203.136 688.864 196 680 196 L 504 196 z M 504 197 L 680 197 C 688.31 197 695 203.69 695 212 L 695 240 C 695 248.31 688.31 255 680 255 L 504 255 C 495.69 255 489 248.31 489 240 L 489 212 C 489 203.69 495.69 197 504 197 z "
+             id="rect1673" />
+        </g>
+        <g
+           transform="translate(0,-63)"
+           id="g2018">
+          <rect
+             ry="16"
+             y="196"
+             x="488"
+             height="64"
+             width="208"
+             id="rect2002"
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <rect
+             transform="rotate(45)"
+             ry="8"
+             y="-237.54623"
+             x="522.33014"
+             height="48"
+             width="16"
+             id="rect2004"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="rect2006"
+             width="16"
+             height="48"
+             x="547.07892"
+             y="-262.29504"
+             ry="8"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="8"
+             y="-287.04373"
+             x="571.8277"
+             height="48"
+             width="16"
+             id="rect2008"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <circle
+             r="8"
+             cy="228"
+             cx="640"
+             id="circle2010"
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="circle2012"
+             cx="660"
+             cy="228"
+             r="8" />
+          <circle
+             r="8"
+             cy="228"
+             cx="680"
+             id="circle2014"
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2016"
+             d="m 504,196 c -8.864,0 -16,7.136 -16,16 v 32 c 0,8.864 7.136,16 16,16 h 176 c 8.864,0 16,-7.136 16,-16 v -32 c 0,-8.864 -7.136,-16 -16,-16 z m 0,1 h 176 c 8.31,0 15,6.69 15,15 v 28 c 0,8.31 -6.69,15 -15,15 H 504 c -8.31,0 -15,-6.69 -15,-15 v -28 c 0,-8.31 6.69,-15 15,-15 z"
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:8;stroke-linecap:square" />
+        </g>
+        <g
+           id="g2036"
+           transform="translate(0,-126)">
+          <rect
+             style="vector-effect:none;fill:#444444;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="rect2020"
+             width="208"
+             height="64"
+             x="488"
+             y="196"
+             ry="16" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="rect2022"
+             width="16"
+             height="48"
+             x="522.33014"
+             y="-237.54623"
+             ry="8"
+             transform="rotate(45)" />
+          <rect
+             transform="rotate(45)"
+             ry="8"
+             y="-262.29504"
+             x="547.07892"
+             height="48"
+             width="16"
+             id="rect2024"
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <rect
+             style="vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="rect2026"
+             width="16"
+             height="48"
+             x="571.8277"
+             y="-287.04373"
+             ry="8"
+             transform="rotate(45)" />
+          <circle
+             style="vector-effect:none;fill:#73c48f;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="circle2028"
+             cx="640"
+             cy="228"
+             r="8" />
+          <circle
+             r="8"
+             cy="228"
+             cx="660"
+             id="circle2030"
+             style="vector-effect:none;fill:#f15d22;fill-opacity:1;stroke-width:8;stroke-linecap:square" />
+          <circle
+             style="vector-effect:none;fill:#faa41a;fill-opacity:1;stroke-width:8;stroke-linecap:square"
+             id="circle2032"
+             cx="680"
+             cy="228"
+             r="8" />
+          <path
+             style="vector-effect:none;fill:#f8f8f8;fill-opacity:0.5;stroke-width:8;stroke-linecap:square"
+             d="m 504,196 c -8.864,0 -16,7.136 -16,16 v 32 c 0,8.864 7.136,16 16,16 h 176 c 8.864,0 16,-7.136 16,-16 v -32 c 0,-8.864 -7.136,-16 -16,-16 z m 0,1 h 176 c 8.31,0 15,6.69 15,15 v 28 c 0,8.31 -6.69,15 -15,15 H 504 c -8.31,0 -15,-6.69 -15,-15 v -28 c 0,-8.31 6.69,-15 15,-15 z"
+             id="path2034"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
     </g>
   </g>

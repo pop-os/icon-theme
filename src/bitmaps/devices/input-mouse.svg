@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-filename="/home/sam/Pop-template.png"
    style="display:inline;enable-background:new"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="input-mouse.svg"
-   inkscape:version="1.0alpha (989d59584b, 2019-01-13)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:version="0.32"
    id="svg11300"
    height="300"
    width="736"
    inkscape:export-xdpi="90.000000"
-   inkscape:export-ydpi="90.000000">
+   inkscape:export-ydpi="90.000000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3004">Pop Icon Theme Template</title>
   <sodipodi:namedview
@@ -32,7 +32,7 @@
      inkscape:snap-global="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:snap-grids="true"
@@ -42,18 +42,18 @@
      inkscape:snap-nodes="true"
      height="300px"
      width="400px"
-     inkscape:window-y="32"
-     inkscape:window-x="411"
-     inkscape:window-height="1371"
-     inkscape:window-width="2149"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
      inkscape:current-layer="layer6"
-     inkscape:cy="203.62333"
-     inkscape:cx="46.022728"
-     inkscape:zoom="0.70710685"
+     inkscape:cy="204"
+     inkscape:cx="361"
+     inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="0.25490196"
@@ -61,7 +61,8 @@
      pagecolor="#ffffff"
      id="base"
      fill="#f57900"
-     stroke="#ef2929">
+     stroke="#ef2929"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        originy="0"
        originx="0"
@@ -779,232 +780,253 @@
          id="text1492-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.08355808px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.6406672;enable-background:new"
          aria-label="?" />
-      <rect
-         ry="17"
-         y="221.99998"
-         x="238.99998"
-         height="60"
-         width="34"
-         id="rect934"
-         style="vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-linecap:square" />
-      <path
-         id="rect938"
-         d="M 256 222 C 246.582 222 239 229.582 239 239 L 239 265 C 239 274.418 246.582 282 256 282 C 265.418 282 273 274.418 273 265 L 273 239 C 273 229.582 265.418 222 256 222 z M 256 223 C 264.864 223 272 230.136 272 239 L 272 262 C 272 270.864 264.864 278 256 278 C 247.136 278 240 270.864 240 262 L 240 239 C 240 230.136 247.136 223 256 223 z "
-         style="vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-linecap:square" />
-      <path
-         id="rect947"
-         d="M 256 222 L 256 282 C 265.418 282 273 274.418 273 265 L 273 239 C 273 229.582 265.418 222 256 222 z "
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-linecap:square" />
-      <rect
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.40000001;stroke:none;stroke-linecap:square"
-         id="rect954"
-         width="6"
-         height="18"
-         x="253"
-         y="228"
-         ry="3" />
-      <rect
-         ry="2"
-         y="230.00006"
-         x="253.99998"
-         height="15"
-         width="4"
-         id="rect945"
-         style="vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-linecap:square" />
-      <rect
-         style="vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:square"
-         id="rect956"
-         width="26"
-         height="44"
-         x="167"
-         y="238"
-         ry="13" />
-      <path
-         id="rect960"
-         d="M 180 238 C 172.798 238 167 243.798 167 251 L 167 269 C 167 276.202 172.798 282 180 282 C 187.202 282 193 276.202 193 269 L 193 251 C 193 243.798 187.202 238 180 238 z M 180 239 C 186.648 239 192 244.352 192 251 L 192 267 C 192 273.648 186.648 279 180 279 C 173.352 279 168 273.648 168 267 L 168 251 C 168 244.352 173.352 239 180 239 z "
-         style="vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.75;stroke-linecap:square" />
-      <path
-         id="rect972"
-         d="M 180 238 L 180 282 C 187.202 282 193 276.202 193 269 L 193 251 C 193 243.798 187.202 238 180 238 z "
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.75;stroke-linecap:square" />
-      <rect
-         ry="3"
-         y="242"
-         x="177"
-         height="17"
-         width="6"
-         id="rect968"
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-linecap:square" />
-      <rect
-         style="vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-linecap:square"
-         id="rect970"
-         width="4"
-         height="14"
-         x="178"
-         y="244"
-         ry="2" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
-         id="rect1481"
-         width="18"
-         height="30"
-         x="107"
-         y="253"
-         ry="8.5" />
-      <path
-         id="rect1513"
-         d="M 115.5 253 C 110.791 253 107 256.791 107 261.5 L 107 274.5 C 107 279.209 110.791 283 115.5 283 L 116.5 283 C 121.209 283 125 279.209 125 274.5 L 125 261.5 C 125 256.791 121.209 253 116.5 253 L 115.5 253 z M 116 254 C 120.432 254 124 257.568 124 262 L 124 273 C 124 277.432 120.432 281 116 281 C 111.568 281 108 277.432 108 273 L 108 262 C 108 257.568 111.568 254 116 254 z "
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
-      <path
-         id="rect1520"
-         d="M 116 253 L 116 283 L 116.5 283 C 121.209 283 125 279.209 125 274.5 L 125 261.5 C 125 256.791 121.209 253 116.5 253 L 116 253 z "
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
-      <rect
-         ry="2"
-         y="255"
-         x="114"
-         height="11"
-         width="4"
-         id="rect1487"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
-         id="rect1489"
-         width="2"
-         height="8"
-         x="115"
-         y="257.00003"
-         ry="1" />
-      <rect
-         ry="6"
-         y="261"
-         x="62"
-         height="22"
-         width="12"
-         id="rect1527"
-         style="vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:square" />
-      <path
-         id="rect1529"
-         d="M 68 261 C 64.676 261 62 263.676 62 267 L 62 277 C 62 280.324 64.676 283 68 283 C 71.324 283 74 280.324 74 277 L 74 267 C 74 263.676 71.324 261 68 261 z M 68 262 C 70.77 262 73 264.23 73 267 L 73 277 C 73 279.77 70.77 282 68 282 C 65.23 282 63 279.77 63 277 L 63 267 C 63 264.23 65.23 262 68 262 z "
-         style="vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.375;stroke-linecap:square" />
-      <rect
-         ry="5"
-         y="268"
-         x="19"
-         height="16"
-         width="10"
-         id="rect1536"
-         style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stop-opacity:1" />
-      <path
-         id="rect1540"
-         d="M 24 268 C 21.23 268 19 270.23 19 273 L 19 279 C 19 281.77 21.23 284 24 284 C 26.77 284 29 281.77 29 279 L 29 273 C 29 270.23 26.77 268 24 268 z M 24 269 C 26.216 269 28 270.784 28 273 L 28 279 C 28 281.216 26.216 283 24 283 C 21.784 283 20 281.216 20 279 L 20 273 C 20 270.784 21.784 269 24 269 z "
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.25;stroke-linecap:square;stop-opacity:1" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1"
-         id="rect1545"
-         width="68"
-         height="120"
-         x="342"
-         y="160"
-         ry="34" />
-      <rect
-         ry="68"
-         y="36"
-         x="524"
-         height="240"
-         width="136"
-         id="rect1559"
-         style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1" />
-      <path
-         id="rect1575"
-         d="M 376 160 C 357.164 160 342 175.164 342 194 L 342 246 C 342 264.836 357.164 280 376 280 C 394.836 280 410 264.836 410 246 L 410 194 C 410 175.164 394.836 160 376 160 z M 376 161 C 394.282 161 409 175.718 409 194 L 409 241 C 409 259.282 394.282 274 376 274 C 357.718 274 343 259.282 343 241 L 343 194 C 343 175.718 357.718 161 376 161 z "
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1" />
-      <path
-         id="rect1584"
-         d="M 592 36 C 554.328 36 524 66.328 524 104 L 524 208 C 524 245.672 554.328 276 592 276 C 629.672 276 660 245.672 660 208 L 660 104 C 660 66.328 629.672 36 592 36 z M 592 37 C 629.118 37 659 66.882 659 104 L 659 199 C 659 236.118 629.118 266 592 266 C 554.882 266 525 236.118 525 199 L 525 104 C 525 66.882 554.882 37 592 37 z "
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:square"
-         d="m 376,160 v 120 c 18.836,0 34,-15.164 34,-34 v -52 c 0,-18.836 -15.164,-34 -34,-34 z"
-         id="path1589" />
-      <rect
-         ry="5"
-         y="173"
-         x="371"
-         height="34"
-         width="10"
-         id="rect1547"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1"
-         id="rect1549"
-         width="8"
-         height="30"
-         x="372"
-         y="176.00015"
-         ry="4" />
-      <path
-         id="path1591"
-         d="m 592,36 v 240 c 37.672,0 68,-30.328 68,-68 V 104 C 660,66.328 629.672,36 592,36 Z"
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:4;stroke-linecap:square"
-         inkscape:connector-curvature="0" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1"
-         id="rect1561"
-         width="18"
-         height="65"
-         x="583"
-         y="64"
-         ry="9" />
-      <rect
-         ry="8"
-         y="68.000305"
-         x="584"
-         height="60"
-         width="16"
-         id="rect1563"
-         style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
-         id="rect1593"
-         width="4"
-         height="8"
-         x="66"
-         y="264"
-         ry="2" />
-      <path
-         id="rect1611"
-         d="M 68 261 L 68 282.75 C 68 282.83497 67.979479 282.91434 67.974609 282.99805 C 67.983186 282.99808 67.991415 283 68 283 C 71.324 283 74 280.324 74 277 L 74 267 C 74 263.676 71.324 261 68 261 z "
-         style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.375;stroke-linecap:square" />
-      <rect
-         ry="1"
-         y="265"
-         x="67"
-         height="6"
-         width="2"
-         id="rect1595"
-         style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
-      <rect
-         ry="2"
-         y="270"
-         x="22"
-         height="7"
-         width="4"
-         id="rect1597"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
-      <path
-         id="rect1601"
-         d="M 24 268 L 24 284 C 26.77 284 29 281.77 29 279 L 29 273 C 29 270.23 26.77 268 24 268 z "
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.25;stroke-linecap:square;stop-opacity:1" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
-         id="rect1599"
-         width="2"
-         height="4.9999695"
-         x="23"
-         y="271.00003"
-         ry="1" />
+      <g
+         id="input-mouse-64">
+        <rect
+           ry="17"
+           y="221.99998"
+           x="238.99998"
+           height="60"
+           width="34"
+           id="rect934"
+           style="vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-linecap:square" />
+        <path
+           id="rect938"
+           d="M 256 222 C 246.582 222 239 229.582 239 239 L 239 265 C 239 274.418 246.582 282 256 282 C 265.418 282 273 274.418 273 265 L 273 239 C 273 229.582 265.418 222 256 222 z M 256 223 C 264.864 223 272 230.136 272 239 L 272 262 C 272 270.864 264.864 278 256 278 C 247.136 278 240 270.864 240 262 L 240 239 C 240 230.136 247.136 223 256 223 z "
+           style="vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-linecap:square" />
+        <path
+           id="rect947"
+           d="M 256 222 L 256 282 C 265.418 282 273 274.418 273 265 L 273 239 C 273 229.582 265.418 222 256 222 z "
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-linecap:square" />
+        <rect
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.40000001;stroke:none;stroke-linecap:square"
+           id="rect954"
+           width="6"
+           height="18"
+           x="253"
+           y="228"
+           ry="3" />
+        <rect
+           ry="2"
+           y="230.00006"
+           x="253.99998"
+           height="15"
+           width="4"
+           id="rect945"
+           style="vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-linecap:square" />
+      </g>
+      <g
+         id="input-mouse-48">
+        <rect
+           style="vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:square"
+           id="rect956"
+           width="26"
+           height="44"
+           x="167"
+           y="238"
+           ry="13" />
+        <path
+           id="rect960"
+           d="M 180 238 C 172.798 238 167 243.798 167 251 L 167 269 C 167 276.202 172.798 282 180 282 C 187.202 282 193 276.202 193 269 L 193 251 C 193 243.798 187.202 238 180 238 z M 180 239 C 186.648 239 192 244.352 192 251 L 192 267 C 192 273.648 186.648 279 180 279 C 173.352 279 168 273.648 168 267 L 168 251 C 168 244.352 173.352 239 180 239 z "
+           style="vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.75;stroke-linecap:square" />
+        <path
+           id="rect972"
+           d="M 180 238 L 180 282 C 187.202 282 193 276.202 193 269 L 193 251 C 193 243.798 187.202 238 180 238 z "
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.75;stroke-linecap:square" />
+        <rect
+           ry="3"
+           y="242"
+           x="177"
+           height="17"
+           width="6"
+           id="rect968"
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-linecap:square" />
+        <rect
+           style="vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-linecap:square"
+           id="rect970"
+           width="4"
+           height="14"
+           x="178"
+           y="244"
+           ry="2" />
+      </g>
+      <g
+         id="input-mouse-32">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
+           id="rect1481"
+           width="18"
+           height="30"
+           x="107"
+           y="253"
+           ry="8.5" />
+        <path
+           id="rect1513"
+           d="M 115.5 253 C 110.791 253 107 256.791 107 261.5 L 107 274.5 C 107 279.209 110.791 283 115.5 283 L 116.5 283 C 121.209 283 125 279.209 125 274.5 L 125 261.5 C 125 256.791 121.209 253 116.5 253 L 115.5 253 z M 116 254 C 120.432 254 124 257.568 124 262 L 124 273 C 124 277.432 120.432 281 116 281 C 111.568 281 108 277.432 108 273 L 108 262 C 108 257.568 111.568 254 116 254 z "
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
+        <path
+           id="rect1520"
+           d="M 116 253 L 116 283 L 116.5 283 C 121.209 283 125 279.209 125 274.5 L 125 261.5 C 125 256.791 121.209 253 116.5 253 L 116 253 z "
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
+        <rect
+           ry="2"
+           y="255"
+           x="114"
+           height="11"
+           width="4"
+           id="rect1487"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
+        <rect
+           style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
+           id="rect1489"
+           width="2"
+           height="8"
+           x="115"
+           y="257.00003"
+           ry="1" />
+      </g>
+      <g
+         id="input-mouse-128">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1"
+           id="rect1545"
+           width="68"
+           height="120"
+           x="342"
+           y="160"
+           ry="34" />
+        <path
+           id="rect1575"
+           d="M 376 160 C 357.164 160 342 175.164 342 194 L 342 246 C 342 264.836 357.164 280 376 280 C 394.836 280 410 264.836 410 246 L 410 194 C 410 175.164 394.836 160 376 160 z M 376 161 C 394.282 161 409 175.718 409 194 L 409 241 C 409 259.282 394.282 274 376 274 C 357.718 274 343 259.282 343 241 L 343 194 C 343 175.718 357.718 161 376 161 z "
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:2;stroke-linecap:square"
+           d="m 376,160 v 120 c 18.836,0 34,-15.164 34,-34 v -52 c 0,-18.836 -15.164,-34 -34,-34 z"
+           id="path1589" />
+        <rect
+           ry="5"
+           y="173"
+           x="371"
+           height="34"
+           width="10"
+           id="rect1547"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1" />
+        <rect
+           style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stop-opacity:1"
+           id="rect1549"
+           width="8"
+           height="30"
+           x="372"
+           y="176.00015"
+           ry="4" />
+      </g>
+      <g
+         id="input-mouse-256">
+        <rect
+           ry="68"
+           y="36"
+           x="524"
+           height="240"
+           width="136"
+           id="rect1559"
+           style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1" />
+        <path
+           id="rect1584"
+           d="M 592 36 C 554.328 36 524 66.328 524 104 L 524 208 C 524 245.672 554.328 276 592 276 C 629.672 276 660 245.672 660 208 L 660 104 C 660 66.328 629.672 36 592 36 z M 592 37 C 629.118 37 659 66.882 659 104 L 659 199 C 659 236.118 629.118 266 592 266 C 554.882 266 525 236.118 525 199 L 525 104 C 525 66.882 554.882 37 592 37 z "
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1" />
+        <path
+           id="path1591"
+           d="m 592,36 v 240 c 37.672,0 68,-30.328 68,-68 V 104 C 660,66.328 629.672,36 592,36 Z"
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:4;stroke-linecap:square"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1"
+           id="rect1561"
+           width="18"
+           height="65"
+           x="583"
+           y="64"
+           ry="9" />
+        <rect
+           ry="8"
+           y="68.000305"
+           x="584"
+           height="60"
+           width="16"
+           id="rect1563"
+           style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stop-opacity:1" />
+      </g>
+      <g
+         id="input-mouse-24">
+        <rect
+           ry="6"
+           y="261"
+           x="62"
+           height="22"
+           width="12"
+           id="rect1527"
+           style="vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:square" />
+        <path
+           id="rect1529"
+           d="M 68 261 C 64.676 261 62 263.676 62 267 L 62 277 C 62 280.324 64.676 283 68 283 C 71.324 283 74 280.324 74 277 L 74 267 C 74 263.676 71.324 261 68 261 z M 68 262 C 70.77 262 73 264.23 73 267 L 73 277 C 73 279.77 70.77 282 68 282 C 65.23 282 63 279.77 63 277 L 63 267 C 63 264.23 65.23 262 68 262 z "
+           style="vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.375;stroke-linecap:square" />
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
+           id="rect1593"
+           width="4"
+           height="8"
+           x="66"
+           y="264"
+           ry="2" />
+        <path
+           id="rect1611"
+           d="M 68 261 L 68 282.75 C 68 282.83497 67.979479 282.91434 67.974609 282.99805 C 67.983186 282.99808 67.991415 283 68 283 C 71.324 283 74 280.324 74 277 L 74 267 C 74 263.676 71.324 261 68 261 z "
+           style="vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.375;stroke-linecap:square" />
+        <rect
+           ry="1"
+           y="265"
+           x="67"
+           height="6"
+           width="2"
+           id="rect1595"
+           style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
+      </g>
+      <g
+         id="input-mouse-16">
+        <rect
+           ry="5"
+           y="268"
+           x="19"
+           height="16"
+           width="10"
+           id="rect1536"
+           style="opacity:1;vector-effect:none;fill:#98989d;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stop-opacity:1" />
+        <path
+           id="rect1540"
+           d="M 24 268 C 21.23 268 19 270.23 19 273 L 19 279 C 19 281.77 21.23 284 24 284 C 26.77 284 29 281.77 29 279 L 29 273 C 29 270.23 26.77 268 24 268 z M 24 269 C 26.216 269 28 270.784 28 273 L 28 279 C 28 281.216 26.216 283 24 283 C 21.784 283 20 281.216 20 279 L 20 273 C 20 270.784 21.784 269 24 269 z "
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0.25;stroke-linecap:square;stop-opacity:1" />
+        <rect
+           ry="2"
+           y="270"
+           x="22"
+           height="7"
+           width="4"
+           id="rect1597"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1" />
+        <path
+           id="rect1601"
+           d="M 24 268 L 24 284 C 26.77 284 29 281.77 29 279 L 29 273 C 29 270.23 26.77 268 24 268 z "
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.2;stroke:none;stroke-width:0.25;stroke-linecap:square;stop-opacity:1" />
+        <rect
+           style="opacity:1;vector-effect:none;fill:#343434;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stop-opacity:1"
+           id="rect1599"
+           width="2"
+           height="4.9999695"
+           x="23"
+           y="271.00003"
+           ry="1" />
+      </g>
     </g>
   </g>
 </svg>

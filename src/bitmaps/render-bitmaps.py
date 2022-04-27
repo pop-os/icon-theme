@@ -35,7 +35,8 @@ SVGO = Path('/usr/local/bin/svgo')
 HAS_SVGO = os.path.exists(SVGO)
 MAINDIR = Path('../../Pop')
 SVGO_CONFIG = MAINDIR / '..' / 'svgo.config.js'
-CLI_OUTPUT=None
+CLI_OUTPUT=subprocess.DEVNULL
+# CLI_OUTPUT=None # Uncomment for verbose mode
 
 SOURCES = ('actions', 'apps', 'categories', 'devices', 'emblems', 'logos', 'mimetypes', 'places', 'preferences', 'status')
 INKSCAPE_ACTIONS = [
@@ -86,7 +87,7 @@ def main(args, SRC):
 			'-o', f'{output_file}' # export-filename
 		]
 
-		print(f'Rendering {output_file}')
+		print(f'Rendering {output_file} from {icon_file}')
 		if CLI_OUTPUT == None:
 			print(f'Running {cmd1}')
 			print(f'Running {cmd2}')
