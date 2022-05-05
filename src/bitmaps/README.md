@@ -4,6 +4,9 @@
  - This folder is subdivided into subfolders that organize the icons sources by `context` 
  - To edit the icons you will need `inkscape` and you'll need `python` installed to run the render script.
  - Files in the `tmp` folder are ignored by the render script
+ - Once you have completed your icon/edits, be sure to group each icon into a single object. Set the name for this object using the format {icon-name}-{size} (e.g. edit-delete-64)
+    - Do this for each size of icon. This is crucial to rendering the icons without having redundant data.
+    - If the final rendered icons are blank, double-check that the correct object is named. 
 
 **[render-bitmaps.py](./render-bitmaps.py) - the render script**
  - This script will render PNG icons, provided there are source changes, in both @1x and @2x (HiDPi) resolutions from the source files.
