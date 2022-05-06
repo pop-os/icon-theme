@@ -1,3 +1,9 @@
+pop-icon-theme (3.1.0) jammy; urgency=medium
+
+  * Remove rendundant data from SVG icons
+
+ -- Ian Santopietro <ian@system76.com>  Thu, 05 May 2022 11:57:56 -0600
+
 pop-icon-theme (3.0.0) impish; urgency=medium
 
   * Switch icons to SVG format

@@ -2,27 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    width="736"
    height="544"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="distributor-logo-ubuntu-gnome.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
-   inkscape:export-filename="/home/sam/Pop-template.png">
+   inkscape:export-filename="/home/sam/Pop-template.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3004">Pop Icon Theme</title>
   <sodipodi:namedview
@@ -35,17 +34,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="96.608604"
-     inkscape:cy="33.64035"
-     inkscape:current-layer="layer7"
+     inkscape:cx="343"
+     inkscape:cy="246"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -58,29 +57,34 @@
      inkscape:window-maximized="1"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true">
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
        enabled="true"
        visible="true"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid11592"
        empspacing="2"
        visible="true"
        enabled="false"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        color="#ff0000"
        opacity="0.1254902"
        empcolor="#ff0000"
        empopacity="0.25098039"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -1635,8 +1639,8 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
+       id="linearGradient5606"
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -1646,9 +1650,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4564"
-       x="-0.024"
+       x="-0.024000001"
        width="1.048"
-       y="-0.024"
+       y="-0.024000001"
        height="1.048">
       <feGaussianBlur
          inkscape:collect="always"
@@ -1671,7 +1675,7 @@
         </dc:creator>
         <dc:source />
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+           rdf:resource="http://artlibre.org/licence/lal" />
         <dc:title>Pop Icon Theme</dc:title>
         <dc:subject>
           <rdf:Bag />
@@ -1731,7 +1735,8 @@
        style="display:none"
        inkscape:label="Baseplate"
        id="layer7"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect3951"
@@ -1745,10 +1750,10 @@
          y="332.48523"
          xml:space="preserve"
          x="15.006836"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="context"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
            y="332.48523"
            x="15.006836"
            sodipodi:role="line"
@@ -1757,11 +1762,10 @@
          y="332.48523"
          xml:space="preserve"
          x="142.48828"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="icon-name"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
            y="332.48523"
            x="142.48828"
            sodipodi:role="line"
@@ -1808,64 +1812,6 @@
        id="layer6"
        inkscape:label="Symbols"
        style="display:inline">
-      <circle
-         style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4564)"
-         id="circle4568"
-         cx="464"
-         cy="32"
-         r="240" />
-      <circle
-         r="240"
-         cy="32"
-         cx="464"
-         id="circle4554"
-         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4564)" />
-      <circle
-         r="11"
-         cy="273"
-         cx="64"
-         id="circle4533"
-         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="22"
-         cy="261"
-         cx="168"
-         id="circle4537"
-         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="8"
-         cy="276"
-         cx="24"
-         id="circle4526"
-         style="opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         style="opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path4524"
-         cx="64"
-         cy="272"
-         r="11" />
-      <path
-         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 64 505 A 11 11 0 0 0 53 516 A 11 11 0 0 0 53.021484 516.58594 A 11 11 0 0 1 64 506 A 11 11 0 0 1 74.978516 516.41406 A 11 11 0 0 0 75 516 A 11 11 0 0 0 64 505 z "
-         transform="translate(0,-244)"
-         id="circle4545" />
-      <circle
-         style="opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path4520"
-         cx="168"
-         cy="260"
-         r="22" />
-      <path
-         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 168 482 A 22 22 0 0 0 146 504 A 22 22 0 0 0 146.02148 504.58594 A 22 22 0 0 1 168 483 A 22 22 0 0 1 189.97852 504.41406 A 22 22 0 0 0 190 504 A 22 22 0 0 0 168 482 z "
-         transform="translate(0,-244)"
-         id="circle4549" />
-      <circle
-         style="opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path4518"
-         cx="464"
-         cy="28"
-         r="240" />
       <g
          id="layer1-2"
          inkscape:label="places"
@@ -1901,131 +1847,204 @@
          inkscape:label="actions"
          style="display:inline"
          transform="translate(-54.5001,442.5)" />
-      <path
-         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 464 32 A 240 240 0 0 0 224 272 A 240 240 0 0 0 224.04102 273.17188 A 240 240 0 0 1 464 34 A 240 240 0 0 1 703.95898 272.82812 A 240 240 0 0 0 704 272 A 240 240 0 0 0 464 32 z "
-         transform="translate(0,-244)"
-         id="circle4528" />
-      <circle
-         r="15"
-         cy="269"
-         cx="112"
-         id="circle4535"
-         style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
-      <circle
-         style="display:inline;opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         id="path4522"
-         cx="112"
-         cy="268"
-         r="15" />
-      <path
-         inkscape:connector-curvature="0"
-         style="display:inline;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         d="m 112,252.99999 a 15,15 0 0 0 -15,15 15,15 0 0 0 0.02014,0.54382 A 15,15 0 0 1 112,253.93749 a 15,15 0 0 1 14.97986,14.45617 15,15 0 0 0 0.0202,-0.39367 15,15 0 0 0 -15,-15 z"
-         id="circle4547" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Pictogram">
       <g
-         id="g4798"
-         inkscape:label="Roundel"
-         transform="matrix(1.4665912,0,0,1.4665912,-501.3374,-731.20231)"
-         style="fill:#ffffff">
+         id="distributor-logo-ubuntu-gnome-512">
+        <circle
+           style="display:inline;enable-background:new;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4564)"
+           id="circle4568"
+           cx="464"
+           cy="32"
+           r="240" />
+        <circle
+           r="240"
+           cy="32"
+           cx="464"
+           id="circle4554"
+           style="display:inline;enable-background:new;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4564)" />
+        <circle
+           style="display:inline;enable-background:new;opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4518"
+           cx="464"
+           cy="28"
+           r="240" />
+        <path
+           style="display:inline;enable-background:new;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 464 32 A 240 240 0 0 0 224 272 A 240 240 0 0 0 224.04102 273.17188 A 240 240 0 0 1 464 34 A 240 240 0 0 1 703.95898 272.82812 A 240 240 0 0 0 704 272 A 240 240 0 0 0 464 32 z "
+           id="circle4528"
+           transform="translate(0,-244)" />
         <g
-           id="g4800"
-           transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
-           inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
-           inkscape:export-xdpi="300"
-           inkscape:export-ydpi="300"
+           id="g4798"
+           inkscape:label="Roundel"
+           transform="matrix(1.4665912,0,0,1.4665912,-501.3374,-731.20231)"
            style="fill:#ffffff">
-          <path
-             transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)"
-             style="fill:#ffffff;fill-opacity:1"
-             d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
-             id="circle4802"
-             inkscape:connector-curvature="0" />
+          <g
+             id="g4800"
+             transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
+             inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             style="fill:#ffffff">
+            <path
+               transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)"
+               style="fill:#ffffff;fill-opacity:1"
+               d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
+               id="circle4802"
+               inkscape:connector-curvature="0" />
+          </g>
         </g>
       </g>
       <g
-         style="fill:#ffffff"
-         transform="matrix(0.13443753,0,0,0.13443753,79.510745,190.40646)"
-         inkscape:label="Roundel"
-         id="g4390">
+         id="distributor-logo-ubuntu-gnome-48">
+        <circle
+           r="22"
+           cy="261"
+           cx="168"
+           id="circle4537"
+           style="display:inline;enable-background:new;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="display:inline;enable-background:new;opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4520"
+           cx="168"
+           cy="260"
+           r="22" />
+        <path
+           style="display:inline;enable-background:new;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 168 482 A 22 22 0 0 0 146 504 A 22 22 0 0 0 146.02148 504.58594 A 22 22 0 0 1 168 483 A 22 22 0 0 1 189.97852 504.41406 A 22 22 0 0 0 190 504 A 22 22 0 0 0 168 482 z "
+           id="circle4549"
+           transform="translate(0,-244)" />
         <g
            style="fill:#ffffff"
-           inkscape:export-ydpi="300"
-           inkscape:export-xdpi="300"
-           inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
-           transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
-           id="g4392">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4394"
-             d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
-             style="fill:#ffffff;fill-opacity:1"
-             transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)" />
+           transform="matrix(0.13443753,0,0,0.13443753,79.510745,190.40646)"
+           inkscape:label="Roundel"
+           id="g4390">
+          <g
+             style="fill:#ffffff"
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
+             transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
+             id="g4392">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4394"
+               d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
+               style="fill:#ffffff;fill-opacity:1"
+               transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)" />
+          </g>
         </g>
       </g>
       <g
-         id="g4400"
-         inkscape:label="Roundel"
-         transform="matrix(0.09166195,0,0,0.09166195,51.666411,220.54986)"
-         style="fill:#ffffff">
+         id="distributor-logo-ubuntu-gnome-32">
+        <circle
+           r="15"
+           cy="269"
+           cx="112"
+           id="circle4535"
+           style="display:inline;enable-background:new;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="display:inline;enable-background:new;opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4522"
+           cx="112"
+           cy="268"
+           r="15" />
+        <path
+           inkscape:connector-curvature="0"
+           style="display:inline;enable-background:new;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 112,252.99999 a 15,15 0 0 0 -15,15 15,15 0 0 0 0.02014,0.54382 A 15,15 0 0 1 112,253.93749 a 15,15 0 0 1 14.97986,14.45617 15,15 0 0 0 0.0202,-0.39367 15,15 0 0 0 -15,-15 z"
+           id="circle4547" />
         <g
-           id="g4402"
-           transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
-           inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
-           inkscape:export-xdpi="300"
-           inkscape:export-ydpi="300"
+           id="g4400"
+           inkscape:label="Roundel"
+           transform="matrix(0.09166195,0,0,0.09166195,51.666411,220.54986)"
            style="fill:#ffffff">
-          <path
-             transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)"
-             style="fill:#ffffff;fill-opacity:1"
-             d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
-             id="path4404"
-             inkscape:connector-curvature="0" />
+          <g
+             id="g4402"
+             transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
+             inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             style="fill:#ffffff">
+            <path
+               transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)"
+               style="fill:#ffffff;fill-opacity:1"
+               d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
+               id="path4404"
+               inkscape:connector-curvature="0" />
+          </g>
         </g>
       </g>
       <g
-         style="fill:#ffffff"
-         transform="matrix(0.06721877,0,0,0.06721877,19.755373,237.20322)"
-         inkscape:label="Roundel"
-         id="g4410">
+         id="distributor-logo-ubuntu-gnome-24">
+        <circle
+           r="11"
+           cy="273"
+           cx="64"
+           id="circle4533"
+           style="display:inline;enable-background:new;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="display:inline;enable-background:new;opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4524"
+           cx="64"
+           cy="272"
+           r="11" />
+        <path
+           style="display:inline;enable-background:new;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 64 505 A 11 11 0 0 0 53 516 A 11 11 0 0 0 53.021484 516.58594 A 11 11 0 0 1 64 506 A 11 11 0 0 1 74.978516 516.41406 A 11 11 0 0 0 75 516 A 11 11 0 0 0 64 505 z "
+           id="circle4545"
+           transform="translate(0,-244)" />
         <g
            style="fill:#ffffff"
-           inkscape:export-ydpi="300"
-           inkscape:export-xdpi="300"
-           inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
-           transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
-           id="g4412">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4414"
-             d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
-             style="fill:#ffffff;fill-opacity:1"
-             transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)" />
+           transform="matrix(0.06721877,0,0,0.06721877,19.755373,237.20322)"
+           inkscape:label="Roundel"
+           id="g4410">
+          <g
+             style="fill:#ffffff"
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
+             transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
+             id="g4412">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4414"
+               d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
+               style="fill:#ffffff;fill-opacity:1"
+               transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)" />
+          </g>
         </g>
       </g>
       <g
-         id="g4420"
-         inkscape:label="Roundel"
-         transform="matrix(0.04888637,0,0,0.04888637,-8.1779127,250.69325)"
-         style="fill:#ffffff">
+         id="distributor-logo-ubuntu-gnome-16">
+        <circle
+           r="8"
+           cy="276"
+           cx="24"
+           id="circle4526"
+           style="display:inline;enable-background:new;opacity:1;fill:#0087ed;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <g
-           id="g4422"
-           transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
-           inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
-           inkscape:export-xdpi="300"
-           inkscape:export-ydpi="300"
+           id="g4420"
+           inkscape:label="Roundel"
+           transform="matrix(0.04888637,0,0,0.04888637,-8.1779127,250.69325)"
            style="fill:#ffffff">
-          <path
-             transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)"
-             style="fill:#ffffff;fill-opacity:1"
-             d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
-             id="path4424"
-             inkscape:connector-curvature="0" />
+          <g
+             id="g4422"
+             transform="matrix(3.5217342,0,0,3.5217342,-7997.2999,-3141.3471)"
+             inkscape:export-filename="/home/patrik/Documents/UCN/Projects/2nd year/Final exam/Final product/Roundel.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             style="fill:#ffffff">
+            <path
+               transform="matrix(0.72604847,0,0,0.72604847,2038.0872,672.87015)"
+               style="fill:#ffffff;fill-opacity:1"
+               d="m 574.38281,462.98828 c -1.87508,1.125 -4.26573,2.71872 -7.17187,4.78125 -2.85959,2.01571 -5.90627,4.64064 -9.14063,7.875 -2.81248,2.81249 -4.78139,5.57819 -5.90625,8.29688 -1.07858,2.76579 -1.45307,5.48439 -1.125,8.15625 0.32822,2.67186 1.24215,5.27345 2.74219,7.80468 1.54687,2.57821 3.56261,5.10948 6.04687,7.59375 l 20.53126,20.53125 6.53906,-6.53906 -19.125,-19.125 c -4.45329,-4.45328 -6.93746,-8.34372 -7.45313,-11.67187 -0.51553,-3.32829 0.8906,-6.65623 4.21875,-9.98438 0.70312,-0.70326 1.45322,-1.40611 2.25,-2.10937 0.79678,-0.70326 1.54702,-1.35929 2.25,-1.96875 0.74995,-0.5625 1.40626,-1.07804 1.96875,-1.54688 0.65616,-0.46884 1.14863,-0.77316 1.47657,-0.91406 l 42.0664,42.06641 6.53906,-6.53907 -46.70703,-46.70703 z m -2.03515,20.77734 -6.54102,6.53907 30.86914,30.86719 c -0.14076,0.32807 -0.44508,0.82054 -0.91406,1.47656 -0.46884,0.56249 -0.9841,1.21894 -1.54688,1.96875 -0.6096,0.70298 -1.26549,1.45322 -1.96875,2.25 -0.70326,0.79678 -1.40625,1.54688 -2.10937,2.25 -3.32815,3.32815 -6.65622,4.73442 -9.98438,4.21875 -3.32815,-0.51553 -7.21873,-2.99998 -11.67187,-7.45313 l -19.125,-19.125 -6.53906,6.53907 20.53125,20.53124 c 2.4844,2.48441 5.01568,4.50001 7.59375,6.04688 2.53137,1.50004 5.13282,2.41411 7.80468,2.74219 2.67186,0.32807 5.3906,-0.0468 8.15625,-1.125 2.71883,-1.125 5.48426,-3.09377 8.29688,-5.90625 3.23436,-3.23436 5.85943,-6.28131 7.875,-9.14063 2.0624,-2.90628 3.65625,-5.29693 4.78125,-7.17187 l -35.50781,-35.50782 z"
+               id="path4424"
+               inkscape:connector-curvature="0" />
+          </g>
         </g>
       </g>
     </g>

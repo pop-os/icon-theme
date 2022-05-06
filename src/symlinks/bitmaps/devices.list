@@ -1,6 +1,7 @@
 audio-speakers.svg preferences-desktop-sound.svg
 audio-subwoofer.svg audio-subwoofer-testing.svg
 bluetooth.svg blueman-device.svg
+../devices/bluetooth.svg ../apps/bt-logo.svg
 camera-photo.svg accessories-camera.svg
 computer.svg cs-screen.svg
 drive-harddisk.svg drive-harddisk-system.svg
@@ -35,6 +36,7 @@ network-wireless.svg nm-device-wireless.svg
 printer-network.svg printer-remote.svg
 printer.svg cs-printer.svg
 printer.svg cups.svg
+printer.svg document-printer.svg
 printer.svg gnome-dev-printer.svg
 printer.svg preferences-desktop-printer.svg
 scanner.svg org.gnome.SimpleScan.svg
