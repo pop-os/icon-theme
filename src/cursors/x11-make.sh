@@ -1,8 +1,8 @@
 #!/bin/sh
 
 
-THEME=Suru
-DIR="../../.."
+THEME=Pop
+DIR="../../"
 
 # enter bitmaps folder
 cd bitmaps

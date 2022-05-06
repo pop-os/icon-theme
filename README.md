@@ -68,6 +68,11 @@ gsettings reset org.gnome.desktop.interface icon-theme
 gsettings reset org.gnome.desktop.interface cursor-theme
 ```
 
+## Modifying the theme
+
+For information on modifications and contributing to the theme, see the 
+README.md in the `src` folder.
+
 ## Missing Icons & Requests
 
 You can file an icon request as a [GitHub issue](https://github.com/pop-os/icon-theme/issues/new). Filing an icon request or reporting a missing icon, please take care in providing the following useful information: 
