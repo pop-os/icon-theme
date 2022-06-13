@@ -84,4 +84,4 @@ Note: Pop does not supply icons for third-party applications, only those which c
 
 ## Donate & Support
 
-Pop_Icons use Sam Hewitt's Paper icons as an arcitechtural base, although the icon artwork is new. If you would like to support development by making a donation you can do so [here](https://snwh.org/donate) or by becoming a supporter on [Patreon](http://patreon.com/snwh/) or [Liberapay](http://liberapay.com/snwh/). &#x1F60A;
+Pop_Icons use Sam Hewitt's Paper icons as an architectural base, although the icon artwork is new. If you would like to support development by making a donation you can do so [here](https://snwh.org/donate) or by becoming a supporter on [Patreon](http://patreon.com/snwh/) or [Liberapay](http://liberapay.com/snwh/). &#x1F60A;
