@@ -76,6 +76,27 @@ def generate_symlinks() -> None:
         print('Failed to generate sylbolic symlinks. See output above.')
         sys.exit(1)
 
+def render_cursors() -> None:
+    print('  -- Rendering cursors...')
+    cursors_dir = SRCDIR / 'cursors'
+    template_dir = cursors_dir / 'templates'
+    output_dir = cursors_dir / 'bitmaps'
+
+    os.chdir(cursors_dir)
+    if output_dir.exists():
+        print('    -- Cleaning up old render')
+        shutil.rmtree(output_dir)
+    shutil.copytree(template_dir, output_dir)
+
+    print('    -- Rendering cursor bitmaps')
+    subprocess.run(['./render-cursors.py', '-n 0', 'source-cursors.svg'])
+    
+    print('    -- Generatig cursor files')
+    subprocess.run('./x11-make.sh')
+    subprocess.run('./w32-make.sh')
+    
+
+
 def install_metadata() -> None:
     print('  -- Installing theme Metadata...')
     for file in ('index.theme', 'cursor.theme'):
@@ -99,13 +120,26 @@ def clean_dirs() -> None:
     else:
         print('  ** Skipping symbolic icons')
 
-def do_render(clean:bool = False) -> None:
+def do_render(
+        clean:bool = False,
+        skip_bitmaps:bool = False,
+        skip_symbolics:bool = False,
+        skip_cursors:bool = False,
+        skip_symlinks:bool = False,
+        skip_metadata:bool = False
+) -> None:
     if clean:
         clean_dirs()
-    render_bitmaps()
-    render_symbolics()
-    generate_symlinks()
-    install_metadata()
+    if not skip_bitmaps:
+        render_bitmaps()
+    if not skip_symbolics:
+        render_symbolics()
+    if not skip_cursors:
+        render_cursors()
+    if not skip_symlinks:
+        generate_symlinks()
+    if not skip_metadata:
+        install_metadata()
 
 parser = argparse.ArgumentParser(description='Render icons for the Pop Icon Theme')
 
@@ -115,7 +149,44 @@ parser.add_argument(
     action='store_true',
     help='Remove existing files before rendering (takes a long time to render)'
 )
+parser.add_argument(
+    '-b',
+    '--skip-bitmaps',
+    action='store_true',
+    help='Skip rendering of bitmaps'
+)
+parser.add_argument(
+    '-s',
+    '--skip-symbolics',
+    action='store_true',
+    help='Skip rendering of symbolic icons'
+)
+parser.add_argument(
+    '-x',
+    '--skip-cursors',
+    action='store_true',
+    help='Skip rendering of cursors'
+)
+parser.add_argument(
+    '-l',
+    '--skip-links',
+    action='store_true',
+    help='Skip symlink generation'
+)
+parser.add_argument(
+    '-m',
+    '--skip-metadata',
+    action='store_true',
+    help='Skip installation of metadata'
+)
 
 args = parser.parse_args()
     
-do_render(clean=args.clean)
+do_render(
+    clean=args.clean,
+    skip_bitmaps=args.skip_bitmaps,
+    skip_symbolics=args.skip_symbolics,
+    skip_cursors=args.skip_cursors,
+    skip_symlinks=args.skip_links,
+    skip_metadata=args.skip_metadata
+)
