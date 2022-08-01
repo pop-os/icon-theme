@@ -144,7 +144,7 @@ def clean_metadata() -> None:
             print(f'    ** Skipping {file}')
 
 def clean_dirs(**kwargs) -> None:
-    print('-- Cleaning up previous renders')
+    print('\n-- Cleaning up previous renders')
     os.chdir(THEMEDIR)
 
     if kwargs['everything']:
@@ -178,6 +178,7 @@ def clean_dirs(**kwargs) -> None:
         clean_metadata()
     else:
         print('  ** Skipping removing Metadata')
+    print('\n\n')
 
 def do_render(args) -> None:
     if args.clean:
@@ -188,6 +189,9 @@ def do_render(args) -> None:
             cursors=args.cursors,
             metadata=args.metadata
         )
+
+    print('\n--Rendering icons')
+    
     if args.all:
         render_bitmaps()
         render_symbolics()

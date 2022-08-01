@@ -30,9 +30,9 @@ from pathlib import Path
 
 INKSCAPE = Path('/usr/bin/inkscape')
 SCOUR = Path('/usr/bin/scour')
-HAS_SCOUR = os.path.exists(SCOUR)
+HAS_SCOUR = SCOUR.exists()
 SVGO = Path('/usr/local/bin/svgo')
-HAS_SVGO = os.path.exists(SVGO)
+HAS_SVGO = SVGO.exists()
 MAINDIR = Path('../../Pop')
 SVGO_CONFIG = MAINDIR / '..' / 'svgo.config.js'
 CLI_OUTPUT=subprocess.DEVNULL
@@ -225,18 +225,19 @@ def main(args, SRC):
 						if dpi_factor != 1:
 							size_str += "@%sx" % dpi_factor
 
-						dir = os.path.join(MAINDIR, size_str, self.context)
-						outfile = os.path.join(dir, self.icon_name+'.svg')
-						if not os.path.exists(dir):
-							os.makedirs(dir)
-						# Do a time based check!
-						if not os.path.exists(outfile):
+						dir = MAINDIR / size_str / self.context
+						outfile = dir / f'{self.icon_name}.svg'
+						if not dir.exists():
+							dir.mkdir(parents=True)
+						if not outfile.exists():
 							inkscape_render_rect(self.path, id, dpi, self.icon_name, width, outfile)
 							if HAS_SCOUR:
 								scour_clean_svg(outfile)
 							if HAS_SVGO:
 								svgo_optimize_svgs(outfile)
-							sys.stdout.write('.')
+							sys.stdout.write('*')
+						else:
+							sys.stdout.write('x')
 						sys.stdout.flush()
 				sys.stdout.write('\n')
 				sys.stdout.flush()
