@@ -123,9 +123,15 @@ def clean_symbolics() -> None:
 
 def clean_cursors() -> None:
     cursor_dir = THEMEDIR / 'cursors'
+    cursors_dir = SRCDIR / 'cursors'
+    template_dir = cursors_dir / 'templates'
+    output_dir = cursors_dir / 'bitmaps'
     if cursor_dir.exists():
         print('  -- Removing cursors')
         shutil.rmtree(cursor_dir)
+    if output_dir.exists():
+        print('    -- Cleaning up old render')
+        shutil.rmtree(output_dir)
 
 def clean_metadata() -> None:
     print('  -- Removing Metadata')
