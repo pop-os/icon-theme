@@ -230,25 +230,13 @@ def main(args, SRC):
 						if not os.path.exists(dir):
 							os.makedirs(dir)
 						# Do a time based check!
-						if self.force or not os.path.exists(outfile):
+						if not os.path.exists(outfile):
 							inkscape_render_rect(self.path, id, dpi, self.icon_name, width, outfile)
 							if HAS_SCOUR:
 								scour_clean_svg(outfile)
 							if HAS_SVGO:
 								svgo_optimize_svgs(outfile)
 							sys.stdout.write('.')
-						else:
-							stat_in = os.stat(self.path)
-							stat_out = os.stat(outfile)
-							if stat_in.st_mtime > stat_out.st_mtime:
-								inkscape_render_rect(self.path, id, dpi, self.icon_name, width, outfile)
-								if HAS_SCOUR:
-									scour_clean_svg(outfile)
-								if HAS_SVGO:
-									svgo_optimize_svgs(outfile)
-								sys.stdout.write('.')
-							else:
-								sys.stdout.write('-')
 						sys.stdout.flush()
 				sys.stdout.write('\n')
 				sys.stdout.flush()
@@ -279,7 +267,7 @@ def main(args, SRC):
 			# icon not in this directory, try the next one
 			pass
 
-parser = argparse.ArgumentParser(description='Render icons from SVG to PNG')
+parser = argparse.ArgumentParser(description='Render source icons out to final icons')
 
 parser.add_argument('svg', type=str, nargs='?', metavar='SVG',
 					help="Optional SVG names (without extensions) to render. If not given, render all icons")
