@@ -40,6 +40,8 @@ SIZES = (
     '512x512'
 )
 
+
+## Rendering Functions
 def render_bitmaps() -> None:
     print('  -- Rendering bitmap icons...')
     os.chdir(SRCDIR / 'bitmaps')
@@ -84,8 +86,8 @@ def render_cursors() -> None:
 
     os.chdir(cursors_dir)
     if output_dir.exists():
-        print('    -- Cleaning up old render')
-        shutil.rmtree(output_dir)
+        print('    -- Output dir exists, use --clean to re-render')
+        return
     shutil.copytree(template_dir, output_dir)
 
     print('    -- Rendering cursor bitmaps')
@@ -94,8 +96,6 @@ def render_cursors() -> None:
     print('    -- Generatig cursor files')
     subprocess.run('./x11-make.sh')
     subprocess.run('./w32-make.sh')
-    
-
 
 def install_metadata() -> None:
     print('  -- Installing theme Metadata...')
@@ -103,42 +103,102 @@ def install_metadata() -> None:
         file_path = BASEDIR / f'{file}.in'
         shutil.copyfile(file_path, f'{THEMEDIR}/{file}')
 
-def clean_dirs() -> None:
-    print('Cleaning up previous renders')
-    os.chdir(THEMEDIR)
+
+## Artifact Cleanup/Removal Functions
+def clean_bitmaps() -> None:
+    print('  -- Removing Fullcolor Icons')
     for size in SIZES:
         size_dir = THEMEDIR / size
         if size_dir.exists():
-            print(f'  -- Removing {size_dir}')
+            print(f'    -- Removing {size_dir}')
             shutil.rmtree(size_dir)
         else:
-            print(f'  ** Skipping {size_dir}')
+            print(f'    ** Skipping {size_dir}')
+
+def clean_symbolics() -> None:
     scalable_dir = THEMEDIR / 'scalable'
     if scalable_dir.exists():
         print('  -- Removing symbolic icons')
         shutil.rmtree(scalable_dir)
-    else:
-        print('  ** Skipping symbolic icons')
 
-def do_render(
-        clean:bool = False,
-        skip_bitmaps:bool = False,
-        skip_symbolics:bool = False,
-        skip_cursors:bool = False,
-        skip_symlinks:bool = False,
-        skip_metadata:bool = False
-) -> None:
-    if clean:
-        clean_dirs()
-    if not skip_bitmaps:
+def clean_cursors() -> None:
+    cursor_dir = THEMEDIR / 'cursors'
+    if cursor_dir.exists():
+        print('  -- Removing cursors')
+        shutil.rmtree(cursor_dir)
+
+def clean_metadata() -> None:
+    print('  -- Removing Metadata')
+    for file in ('index.theme', 'cursor.theme'):
+        file_path = THEMEDIR / file
+        try:
+            file_path.unlink()
+            print(f'    -- Removed {file}')
+        except FileNotFoundError:
+            print(f'    ** Skipping {file}')
+
+def clean_dirs(**kwargs) -> None:
+    print('-- Cleaning up previous renders')
+    os.chdir(THEMEDIR)
+
+    if kwargs['everything']:
+        print('  -- Performing Full Cleanup')
+        clean_bitmaps()
+        clean_symbolics()
+        clean_cursors()
+        clean_metadata()
+        return
+
+    # Cleanup Fullcolors
+    if kwargs['bitmaps']:
+        clean_bitmaps()
+    else:
+        print('  ** Skipping removing bitmaps')
+    
+    # Cleanup Symbolics
+    if kwargs['symbolics']:
+        clean_symbolics()
+    else:
+        print('  ** Skipping removing symbolic icons')
+    
+    # Cleanup Cursors
+    if kwargs['cursors']:
+        clean_cursors()
+    else:
+        print('  ** Skipping removing Cursors')
+
+    # Cleanup Metadata
+    if kwargs['metadata']:
+        clean_metadata()
+    else:
+        print('  ** Skipping removing Metadata')
+
+def do_render(args) -> None:
+    if args.clean:
+        clean_dirs(
+            everything=args.all,
+            bitmaps=args.bitmaps,
+            symbolics=args.symbolics,
+            cursors=args.cursors,
+            metadata=args.metadata
+        )
+    if args.all:
         render_bitmaps()
-    if not skip_symbolics:
         render_symbolics()
-    if not skip_cursors:
         render_cursors()
-    if not skip_symlinks:
         generate_symlinks()
-    if not skip_metadata:
+        install_metadata()
+        return
+
+    if args.bitmaps:
+        render_bitmaps()
+    if args.symbolics:
+        render_symbolics()
+    if args.cursors:
+        render_cursors()
+    if args.links:
+        generate_symlinks()
+    if args.metadata:
         install_metadata()
 
 parser = argparse.ArgumentParser(description='Render icons for the Pop Icon Theme')
@@ -149,44 +209,53 @@ parser.add_argument(
     action='store_true',
     help='Remove existing files before rendering (takes a long time to render)'
 )
+
+parser.add_argument(
+    '-a',
+    '--all',
+    action='store_true',
+    help='Render all items (Default)'
+)
 parser.add_argument(
     '-b',
-    '--skip-bitmaps',
+    '--bitmaps',
     action='store_true',
-    help='Skip rendering of bitmaps'
+    help='Render bitmap (fullcolor) icons'
 )
 parser.add_argument(
     '-s',
-    '--skip-symbolics',
+    '--symbolics',
     action='store_true',
-    help='Skip rendering of symbolic icons'
+    help='Render Symbolic Icons'
 )
 parser.add_argument(
     '-x',
-    '--skip-cursors',
+    '--cursors',
     action='store_true',
-    help='Skip rendering of cursors'
+    help='Render Cursors'
 )
 parser.add_argument(
     '-l',
-    '--skip-links',
+    '--links',
     action='store_true',
-    help='Skip symlink generation'
+    help='Generate Theme Symlinks'
 )
 parser.add_argument(
     '-m',
-    '--skip-metadata',
+    '--metadata',
     action='store_true',
-    help='Skip installation of metadata'
+    help='Generate Metadata'
 )
 
 args = parser.parse_args()
+
+if not True in (args.bitmaps,
+                args.symbolics,
+                args.cursors,
+                args.links,
+                args.metadata):
+    args.all = True
+else:
+    args.all = False
     
-do_render(
-    clean=args.clean,
-    skip_bitmaps=args.skip_bitmaps,
-    skip_symbolics=args.skip_symbolics,
-    skip_cursors=args.skip_cursors,
-    skip_symlinks=args.skip_links,
-    skip_metadata=args.skip_metadata
-)
+do_render(args)
