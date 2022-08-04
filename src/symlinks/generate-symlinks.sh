@@ -127,6 +127,6 @@ echo "Done."
 # Clear symlink errors
 if command -v symlinks 2>&1 >/dev/null; then
 	echo "Deleting broken links..."
-	symlinks -cdr cd $DIR/../../$THEME
+	symlinks -cdr $DIR/../../$THEME > /dev/null
 	echo "Done."
 fi
