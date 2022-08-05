@@ -42,11 +42,11 @@ SIZES = (
 
 
 ## Rendering Functions
-def render_bitmaps() -> None:
+def render_fullcolor() -> None:
     print('  -- Rendering bitmap icons...')
-    os.chdir(SRCDIR / 'bitmaps')
+    os.chdir(SRCDIR / 'fullcolor')
     try:
-        subprocess.run('./render-bitmaps.py', check=True)
+        subprocess.run('./render-fullcolor.py', check=True)
     except subprocess.CalledProcessError:
         print('Failed to render fullcolor icons. See output above.')
         sys.exit(1)
@@ -90,7 +90,7 @@ def render_cursors() -> None:
         return
     shutil.copytree(template_dir, output_dir)
 
-    print('    -- Rendering cursor bitmaps')
+    print('    -- Rendering cursor fullcolor')
     subprocess.run(['./render-cursors.py', '-n 0', 'source-cursors.svg'])
     
     print('    -- Generatig cursor files')
@@ -105,7 +105,7 @@ def install_metadata() -> None:
 
 
 ## Artifact Cleanup/Removal Functions
-def clean_bitmaps() -> None:
+def clean_fullcolor() -> None:
     print('  -- Removing Fullcolor Icons')
     for size in SIZES:
         size_dir = THEMEDIR / size
@@ -149,17 +149,17 @@ def clean_dirs(**kwargs) -> None:
 
     if kwargs['everything']:
         print('  -- Performing Full Cleanup')
-        clean_bitmaps()
+        clean_fullcolor()
         clean_symbolics()
         clean_cursors()
         clean_metadata()
         return
 
     # Cleanup Fullcolors
-    if kwargs['bitmaps']:
-        clean_bitmaps()
+    if kwargs['fullcolor']:
+        clean_fullcolor()
     else:
-        print('  ** Skipping removing bitmaps')
+        print('  ** Skipping removing fullcolor')
     
     # Cleanup Symbolics
     if kwargs['symbolics']:
@@ -184,7 +184,7 @@ def do_render(args) -> None:
     if args.clean:
         clean_dirs(
             everything=args.all,
-            bitmaps=args.bitmaps,
+            fullcolor=args.fullcolor,
             symbolics=args.symbolics,
             cursors=args.cursors,
             metadata=args.metadata
@@ -193,15 +193,15 @@ def do_render(args) -> None:
     print('\n--Rendering icons')
     
     if args.all:
-        render_bitmaps()
+        render_fullcolor()
         render_symbolics()
         render_cursors()
         generate_symlinks()
         install_metadata()
         return
 
-    if args.bitmaps:
-        render_bitmaps()
+    if args.fullcolor:
+        render_fullcolor()
     if args.symbolics:
         render_symbolics()
     if args.cursors:
@@ -227,10 +227,10 @@ parser.add_argument(
     help='Render all items (Default)'
 )
 parser.add_argument(
-    '-b',
-    '--bitmaps',
+    '-f',
+    '--fullcolor',
     action='store_true',
-    help='Render bitmap (fullcolor) icons'
+    help='Render fullcolor icons'
 )
 parser.add_argument(
     '-s',
@@ -259,7 +259,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-if not True in (args.bitmaps,
+if not True in (args.fullcolor,
                 args.symbolics,
                 args.cursors,
                 args.links,

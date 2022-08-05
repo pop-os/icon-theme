@@ -29,7 +29,7 @@ SIZES=("8x8" "16x16" "24x24" "32x32" "48x48" "64x64" "128x128" "256x256" "512x51
 SCALES=('@2x')
 
 # Fullcolor icons
-echo "Generating links for bitmap icons..."
+echo "Generating links for full-color icons..."
 # contexts for loop
 for CONTEXT in "${CONTEXTS[@]}"
 do
@@ -37,7 +37,7 @@ do
 	# Sizes Loop
 	for SIZE in "${SIZES[@]}"
 	do
-		LIST="$DIR/bitmaps/$CONTEXT.list"
+		LIST="$DIR/fullcolor/$CONTEXT.list"
 		# Check if directory exists
 		if [ -d "$DIR/../../$THEME/$SIZE/$CONTEXT" ]; then
 		    echo "  -- linking "$SIZE"/"$CONTEXT
@@ -74,39 +74,6 @@ do
 	else
 		echo "  ** skipping "$SIZE"/"$CONTEXT
 	fi
-done
-echo "Done."
-
-# Symbolic icons
-echo "Generating links for panel icons..."
-# contexts for loop
-PANELDIRS=("animations", "indicator-keyboard")
-PANELSIZES=("22x22", "24x24")
-PANELTHEMES=("Pop", "Pop-Mono-Dark")
-for CONTEXT in "${PANELDIRS[@]}"
-do
-	echo " -- "$CONTEXT
-	# Sizes Loop
-	for SIZE in "${PANELSIZES[@]}"
-	do
-		# Get list file
-		LIST="$DIR/panel/$CONTEXT.list"
-		# for both panel themes
-		for VAR in "${PANELTHEMES[@]}"
-		do
-			# Check if directory exists
-			if [ -d "$DIR/../../$VAR/$SIZE/$CONTEXT" ]; then
-				cd $DIR/../../$VAR/$SIZE/$CONTEXT
-				while read line;
-				do
-					ln -sf $line
-				done < $LIST
-				cd $DIR/../../$VAR
-			else
-				echo "  ** skipping panel/"$CONTEXT
-			fi
-		done
-	done
 done
 echo "Done."
 
