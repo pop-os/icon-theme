@@ -30,9 +30,9 @@ from pathlib import Path
 
 INKSCAPE = Path('/usr/bin/inkscape')
 SCOUR = Path('/usr/bin/scour')
-HAS_SCOUR = SCOUR.exists()
+HAS_SCOUR = os.path.exists(SCOUR)
 SVGO = Path('/usr/local/bin/svgo')
-HAS_SVGO = SVGO.exists()
+HAS_SVGO = os.path.exists(SVGO)
 MAINDIR = Path('../../Pop')
 SVGO_CONFIG = MAINDIR / '..' / 'svgo.config.js'
 CLI_OUTPUT=subprocess.DEVNULL
@@ -87,8 +87,8 @@ def main(args, SRC):
 			'-o', f'{output_file}' # export-filename
 		]
 
-		print(f'Rendering {output_file} from {icon_file}')
 		if CLI_OUTPUT == None:
+			print(f'Rendering {output_file} from {icon_file}')
 			print(f'Running {cmd1}')
 			print(f'Running {cmd2}')
 		
@@ -113,8 +113,8 @@ def main(args, SRC):
 			'--shorten-ids',
 			'--indent=none'
 		]
-		print(f'Cleaning up {out_file}')
 		if CLI_OUTPUT == None:
+			print(f'Cleaning up {out_file}')
 			print(f'Running {cmd}')
 		try:
 			if in_file.exists():
@@ -131,8 +131,9 @@ def main(args, SRC):
 			f'--input={icon_file}',
 			f'--output={icon_file}',
 		]
-		print(f'Optimizing {icon_file}')
+
 		if CLI_OUTPUT == None:
+			print(f'Optimizing {icon_file}')
 			print(f'Running {cmd}')
 		try:
 			subprocess.run(cmd, check=True, stderr=CLI_OUTPUT, stdout=CLI_OUTPUT)
@@ -213,7 +214,8 @@ def main(args, SRC):
 				if self.filter is not None and not self.icon_name in self.filter:
 					return
 
-				print (self.context, self.icon_name)
+				print('   **',self.context, self.icon_name)
+				sys.stdout.write('      ')
 				for rect in self.rects:
 					for dpi_factor in DPIS:
 						width = rect['width']
@@ -225,19 +227,36 @@ def main(args, SRC):
 						if dpi_factor != 1:
 							size_str += "@%sx" % dpi_factor
 
-						dir = MAINDIR / size_str / self.context
-						outfile = dir / f'{self.icon_name}.svg'
-						if not dir.exists():
-							dir.mkdir(parents=True)
-						if not outfile.exists():
+						dir = os.path.join(MAINDIR, size_str, self.context)
+						outfile = os.path.join(dir, self.icon_name+'.svg')
+						if not os.path.exists(dir):
+							os.makedirs(dir)
+						# Do a time based check!
+						if self.force or not os.path.exists(outfile):
 							inkscape_render_rect(self.path, id, dpi, self.icon_name, width, outfile)
+							sys.stdout.write('r')
 							if HAS_SCOUR:
 								scour_clean_svg(outfile)
+								sys.stdout.write('s')
 							if HAS_SVGO:
 								svgo_optimize_svgs(outfile)
-							sys.stdout.write('*')
+								sys.stdout.write('o')
+							sys.stdout.write('.')
 						else:
-							sys.stdout.write('x')
+							stat_in = os.stat(self.path)
+							stat_out = os.stat(outfile)
+							if stat_in.st_mtime > stat_out.st_mtime:
+								inkscape_render_rect(self.path, id, dpi, self.icon_name, width, outfile)
+								sys.stdout.write('r')
+								if HAS_SCOUR:
+									scour_clean_svg(outfile)
+									sys.stdout.write('s')
+								if HAS_SVGO:
+									svgo_optimize_svgs(outfile)
+									sys.stdout.write('o')
+								sys.stdout.write('.')
+							else:
+								sys.stdout.write('-')
 						sys.stdout.flush()
 				sys.stdout.write('\n')
 				sys.stdout.flush()
@@ -250,7 +269,7 @@ def main(args, SRC):
 		if not os.path.exists(MAINDIR):
 			os.mkdir(MAINDIR)
 		print ('')
-		print ('Rendering from SVGs in', SRC)
+		print ('  ** Rendering from SVGs in', SRC)
 		print ('')
 		for file in os.listdir(SRC):
 			if file[-4:] == '.svg':
@@ -268,7 +287,7 @@ def main(args, SRC):
 			# icon not in this directory, try the next one
 			pass
 
-parser = argparse.ArgumentParser(description='Render source icons out to final icons')
+parser = argparse.ArgumentParser(description='Render icons from SVG to PNG')
 
 parser.add_argument('svg', type=str, nargs='?', metavar='SVG',
 					help="Optional SVG names (without extensions) to render. If not given, render all icons")
