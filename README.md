@@ -98,12 +98,19 @@ Multiple contexts can be combined to render/clean multiple context in one pass, 
 ##### Rendering Dependencies
 The following packages are required to render all of the files within the theme:
 ```
-list
+python # Running main, full-color, and cursor render scripts
+ruby # Running symbolic icons render script
+bash # Running symlink script
+inkscape # Renders source files to output
+python3-pil # Renders cursors
+x11-apps # Rendering cursors
 ```
 
 Additionally, the following are optional, but will improve the output of the rendering:
 ```
-list
+scour # Cleaning up unused definitions from full-color/symbolic SVGs
+svgo # Optimizing full-color and symbolic SVGs
+symlinks # Remove empty symlinks
 ```
 
 
