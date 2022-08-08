@@ -1,0 +1,15 @@
+## Contributions
+
+We happily consider all pull requests sent our way. When submitting a PR, be sure to abide by our [Code of Conduct](https://github.com/pop-os/code-of-conduct), as submissions in violation will be rejected.
+
+To improve the quality of your submission and increase the chances of acceptance, please consider the following guidelines:
+
+* Ensure that your contribution is of a generally finished quality. PRs and contributions requiring further development by the Pop_OS team may not be accepted.
+
+* Follow existing code and design style where possible. Submissions which don't follow our code or design style may require changes to be accepted. Ensure that icons follow our design language and generally "fit in" with the other Pop Icons. When in doubt, mark your PR as a draft and request assistance from a Pop Icons maintainer.
+
+* Ensure that your changes to icons/cursors follow our in-place development practices. Submissions which add/remove/rename icons within the [`Pop`](./Pop) folder without corresponding changes in the [`src`](./src) folder _will_ not be accepted. 
+
+* Consider doing a full-render of the theme before you submit a PR (`./master-render.py -c`). This will erase any existing output files and ensure the theme is in a good, maintainable state and that your changes have been applied in a way which ensures that they will be carried over in the future. _Contributions where running `./master-render.py -c` creates a diff verses the git `HEAD` commit will not be accepted!_
+
+These guidelines are important to ensuring the Pop Icons remain maintainable in the future! 

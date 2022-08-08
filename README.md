@@ -98,21 +98,12 @@ Multiple contexts can be combined to render/clean multiple context in one pass, 
 ##### Rendering Dependencies
 The following packages are required to render all of the files within the theme:
 ```
-Deps: 
-
-python # Running main, full-color, and cursor render scripts
-ruby # Running symbolic icons render script
-bash # Running symlink script
-inkscape # Renders source files to output
-python3-pil # Render cursors
-x11-apps # Rendering cursors
+list
 ```
 
 Additionally, the following are optional, but will improve the output of the rendering:
 ```
-scour # Cleaning up unused definitions from full-color/symbolic SVGs
-svgo # Optimizing full-color and symbolic SVGs
-symlinks # Remove empty symlinks
+list
 ```
 
 
@@ -141,6 +132,21 @@ Symbolic link definitions are separated out into `fullcolor` for the full-color 
 ### Metadata
 
 Currently theme metadata is stored in the main folder within [`index.theme.in`](index.theme.in) and [`cursor.theme.in`](cursor.theme.in). When the output files of these is generated, these are copied directly into the output folder without modification; automatic generation is a planned feature for a later release. In the meantime, modify these files directly and use `./master-render.py` to copy them to the correct locations. 
+
+
+## Pull Requests
+
+We happily consider all pull requests sent our way. When submitting a PR, be sure to abide by our [Code of Conduct](https://github.com/pop-os/code-of-conduct), as submissions in violation will be rejected.
+
+To improve the quality of your submission and increase the chances of acceptance, please consider the following guidelines:
+
+* Ensure that your contribution is of a generally finished quality. PRs and contributions requiring further development by the Pop_OS team may not be accepted.
+
+* Follow existing code and design style where possible. Submissions which don't follow our code or design style may require changes to be accepted. Ensure that icons follow our design language and generally "fit in" with the other Pop Icons. When in doubt, mark your PR as a draft and request assistance from a Pop Icons maintainer.
+
+* Ensure that your changes to icons/cursors follow our in-place development practices. Submissions which add/remove/rename icons within the [`Pop`](./Pop) folder without corresponding changes in the [`src`](./src) folder _will_ not be accepted. 
+
+* Consider doing a full-render of the theme before you submit a PR (`./master-render.py -c`). This will erase any existing output files and ensure the theme is in a good, maintainable state and that your changes have been applied in a way which ensures that they will be carried over in the future. _Contributions where running `./master-render.py -c` creates a diff verses the git `HEAD` commit will not be accepted!_
 
 ## Missing Icons & Requests
 
