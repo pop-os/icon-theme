@@ -124,11 +124,11 @@ The symbolic/single-color icons are stored within the `src/scalable/source-symbo
 
 Symbolic icons require that you remove the corresponding output icon from the `Pop/scalable` folder in order for the `master-render.py` script to re-render. The reason for this is that because there is only a single symbolic source-file, we can't re-render a single icon automatically. If you prefer to let the icons re-render automatically and don't mind waiting for all of the symbolics to render, you can do so using `./master-render.py -cls`
 
-Additional information about the symbolic icons can be found in [`src/scalable/README.md`}(src/scalable/README.md)
+Additional information about the symbolic icons can be found in [`src/scalable/README.md`](src/scalable/README.md)
 
 ### Cursors
 
-Cursors are stored in the `src/cursors` directory. Because cursors are somewhat complicated/difficult to render as they are often animated, and because they use a single source file, they need to be re-rendered each time using `./master-render.py -cx`. You can also manually delete the `Pop/cursors` directory. Additional information about rendering the cursors is found in `src/cursors/README.md`
+Cursors are stored in the `src/cursors` directory. Because cursors are somewhat complicated/difficult to render as they are often animated, and because they use a single source file, they need to be re-rendered each time using `./master-render.py -cx`. You can also manually delete the `Pop/cursors` directory. Additional information about rendering the cursors is found in [`src/cursors/README.md`](src/cursors/README.md)
 
 ### Symbolic Links
 
