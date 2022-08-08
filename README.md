@@ -95,6 +95,26 @@ Using the `-c, --clean` option will erase the currently rendered/generated files
 
 Multiple contexts can be combined to render/clean multiple context in one pass, except that any contexts other than `-a, --all` will disable `--all` so keep that in mind.
 
+##### Rendering Dependencies
+The following packages are required to render all of the files within the theme:
+```
+Deps: 
+
+python # Running main, full-color, and cursor render scripts
+ruby # Running symbolic icons render script
+bash # Running symlink script
+inkscape # Renders source files to output
+python3-pil # Render cursors
+x11-apps # Rendering cursors
+```
+
+Additionally, the following are optional, but will improve the output of the rendering:
+```
+scour # Cleaning up unused definitions from full-color/symbolic SVGs
+svgo # Optimizing full-color and symbolic SVGs
+symlinks # Remove empty symlinks
+```
+
 
 ### Full-color icons
 
