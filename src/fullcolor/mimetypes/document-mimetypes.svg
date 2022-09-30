@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="361"
-     inkscape:cy="-7274"
+     inkscape:cx="453"
+     inkscape:cy="-7114"
      inkscape:current-layer="g3408"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -369,6 +369,16 @@
        y1="579.10577"
        x2="-0.09653803"
        y2="1079.2058" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient5365"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)"
+       x1="500.00351"
+       y1="579.10577"
+       x2="-0.09653803"
+       y2="1079.2058" />
   </defs>
   <metadata
      id="metadata4">
@@ -436,7 +446,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      inkscape:label="text-x-preview"
      id="layer1"
@@ -12759,436 +12769,401 @@
        inkscape:label="Symbols"
        style="display:inline">
       <g
-         id="g3346"
-         transform="translate(0,-7480)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3338"
-           d="m 237.5,223 c -2.493,0 -4.5,2.007 -4.5,4.5 v 51 c 0,2.493 2.007,4.5 4.5,4.5 h 37 c 2.493,0 4.5,-2.007 4.5,-4.5 v -39 L 262.5,223 Z"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3340"
-           d="m 278,240 v 36 c 0,2.216 -1.784,4 -4,4 h -36 c -2.216,0 -4,-1.784 -4,-4 v -48 c 0,-2.216 1.784,-4 4,-4 v 0 h 24"
-           style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="csscccc"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
-           d="m 278,243 h -13 c -2.216,0 -4,-1.784 -4,-4 v -15 h 1 l 16,16 z"
-           id="path3342"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3344"
-           d="m 278,240 h -12 c -2.216,0 -4,-1.784 -4,-4 v -12"
-           style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-      </g>
-      <g
-         id="g3356"
-         transform="translate(0,-7480)">
-        <path
-           sodipodi:nodetypes="ssssssccs"
-           inkscape:connector-curvature="0"
-           id="path3348"
-           d="m 339.5,163 c -4.709,0 -8.5,3.791 -8.5,8.5 v 100 c 0,4.709 3.791,8.5 8.5,8.5 h 73 c 4.709,0 8.5,-3.791 8.5,-8.5 v -76 L 388.5,163 Z"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3350"
-           d="m 420,196 v 72 c 0,4.432 -3.568,8 -8,8 h -72 c -4.432,0 -8,-3.568 -8,-8 v -96 c 0,-4.432 3.568,-8 8,-8 v 0 h 48"
-           style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="csscccc"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
-           d="m 420,200 h -25 c -4.432,0 -8,-3.568 -8,-8 v -28 h 1 l 32,32 z"
-           id="path3352"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3354"
-           d="m 420,196 h -24 c -4.432,0 -8,-3.568 -8,-8 v -24"
-           style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-      </g>
-      <g
-         id="g3366"
-         transform="translate(0,-7480)">
+         id="text-x-kotlin-256">
         <path
            inkscape:connector-curvature="0"
            id="path3358"
-           d="m 511.5,43 c -4.709,0 -8.5,3.791 -8.5,8.5 v 214 c 0,4.709 3.791,8.5 8.5,8.5 h 161 c 4.709,0 8.5,-3.791 8.5,-8.5 V 107.05469 L 616.55273,43 Z"
+           d="m 511.5,-7437 c -4.709,0 -8.5,3.791 -8.5,8.5 v 214 c 0,4.709 3.791,8.5 8.5,8.5 h 161 c 4.709,0 8.5,-3.791 8.5,-8.5 v -158.4453 L 616.55273,-7437 Z"
            style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path3360"
-           d="m 680,108 v 152 c 0,4.432 -3.568,8 -8,8 H 512 c -4.432,0 -8,-3.568 -8,-8 V 52 c 0,-4.432 3.568,-8 8,-8 v 0 h 104"
+           d="m 680,-7372 v 152 c 0,4.432 -3.568,8 -8,8 H 512 c -4.432,0 -8,-3.568 -8,-8 v -208 c 0,-4.432 3.568,-8 8,-8 v 0 h 104"
            style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="csscccc"
            style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
-           d="m 680,114 h -57 c -4.432,0 -8,-3.568 -8,-8 V 44 h 1 l 64,64 z"
+           d="m 680,-7366 h -57 c -4.432,0 -8,-3.568 -8,-8 v -62 h 1 l 64,64 z"
            id="path3362"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
            id="path3364"
-           d="m 680,108 h -56 c -4.432,0 -8,-3.568 -8,-8 V 44"
+           d="m 680,-7372 h -56 c -4.432,0 -8,-3.568 -8,-8 v -56"
            style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+        <g
+           id="g10794"
+           transform="matrix(0.168,0,0,0.168,552,-7336)">
+          <linearGradient
+             id="SVGID_1_"
+             gradientUnits="userSpaceOnUse"
+             x1="500.00351"
+             y1="579.10577"
+             x2="-0.09653803"
+             y2="1079.2058"
+             gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
+            <stop
+               offset="3.435144e-03"
+               style="stop-color:#E44857"
+               id="stop10785" />
+            <stop
+               offset="0.4689"
+               style="stop-color:#C711E1"
+               id="stop10787" />
+            <stop
+               offset="1"
+               style="stop-color:#7F52FF"
+               id="stop10789" />
+          </linearGradient>
+          <polygon
+             class="st0"
+             points="500,0 250,250 500,500 0,500 0,0 "
+             id="polygon10792"
+             style="fill:url(#linearGradient5365)" />
+        </g>
       </g>
       <g
-         id="g3376"
-         transform="translate(0,-7480)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3368"
-           d="M 166.59961,238 C 164.60521,238 163,239.60521 163,241.59961 v 37.80078 c 0,1.9944 1.60521,3.59961 3.59961,3.59961 h 26.80078 C 195.39479,283 197,281.39479 197,279.40039 V 251 l -13,-13 z"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3370"
-           d="m 196,251 v 27 c 0,1.662 -1.338,3 -3,3 h -26 c -1.662,0 -3,-1.338 -3,-3 v -36 c 0,-1.662 1.338,-3 3,-3 v 0 h 17"
-           style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="csscccc"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
-           d="m 196,253 h -10 c -1.662,0 -3,-1.338 -3,-3 v -11 h 1 l 12,12 z"
-           id="path3372"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3374"
-           d="m 196,251 h -9 c -1.662,0 -3,-1.338 -3,-3 v -9"
-           style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+         id="text-x-kotlin-128">
+        <g
+           id="g3356"
+           transform="translate(0,-7480)">
+          <path
+             sodipodi:nodetypes="ssssssccs"
+             inkscape:connector-curvature="0"
+             id="path3348"
+             d="m 339.5,163 c -4.709,0 -8.5,3.791 -8.5,8.5 v 100 c 0,4.709 3.791,8.5 8.5,8.5 h 73 c 4.709,0 8.5,-3.791 8.5,-8.5 v -76 L 388.5,163 Z"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3350"
+             d="m 420,196 v 72 c 0,4.432 -3.568,8 -8,8 h -72 c -4.432,0 -8,-3.568 -8,-8 v -96 c 0,-4.432 3.568,-8 8,-8 v 0 h 48"
+             style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="csscccc"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+             d="m 420,200 h -25 c -4.432,0 -8,-3.568 -8,-8 v -28 h 1 l 32,32 z"
+             id="path3352"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3354"
+             d="m 420,196 h -24 c -4.432,0 -8,-3.568 -8,-8 v -24"
+             style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+        </g>
+        <g
+           id="g10822"
+           transform="matrix(0.084,0,0,0.084,356,-7262)">
+          <g
+             id="g10820">
+            <linearGradient
+               id="linearGradient10816"
+               gradientUnits="userSpaceOnUse"
+               x1="500.00351"
+               y1="579.10577"
+               x2="-0.09653803"
+               y2="1079.2058"
+               gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
+              <stop
+                 offset="3.435144e-03"
+                 style="stop-color:#E44857"
+                 id="stop10810" />
+              <stop
+                 offset="0.4689"
+                 style="stop-color:#C711E1"
+                 id="stop10812" />
+              <stop
+                 offset="1"
+                 style="stop-color:#7F52FF"
+                 id="stop10814" />
+            </linearGradient>
+            <polygon
+               class="st0"
+               points="250,250 500,500 0,500 0,0 500,0 "
+               id="polygon10818"
+               style="fill:url(#linearGradient10824)" />
+          </g>
+        </g>
       </g>
       <g
-         id="g3386"
-         transform="translate(0,-7480)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3378"
-           d="M 128,261.50001 V 281.5 c 0,1.385 -1.115,2.5 -2.5,2.5 h -19 c -1.385,0 -2.5,-1.115 -2.5,-2.5 v -26 c 0,-1.385 1.115,-2.5 2.5,-2.5 v 0 h 13"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3380"
-           d="m 127,262 v 18 c 0,1.108 -0.892,2 -2,2 h -18 c -1.108,0 -2,-0.892 -2,-2 v -24 c 0,-1.108 0.892,-2 2,-2 v 0 h 12"
-           style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="csscccc"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
-           d="m 127,264 h -7 c -1.108,0 -2,-0.892 -2,-2 v -8 h 1 l 8,8 z"
-           id="path3382"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3384"
-           d="m 127,262 h -6 c -1.108,0 -2,-0.892 -2,-2 v -6"
-           style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+         id="text-x-kotlin-64">
+        <g
+           id="g3346"
+           transform="translate(0,-7480)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3338"
+             d="m 237.5,223 c -2.493,0 -4.5,2.007 -4.5,4.5 v 51 c 0,2.493 2.007,4.5 4.5,4.5 h 37 c 2.493,0 4.5,-2.007 4.5,-4.5 v -39 L 262.5,223 Z"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3340"
+             d="m 278,240 v 36 c 0,2.216 -1.784,4 -4,4 h -36 c -2.216,0 -4,-1.784 -4,-4 v -48 c 0,-2.216 1.784,-4 4,-4 v 0 h 24"
+             style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="csscccc"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+             d="m 278,243 h -13 c -2.216,0 -4,-1.784 -4,-4 v -15 h 1 l 16,16 z"
+             id="path3342"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3344"
+             d="m 278,240 h -12 c -2.216,0 -4,-1.784 -4,-4 v -12"
+             style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+        </g>
+        <g
+           id="g10838"
+           transform="matrix(0.042,0,0,0.042,246,-7229)">
+          <g
+             id="g10836">
+            <linearGradient
+               id="linearGradient10832"
+               gradientUnits="userSpaceOnUse"
+               x1="500.00351"
+               y1="579.10577"
+               x2="-0.09653803"
+               y2="1079.2058"
+               gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
+              <stop
+                 offset="3.435144e-03"
+                 style="stop-color:#E44857"
+                 id="stop10826" />
+              <stop
+                 offset="0.4689"
+                 style="stop-color:#C711E1"
+                 id="stop10828" />
+              <stop
+                 offset="1"
+                 style="stop-color:#7F52FF"
+                 id="stop10830" />
+            </linearGradient>
+            <polygon
+               class="st0"
+               points="500,0 250,250 500,500 0,500 0,0 "
+               id="polygon10834"
+               style="fill:url(#linearGradient10840)" />
+          </g>
+        </g>
       </g>
       <g
-         id="g3396"
-         transform="translate(0,-7480)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3388"
-           d="m 60.5,260 c -1.385,0 -2.5,1.115 -2.5,2.5 v 19 c 0,1.385 1.115,2.5 2.5,2.5 h 15 c 1.385,0 2.5,-1.115 2.5,-2.5 v -14 L 70.5,260 Z"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3390"
-           d="m 77,268 v 13 c 0,1.108 -0.892,2 -2,2 H 61 c -1.108,0 -2,-0.892 -2,-2 v -18 c 0,-1.108 0.892,-2 2,-2 v 0 h 9"
-           style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="csscccc"
-           style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
-           d="m 77,269 h -6 c -1.108,0 -2,-0.892 -2,-2 v -6 h 1 l 7,7 z"
-           id="path3392"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3394"
-           d="m 77,268 h -5 c -1.108,0 -2,-0.892 -2,-2 v -5"
-           style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+         id="text-x-kotlin-48">
+        <g
+           id="g3376"
+           transform="translate(0,-7480)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3368"
+             d="M 166.59961,238 C 164.60521,238 163,239.60521 163,241.59961 v 37.80078 c 0,1.9944 1.60521,3.59961 3.59961,3.59961 h 26.80078 C 195.39479,283 197,281.39479 197,279.40039 V 251 l -13,-13 z"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3370"
+             d="m 196,251 v 27 c 0,1.662 -1.338,3 -3,3 h -26 c -1.662,0 -3,-1.338 -3,-3 v -36 c 0,-1.662 1.338,-3 3,-3 v 0 h 17"
+             style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="csscccc"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+             d="m 196,253 h -10 c -1.662,0 -3,-1.338 -3,-3 v -11 h 1 l 12,12 z"
+             id="path3372"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3374"
+             d="m 196,251 h -9 c -1.662,0 -3,-1.338 -3,-3 v -9"
+             style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+        </g>
+        <g
+           id="g10854"
+           transform="matrix(0.032,0,0,0.032,172,-7220)">
+          <g
+             id="g10852">
+            <linearGradient
+               id="linearGradient10848"
+               gradientUnits="userSpaceOnUse"
+               x1="500.00351"
+               y1="579.10577"
+               x2="-0.09653803"
+               y2="1079.2058"
+               gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
+              <stop
+                 offset="3.435144e-03"
+                 style="stop-color:#E44857"
+                 id="stop10842" />
+              <stop
+                 offset="0.4689"
+                 style="stop-color:#C711E1"
+                 id="stop10844" />
+              <stop
+                 offset="1"
+                 style="stop-color:#7F52FF"
+                 id="stop10846" />
+            </linearGradient>
+            <polygon
+               class="st0"
+               points="500,0 250,250 500,500 0,500 0,0 "
+               id="polygon10850"
+               style="fill:url(#linearGradient10856)" />
+          </g>
+        </g>
       </g>
       <g
-         id="Logotypes"
-         transform="matrix(0.168,0,0,0.168,552,-7336)">
-	<g
-   id="g10794">
-		
-			<linearGradient
-   id="SVGID_1_"
-   gradientUnits="userSpaceOnUse"
-   x1="500.00351"
-   y1="579.10577"
-   x2="-0.09653803"
-   y2="1079.2058"
-   gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
-			<stop
-   offset="3.435144e-03"
-   style="stop-color:#E44857"
-   id="stop10785" />
-
-			<stop
-   offset="0.4689"
-   style="stop-color:#C711E1"
-   id="stop10787" />
-
-			<stop
-   offset="1"
-   style="stop-color:#7F52FF"
-   id="stop10789" />
-
-		</linearGradient>
-
-		<polygon
-   class="st0"
-   points="0,500 0,0 500,0 250,250 500,500 "
-   id="polygon10792"
-   style="fill:url(#SVGID_1_)" />
-
-	</g>
-
-</g>
+         id="text-x-kotlin-32">
+        <g
+           id="g3386"
+           transform="translate(0,-7480)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3378"
+             d="M 128,261.50001 V 281.5 c 0,1.385 -1.115,2.5 -2.5,2.5 h -19 c -1.385,0 -2.5,-1.115 -2.5,-2.5 v -26 c 0,-1.385 1.115,-2.5 2.5,-2.5 v 0 h 13"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3380"
+             d="m 127,262 v 18 c 0,1.108 -0.892,2 -2,2 h -18 c -1.108,0 -2,-0.892 -2,-2 v -24 c 0,-1.108 0.892,-2 2,-2 v 0 h 12"
+             style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="csscccc"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+             d="m 127,264 h -7 c -1.108,0 -2,-0.892 -2,-2 v -8 h 1 l 8,8 z"
+             id="path3382"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3384"
+             d="m 127,262 h -6 c -1.108,0 -2,-0.892 -2,-2 v -6"
+             style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+        </g>
+        <g
+           id="g10936"
+           transform="matrix(0.016,0,0,0.016,112,-7210)">
+          <g
+             id="g10934">
+            <linearGradient
+               id="linearGradient10930"
+               gradientUnits="userSpaceOnUse"
+               x1="500.00351"
+               y1="579.10577"
+               x2="-0.09653803"
+               y2="1079.2058"
+               gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
+              <stop
+                 offset="3.435144e-03"
+                 style="stop-color:#E44857"
+                 id="stop10924" />
+              <stop
+                 offset="0.4689"
+                 style="stop-color:#C711E1"
+                 id="stop10926" />
+              <stop
+                 offset="1"
+                 style="stop-color:#7F52FF"
+                 id="stop10928" />
+            </linearGradient>
+            <polygon
+               class="st0"
+               points="0,500 0,0 500,0 250,250 500,500 "
+               id="polygon10932"
+               style="fill:url(#linearGradient10938)" />
+          </g>
+        </g>
+      </g>
       <g
-         id="g10822"
-         transform="matrix(0.084,0,0,0.084,356,-7262)">
-	<g
-   id="g10820">
-		
-			<linearGradient
-   id="linearGradient10816"
-   gradientUnits="userSpaceOnUse"
-   x1="500.00351"
-   y1="579.10577"
-   x2="-0.09653803"
-   y2="1079.2058"
-   gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
-			<stop
-   offset="3.435144e-03"
-   style="stop-color:#E44857"
-   id="stop10810" />
-
-			<stop
-   offset="0.4689"
-   style="stop-color:#C711E1"
-   id="stop10812" />
-
-			<stop
-   offset="1"
-   style="stop-color:#7F52FF"
-   id="stop10814" />
-
-		</linearGradient>
-
-		<polygon
-   class="st0"
-   points="250,250 500,500 0,500 0,0 500,0 "
-   id="polygon10818"
-   style="fill:url(#linearGradient10824)" />
-
-	</g>
-
-</g>
+         id="text-x-kotlin-24">
+        <g
+           id="g3396"
+           transform="translate(0,-7480)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3388"
+             d="m 60.5,260 c -1.385,0 -2.5,1.115 -2.5,2.5 v 19 c 0,1.385 1.115,2.5 2.5,2.5 h 15 c 1.385,0 2.5,-1.115 2.5,-2.5 v -14 L 70.5,260 Z"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3390"
+             d="m 77,268 v 13 c 0,1.108 -0.892,2 -2,2 H 61 c -1.108,0 -2,-0.892 -2,-2 v -18 c 0,-1.108 0.892,-2 2,-2 v 0 h 9"
+             style="vector-effect:none;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="csscccc"
+             style="vector-effect:none;fill:#6f6f6f;fill-opacity:0.501961;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+             d="m 77,269 h -6 c -1.108,0 -2,-0.892 -2,-2 v -6 h 1 l 7,7 z"
+             id="path3392"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3394"
+             d="m 77,268 h -5 c -1.108,0 -2,-0.892 -2,-2 v -5"
+             style="vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+        </g>
+        <g
+           id="g10952"
+           transform="matrix(0.016,0,0,0.016,64,-7208)">
+          <g
+             id="g10950">
+            <linearGradient
+               id="linearGradient10946"
+               gradientUnits="userSpaceOnUse"
+               x1="500.00351"
+               y1="579.10577"
+               x2="-0.09653803"
+               y2="1079.2058"
+               gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
+              <stop
+                 offset="3.435144e-03"
+                 style="stop-color:#E44857"
+                 id="stop10940" />
+              <stop
+                 offset="0.4689"
+                 style="stop-color:#C711E1"
+                 id="stop10942" />
+              <stop
+                 offset="1"
+                 style="stop-color:#7F52FF"
+                 id="stop10944" />
+            </linearGradient>
+            <polygon
+               class="st0"
+               points="500,0 250,250 500,500 0,500 0,0 "
+               id="polygon10948"
+               style="fill:url(#linearGradient10954)" />
+          </g>
+        </g>
+      </g>
       <g
-         id="g10838"
-         transform="matrix(0.042,0,0,0.042,246,-7229)">
-	<g
-   id="g10836">
-		
-			<linearGradient
-   id="linearGradient10832"
-   gradientUnits="userSpaceOnUse"
-   x1="500.00351"
-   y1="579.10577"
-   x2="-0.09653803"
-   y2="1079.2058"
-   gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
-			<stop
-   offset="3.435144e-03"
-   style="stop-color:#E44857"
-   id="stop10826" />
-
-			<stop
-   offset="0.4689"
-   style="stop-color:#C711E1"
-   id="stop10828" />
-
-			<stop
-   offset="1"
-   style="stop-color:#7F52FF"
-   id="stop10830" />
-
-		</linearGradient>
-
-		<polygon
-   class="st0"
-   points="500,0 250,250 500,500 0,500 0,0 "
-   id="polygon10834"
-   style="fill:url(#linearGradient10840)" />
-
-	</g>
-
-</g>
-      <g
-         id="g10854"
-         transform="matrix(0.032,0,0,0.032,172,-7220)">
-	<g
-   id="g10852">
-		
-			<linearGradient
-   id="linearGradient10848"
-   gradientUnits="userSpaceOnUse"
-   x1="500.00351"
-   y1="579.10577"
-   x2="-0.09653803"
-   y2="1079.2058"
-   gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
-			<stop
-   offset="3.435144e-03"
-   style="stop-color:#E44857"
-   id="stop10842" />
-
-			<stop
-   offset="0.4689"
-   style="stop-color:#C711E1"
-   id="stop10844" />
-
-			<stop
-   offset="1"
-   style="stop-color:#7F52FF"
-   id="stop10846" />
-
-		</linearGradient>
-
-		<polygon
-   class="st0"
-   points="500,0 250,250 500,500 0,500 0,0 "
-   id="polygon10850"
-   style="fill:url(#linearGradient10856)" />
-
-	</g>
-
-</g>
-      <g
-         id="g10936"
-         transform="matrix(0.016,0,0,0.016,112,-7210)">
-	<g
-   id="g10934">
-		
-			<linearGradient
-   id="linearGradient10930"
-   gradientUnits="userSpaceOnUse"
-   x1="500.00351"
-   y1="579.10577"
-   x2="-0.09653803"
-   y2="1079.2058"
-   gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
-			<stop
-   offset="3.435144e-03"
-   style="stop-color:#E44857"
-   id="stop10924" />
-
-			<stop
-   offset="0.4689"
-   style="stop-color:#C711E1"
-   id="stop10926" />
-
-			<stop
-   offset="1"
-   style="stop-color:#7F52FF"
-   id="stop10928" />
-
-		</linearGradient>
-
-		<polygon
-   class="st0"
-   points="0,500 0,0 500,0 250,250 500,500 "
-   id="polygon10932"
-   style="fill:url(#linearGradient10938)" />
-
-	</g>
-
-</g>
-      <g
-         id="g10952"
-         transform="matrix(0.016,0,0,0.016,64,-7208)">
-	<g
-   id="g10950">
-		
-			<linearGradient
-   id="linearGradient10946"
-   gradientUnits="userSpaceOnUse"
-   x1="500.00351"
-   y1="579.10577"
-   x2="-0.09653803"
-   y2="1079.2058"
-   gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
-			<stop
-   offset="3.435144e-03"
-   style="stop-color:#E44857"
-   id="stop10940" />
-
-			<stop
-   offset="0.4689"
-   style="stop-color:#C711E1"
-   id="stop10942" />
-
-			<stop
-   offset="1"
-   style="stop-color:#7F52FF"
-   id="stop10944" />
-
-		</linearGradient>
-
-		<polygon
-   class="st0"
-   points="500,0 250,250 500,500 0,500 0,0 "
-   id="polygon10948"
-   style="fill:url(#linearGradient10954)" />
-
-	</g>
-
-</g>
-      <g
-         id="g10968"
-         transform="matrix(0.032,0,0,0.032,16,-7212)">
-	<g
-   id="g10966">
-		
-			<linearGradient
-   id="linearGradient10962"
-   gradientUnits="userSpaceOnUse"
-   x1="500.00351"
-   y1="579.10577"
-   x2="-0.09653803"
-   y2="1079.2058"
-   gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
-			<stop
-   offset="3.435144e-03"
-   style="stop-color:#E44857"
-   id="stop10956" />
-
-			<stop
-   offset="0.4689"
-   style="stop-color:#C711E1"
-   id="stop10958" />
-
-			<stop
-   offset="1"
-   style="stop-color:#7F52FF"
-   id="stop10960" />
-
-		</linearGradient>
-
-		<polygon
-   class="st0"
-   points="500,500 0,500 0,0 500,0 250,250 "
-   id="polygon10964"
-   style="fill:url(#linearGradient10970)" />
-
-	</g>
-
-</g>
+         id="text-x-kotlin-16">
+        <g
+           id="g10968"
+           transform="matrix(0.032,0,0,0.032,16,-7212)">
+          <g
+             id="g10966">
+            <linearGradient
+               id="linearGradient10962"
+               gradientUnits="userSpaceOnUse"
+               x1="500.00351"
+               y1="579.10577"
+               x2="-0.09653803"
+               y2="1079.2058"
+               gradientTransform="matrix(0.9998,0,0,0.9998,0.09651873,-578.99)">
+              <stop
+                 offset="3.435144e-03"
+                 style="stop-color:#E44857"
+                 id="stop10956" />
+              <stop
+                 offset="0.4689"
+                 style="stop-color:#C711E1"
+                 id="stop10958" />
+              <stop
+                 offset="1"
+                 style="stop-color:#7F52FF"
+                 id="stop10960" />
+            </linearGradient>
+            <polygon
+               class="st0"
+               points="500,500 0,500 0,0 500,0 250,250 "
+               id="polygon10964"
+               style="fill:url(#linearGradient10970)" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
   <style
