@@ -43,14 +43,14 @@
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
      showborder="true"
-     inkscape:current-layer="g2666"
+     inkscape:current-layer="g8086"
      inkscape:window-maximized="1"
      inkscape:window-y="32"
      inkscape:window-x="0"
-     inkscape:cy="869.45564"
-     inkscape:cx="96.277864"
-     inkscape:zoom="27.581626"
-     showgrid="true"
+     inkscape:cy="82.303549"
+     inkscape:cx="907.99947"
+     inkscape:zoom="8.833155"
+     showgrid="false"
      id="namedview88"
      inkscape:window-height="1011"
      inkscape:window-width="1920"
@@ -8846,12 +8846,10 @@
          height="16"
          x="512"
          y="508" />
-      <circle
-         r="7"
-         cy="516.00336"
-         cx="519.96832"
-         id="path3079"
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.107023;stroke:#232323;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="color:#000000;fill:#232323;stroke-linecap:square;-inkscape-stroke:none"
+         d="m 519.96875,508.00391 c -4.40643,0 -8,3.59357 -8,8 0,4.40643 3.59357,8 8,8 4.40643,0 8,-3.59357 8,-8 0,-4.40643 -3.59357,-8 -8,-8 z m 0,2 c 3.32555,0 6,2.67445 6,6 0,3.32555 -2.67445,6 -6,6 -3.32555,0 -6,-2.67445 -6,-6 0,-3.32555 2.67445,-6 6,-6 z"
+         id="path3079" />
       <rect
          ry="0.5"
          y="513.00336"
@@ -8869,7 +8867,7 @@
          y="518.00336"
          ry="0.5" />
       <path
-         style="color:#000000;fill:#232323;stroke-linecap:square;-inkscape-stroke:none;opacity:0.35"
+         style="color:#000000;fill:#232323;stroke-linecap:square;-inkscape-stroke:none;opacity:0.35;stroke:none;stroke-opacity:1"
          d="m 519.96875,509.00391 c -1.21742,0 -2.23231,0.89627 -2.91602,2.16601 -0.6837,1.26974 -1.08398,2.96631 -1.08398,4.83399 0,1.86767 0.40028,3.56229 1.08398,4.83203 0.68371,1.26974 1.6986,2.16797 2.91602,2.16797 1.21742,0 2.23036,-0.89823 2.91406,-2.16797 0.68371,-1.26974 1.08594,-2.96436 1.08594,-4.83203 0,-1.86768 -0.40223,-3.56425 -1.08594,-4.83399 -0.6837,-1.26974 -1.69664,-2.16601 -2.91406,-2.16601 z m 0,1 c 0.71558,0 1.45211,0.55783 2.03516,1.64062 0.58304,1.0828 0.96484,2.6372 0.96484,4.35938 0,1.72217 -0.3818,3.27658 -0.96484,4.35937 -0.58305,1.0828 -1.31958,1.64063 -2.03516,1.64063 -0.71558,0 -1.45211,-0.55783 -2.03516,-1.64063 -0.58304,-1.08279 -0.96484,-2.6372 -0.96484,-4.35937 0,-1.72218 0.3818,-3.27658 0.96484,-4.35938 0.58305,-1.08279 1.31958,-1.64062 2.03516,-1.64062 z"
          id="path3085" />
       <path
