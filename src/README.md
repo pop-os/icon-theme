@@ -2,7 +2,7 @@
 
 Do not edit icon assets directly (i.e. tweaking those in the "Pop" folder with a raster editor)! For ease of development and organization's sake, the sources for all the different icons and cursors are kept in various subfolders: 
 
- - [bitmaps](./bitmaps) contains the source files and render scripts for all bitmap icons.
+ - [fullcolor](./fullcolor) contains the source files and render scripts for all fullcolor icons.
  - [scalable](./scalable) contains the source files and render scripts for all symbolic icons.
  - [cursors](./cursors) contains the source files and render scripts for the cursor theme.
  - [symlinks](./symlinks) contains the data lits and generation scripts to create symbolic links the icon theme.
