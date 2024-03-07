@@ -478,13 +478,6 @@ Context=Applications
 Size=256
 Type=Fixed
 
-[scalable/web]
-Context=Applications
-Size=16
-MinSize=16
-MaxSize=256
-Type=Scalable
-
 
 #
 # HiDPi @2x scale
