@@ -1,4 +1,10 @@
-pop-icon-theme (3.5.0) UNRELEASED; urgency=medium
+pop-icon-theme (3.5.1) jammy; urgency=medium
+
+  * Remove deb files
+
+ -- Jeremy Soller <jeremy@system76.com>  Tue, 01 Oct 2024 10:45:54 -0600
+
+pop-icon-theme (3.5.0) jammy; urgency=medium
 
   * Add icon for window-stack-symbolic
   * Fix bad symlinks
