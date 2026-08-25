@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <filter id="a2" x="-.136677" y="-.086034" width="1.273353" height="1.172068" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".627769"/>
+    </filter>
+    <filter id="a3" x="-.236627" y="-.15678" width="1.473254" height="1.31356" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.255538"/>
+    </filter>
+    <linearGradient id="a4" x1="24.245115" y1="-366.069" x2="40.245117" y2="-366.069" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 366.069036 44.245116)" xlink:href="#a1"/>
+  </defs>
+  <path d="m3.4997 4.4785v15.6721l3.4658-3.5377 1.7705 4.4261c.1718.4293.5019.7389.8711.8691.37.1306.7594.0983 1.0957-.041.3363-.1394.6335-.3921.8027-.7461.1692-.354.1835-.8066 0-1.2324l.0039.006-1.8242-4.4023 4.8379.0117z" fill-rule="evenodd" opacity=".6" filter="url(#a2)"/>
+  <path d="m2.9997 2.2715v17.9752l3.7388-3.68 1.5308 3.654c.2179.5475.6703.9812 1.1719 1.1582.5016.177 1.0137.1332 1.4531-.0488.4394-.1821.8331-.5123 1.0625-.9922.2294-.4799.241-1.1073.0078-1.6484l-1.5312-3.6953 5.3008.0117z" fill-rule="evenodd" opacity=".2" filter="url(#a3)"/>
+  <path d="m2.9997 2.2715v18l3.7422-3.7402 1.5312 3.6973c.2237.5401.6716.9677 1.1699 1.1445.4983.1768 1.01.1331 1.4492-.0488.4392-.1819.8313-.5129 1.0586-.9902.2273-.4774.2412-1.0946.0176-1.6348L10.4372 15h5.291z" fill="#fff" fill-rule="evenodd"/>
+  <path d="m4 4.6855l-.0003 13.1724 3.0929-3.0926 2.1048 5.0813c.5175 1.2494 2.3652.484 1.8477-.7654l-2.1047-5.0813 4.3736.0002z" fill="url(#a4)" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <linearGradient id="a2">
+      <stop offset="0" stop-color="#6acad8"/>
+      <stop offset="1" stop-color="#6acad8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a3" x1="39" y1="78.803848" x2="30" y2="84" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.833325 0 0 .833341 432.43449 -541.74053)" xlink:href="#a2"/>
+    <linearGradient id="a4" x1="39" y1="89.196152" x2="39" y2="78.803848" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.833325 0 0 .833341 432.43449 -541.74053)" xlink:href="#a2"/>
+    <linearGradient id="a5" x1="30" y1="84" x2="39" y2="89.196152" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.833325 0 0 .833341 432.43449 -541.74053)" xlink:href="#a2"/>
+    <filter id="a6" x="-.345548" y="-.34469" width="1.691097" height="1.68938" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <linearGradient id="a7" x1="24.705883" y1="91.529411" x2="24.705883" y2="76.470589" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0625 0 0 1.0625 -2.270796 -5.24664)" xlink:href="#a1"/>
+    <filter id="a8" x="-.166747" y="-.166335" width="1.333494" height="1.33267" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".969874"/>
+    </filter>
+    <g id="a9" transform="translate(.0208 -104.0034)">
+      <ellipse cx="-85.475357" cy="35.979202" rx="8.479" ry="8.5" transform="matrix(0 -1 1 0 -.000299 -.500297)" fill="#000" fill-opacity="1" stroke="#000" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".6" filter="url(#a8)"/>
+      <ellipse cx="-85" cy="36" rx="7.00336" ry="7.020796" transform="matrix(0 -1 1 0 0 -1)" fill="#000" fill-opacity="1" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".2" filter="url(#a6)"/>
+      <path d="m35.9792 75.5034c-4.6832 0-8.5 3.8168-8.5 8.5 0 4.6832 3.8168 8.5 8.5 8.5 4.6832 0 8.5-3.8168 8.5-8.5 0-4.6832-3.8168-8.5-8.5-8.5z" fill="url(#a7)" fill-rule="nonzero" fill-opacity="1" stroke="#fff" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" clip-rule="nonzero"/>
+    </g>
+  </defs>
+  <use xlink:href="#a9" transform="translate(-24.0208 32.0034)"/>
+  <path d="m457.4343-471.7399a4.9999 5 0 0 1 2.5-4.3302 4.9999 5 0 0 1 5 0" transform="matrix(.669131 .743145 -.743145 .669131 -648 -16)" fill="none" stroke="url(#a3)" stroke-width="2" stroke-linecap="round" stroke-dashoffset="1"/>
+  <path d="m464.9342-476.0701a4.9999 5 0 0 1 2.5 4.3302 4.9999 5 0 0 1-2.5 4.3302" transform="matrix(.669131 .743145 -.743145 .669131 -648 -16)" fill="none" stroke="url(#a4)" stroke-width="2" stroke-linecap="round" stroke-dashoffset="1"/>
+  <path d="m464.9342-467.4098a4.9999 5 0 0 1-5-0 4.9999 5 0 0 1-2.5-4.3302" transform="matrix(.669131 .743145 -.743145 .669131 -648 -16)" fill="none" stroke="url(#a5)" stroke-width="2" stroke-linecap="round" stroke-dashoffset="1"/>
+</svg>

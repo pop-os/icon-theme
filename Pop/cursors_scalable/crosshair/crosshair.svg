@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <filter id="a2" x="-.113684" y="-.113684" width="1.227368" height="1.227368" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".9"/>
+    </filter>
+    <filter id="a3" x="-.216" y="-.216" width="1.432" height="1.432" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.8"/>
+    </filter>
+    <linearGradient id="a4" x1="75" y1="-81" x2="91" y2="-81" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 81 95)" xlink:href="#a1"/>
+  </defs>
+  <path d="m10.5 3.5v.5 5.707l1.5 1.5 1.5-1.5V3.5Zm1 1h1v4.793l-.5.5-.5-.5zm-9 7v.5 2.5h6.207l1.5-1.5-1.5-1.5zm12.793 0l-.1465.1465L13.793 13l1.5 1.5H21.5v-3zM3.5 12.5h4.793l.5.5-.5.5H3.5Zm12.207 0H20.5v1h-4.793l-.5-.5zM12 14.793L11.6465 15.1465 10.5 16.293V22.5h3v-6.207zm0 1.4141l.5.5V21.5h-1v-4.793z" fill-rule="evenodd" opacity=".6" filter="url(#a2)"/>
+  <path d="m9 1v1 5.9141l2 2 2-2V1Zm-8 8v1 3h6.9141l2-2-2-2zm13.0859 0l-.293.293L12.0859 11l2 2H21v-4zM11 12.0859L10.293 12.793 9 14.0859V21h4v-6.9141z" fill-rule="evenodd" opacity=".2" filter="url(#a3)"/>
+  <path d="m11 3v5.5l1 1 1-1V3Zm-8 8v2h5.5l1-1-1-1zm12.5 0l-1 1 1 1H21v-2zm-3.5 3.5l-1 1v5.5h2v-5.5z" fill="none" fill-rule="evenodd" stroke="#fff" stroke-width="2"/>
+  <path d="m11 3v5.5l1 1 1-1V3Zm-8 8v2h5.5l1-1-1-1zm12.5 0l-1 1 1 1H21v-2zm-3.5 3.5l-1 1v5.5h2v-5.5z" fill="url(#a4)" fill-rule="evenodd"/>
+</svg>

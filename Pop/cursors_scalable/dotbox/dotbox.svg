@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <filter id="a2" x="-.113333" y="-.113333" width="1.226667" height="1.226667" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".85"/>
+    </filter>
+    <filter id="a3" x="-.214737" y="-.214737" width="1.429474" height="1.429474" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.7"/>
+    </filter>
+    <linearGradient id="a4" x1="170" y1="-81" x2="186" y2="-81" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 81 190)" xlink:href="#a1"/>
+  </defs>
+  <path d="m2.438 3.406v18h.5 17.5v-18zm2 2h6.0625v1.9688h2V5.406h5.9375v6.0312h-1.875v2h1.875v5.9688h-5.9375v-1.9062h-2v1.9062h-6.0625v-5.9688h2v-2h-2z" opacity=".6" filter="url(#a2)"/>
+  <path d="m1.938 1.906v19h1 18v-19zm3 3h5.0625v1.9688h3V4.906h4.9375v5.0312h-1.875v3h1.875v4.9688h-4.9375v-1.9062h-3v1.9062h-5.0625v-4.9688h2v-3h-2z" opacity=".2" filter="url(#a3)"/>
+  <path d="m3 20h17v-17h-17zm1-16h7v2h1v-2h7v7h-2v1h2v7h-7v-2h-1v2h-7v-7h2v-1h-2z" stroke="#fff" stroke-width="2"/>
+  <path d="m3 20h17v-17h-17zm1-16h7v2h1v-2h7v7h-2v1h2v7h-7v-2h-1v2h-7v-7h2v-1h-2z" fill="url(#a4)"/>
+</svg>

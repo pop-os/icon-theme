@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <filter id="a2" x="-.224125" y="-.155721" width="1.448251" height="1.311443" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.001709"/>
+    </filter>
+    <filter id="a3" x="-.126765" y="-.085722" width="1.253529" height="1.171444" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".500854"/>
+    </filter>
+    <linearGradient id="a4" x1="163.01711" y1="-367.01709" x2="179.01711" y2="-367.01709" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 367.0171 183.0171)" xlink:href="#a1"/>
+  </defs>
+  <path d="m2.5 1.7281l-.006 14.0227 4.0271-4.2507 5.4554.008z" fill-rule="evenodd" opacity=".6" filter="url(#a3)"/>
+  <path d="m2 0l.0002 2.0019.0119 13.4365 4.4878-4.4463 6.2268.0218z" fill-rule="evenodd" opacity=".2" filter="url(#a2)"/>
+  <path d="m9.5 17c-.8284 0-1.5.6716-1.5 1.5 0 .8284.6716 1.5 1.5 1.5.8284 0 1.5-.6716 1.5-1.5 0-.8284-.6716-1.5-1.5-1.5zm5 0c-.8284 0-1.5.6716-1.5 1.5 0 .8284.6716 1.5 1.5 1.5.8284 0 1.5-.6716 1.5-1.5 0-.8284-.6716-1.5-1.5-1.5zm5 0c-.8284 0-1.5.6716-1.5 1.5 0 .8284.6716 1.5 1.5 1.5.8284 0 1.5-.6716 1.5-1.5 0-.8284-.6716-1.5-1.5-1.5z" fill="#fff" stroke="#fff" stroke-width="2" stroke-dashoffset="1"/>
+  <path d="m2 .041v15.4004L6.4434 11h6.2383z" fill="#fff" fill-rule="evenodd"/>
+  <path d="m3 2.5v10.5273L6.029 10h4.282z" fill="url(#a4)" fill-rule="evenodd"/>
+  <path d="m9.5 17c-.8284 0-1.5.6716-1.5 1.5 0 .8284.6716 1.5 1.5 1.5.8284 0 1.5-.6716 1.5-1.5 0-.8284-.6716-1.5-1.5-1.5zm5 0c-.8284 0-1.5.6716-1.5 1.5 0 .8284.6716 1.5 1.5 1.5.8284 0 1.5-.6716 1.5-1.5 0-.8284-.6716-1.5-1.5-1.5zm5 0c-.8284 0-1.5.6716-1.5 1.5 0 .8284.6716 1.5 1.5 1.5.8284 0 1.5-.6716 1.5-1.5 0-.8284-.6716-1.5-1.5-1.5z"/>
+</svg>

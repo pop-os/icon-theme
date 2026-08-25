@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <filter id="a2" x="-.224125" y="-.155721" width="1.448251" height="1.311443" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.001709"/>
+    </filter>
+    <filter id="a3" x="-.126765" y="-.085722" width="1.253529" height="1.171444" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".500854"/>
+    </filter>
+    <linearGradient id="a4" x1="163.01711" y1="-367.01709" x2="179.01711" y2="-367.01709" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 487.0171 -184.9829)" xlink:href="#a1"/>
+    <g id="a5">
+      <path d="m122.5-366.2719l-.006 14.0227 4.0271-4.2507 5.4554.008z" fill="#000" fill-rule="evenodd" fill-opacity="1" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".6" filter="url(#a3)" clip-rule="nonzero"/>
+      <path d="m122-368l.0002 2.0019.0119 13.4365 4.4878-4.4463 6.2268.0218z" fill="#000" fill-rule="evenodd" fill-opacity="1" stroke="none" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".2" filter="url(#a2)" clip-rule="nonzero"/>
+    </g>
+    <g id="a6">
+      <path d="m122-367.959v15.4004L126.4434-357h6.2383z" fill="#fff" fill-rule="evenodd" paint-order="stroke fill markers"/>
+      <path d="m123-365.5v10.5273L126.029-358h4.282z" fill="url(#a4)" fill-rule="evenodd" stroke-width="2" paint-order="stroke fill markers"/>
+    </g>
+  </defs>
+  <use xlink:href="#a5" transform="translate(-120 368.041)"/>
+  <path d="m10.5 15c-1.9256 0-3.5 1.5744-3.5 3.5 0 1.9256 1.5744 3.5 3.5 3.5 1.9256 0 3.5-1.5744 3.5-3.5 0-1.9256-1.5744-3.5-3.5-3.5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="2"/>
+  <path d="m10.5 15c-1.933 0-3.5 1.567-3.5 3.5 0 1.933 1.567 3.5 3.5 3.5 1.933 0 3.5-1.567 3.5-3.5 0-1.933-1.567-3.5-3.5-3.5zm-2.0859 4.8789C8.1525 19.4838 8 19.0093 8 18.5c0-1.3807 1.1193-2.5 2.5-2.5.5093 0 .9838.1525 1.3789.4141zm4.1719-2.7578C12.8475 17.5162 13 17.9907 13 18.5c0 1.3807-1.1193 2.5-2.5 2.5-.5093 0-.9838-.1525-1.3789-.4141z" fill-rule="evenodd"/>
+  <use xlink:href="#a6" transform="translate(-120 368)"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#6acad8"/>
+      <stop offset="1" stop-color="#6acad8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a2">
+      <stop offset="0" stop-color="#6acad8"/>
+      <stop offset="1" stop-color="#6acad8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a3">
+      <stop offset="0" stop-color="#6acad8"/>
+      <stop offset="1" stop-color="#6acad8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a4">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <linearGradient id="a5" x1="30" y1="84" x2="39" y2="89.196152" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.833325 0 0 .833341 -17.99975 -58.00065)" xlink:href="#a2"/>
+    <linearGradient id="a6" x1="39" y1="78.803848" x2="30" y2="84" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.833325 0 0 .833341 -17.99975 -58.00065)" xlink:href="#a3"/>
+    <linearGradient id="a7" x1="39" y1="89.196152" x2="39" y2="78.803848" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.833325 0 0 .833341 -17.99975 -58.00065)" xlink:href="#a1"/>
+    <filter id="a8" x="-.345548" y="-.34469" width="1.691097" height="1.68938" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <linearGradient id="a9" x1="24.705883" y1="91.529411" x2="24.705883" y2="76.470589" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0625 0 0 1.0625 -26.249996 -77.25004)" xlink:href="#a4"/>
+    <filter id="a10" x="-.166747" y="-.166335" width="1.333494" height="1.33267" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".969874"/>
+    </filter>
+  </defs>
+  <ellipse cx="-85.475357" cy="35.979202" rx="8.479" ry="8.5" transform="matrix(0 -1 1 0 -23.979499 -72.503697)" stroke="#000" stroke-linecap="round" opacity=".6" filter="url(#a10)"/>
+  <ellipse cx="-85" cy="36" rx="7.00336" ry="7.020796" transform="matrix(0 -1 1 0 -23.9792 -73.0034)" stroke="#000" stroke-width="2" stroke-linecap="round" opacity=".2" filter="url(#a8)"/>
+  <path d="m12 3.5c-4.6832 0-8.5 3.8168-8.5 8.5 0 4.6832 3.8168 8.5 8.5 8.5 4.6832 0 8.5-3.8168 8.5-8.5 0-4.6832-3.8168-8.5-8.5-8.5z" fill="url(#a9)" stroke="#fff" stroke-linecap="round"/>
+  <path d="m7 12a4.9999 5 0 0 1 2.5-4.3302 4.9999 5 0 0 1 5 0" fill="none" stroke="url(#a6)" stroke-width="2" stroke-linecap="round" stroke-dashoffset="1"/>
+  <path d="m14.4999 7.6698a4.9999 5 0 0 1 2.5 4.3302 4.9999 5 0 0 1-2.5 4.3302" fill="none" stroke="url(#a7)" stroke-width="2" stroke-linecap="round" stroke-dashoffset="1"/>
+  <path d="m14.4999 16.3301a4.9999 5 0 0 1-5 0A4.9999 5 0 0 1 7 12" fill="none" stroke="url(#a5)" stroke-width="2" stroke-linecap="round" stroke-dashoffset="1"/>
+</svg>

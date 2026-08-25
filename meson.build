@@ -9,4 +9,5 @@ install_subdir('Pop',
     install_dir: join_paths(get_option('prefix'), 'share/icons')
 )
 
+meson.add_install_script('meson/install_cursor_symlinks.py')
 meson.add_install_script('meson/post_install.py')

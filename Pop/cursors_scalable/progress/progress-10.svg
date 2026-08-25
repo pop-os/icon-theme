@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <linearGradient id="a2">
+      <stop offset="0" stop-color="#6acad8"/>
+      <stop offset="1" stop-color="#6acad8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="a3" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".5"/>
+    </filter>
+    <linearGradient id="a4" x1="36.749874" y1="281.33444" x2="32.999504" y2="283.5" gradientUnits="userSpaceOnUse" xlink:href="#a2"/>
+    <linearGradient id="a5" x1="39" y1="89.196152" x2="39" y2="78.803848" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.416708 0 0 .416759 20.49827 248.49221)" xlink:href="#a2"/>
+    <linearGradient id="a6" x1="30" y1="84" x2="39" y2="89.196152" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.416708 0 0 .416759 20.49827 248.49221)" xlink:href="#a2"/>
+    <filter id="a7" x="-.224125" y="-.155721" width="1.448251" height="1.311443" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.001709"/>
+    </filter>
+    <filter id="a8" x="-.126765" y="-.085722" width="1.253529" height="1.171444" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".500854"/>
+    </filter>
+    <linearGradient id="a9" x1="24.561718" y1="172.4931" x2="40.900002" y2="172.4931" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 -139.517302 205.483118)" xlink:href="#a1"/>
+    <linearGradient id="a10" x1="163.01711" y1="-367.01709" x2="179.01711" y2="-367.01709" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 487.0171 -184.9829)" xlink:href="#a1"/>
+    <filter id="a11" x="-.239771" y="-.239771" width="1.479542" height="1.479542" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.09895"/>
+    </filter>
+    <linearGradient id="a12" x1="24.000006" y1="180.00043" x2="24.000006" y2="164.00043" gradientUnits="userSpaceOnUse" gradientTransform="translate(-0 -.0004)" xlink:href="#a1"/>
+    <g id="a13">
+      <use xlink:href="#a14" transform="translate(-96 528.041)"/>
+      <path d="m34.0005 172.5005c-3.0347 0-5.5 2.4653-5.5 5.5 0 3.0347 2.4653 5.5 5.5 5.5 3.0347 0 5.5-2.4653 5.5-5.5 0-3.0347-2.4653-5.5-5.5-5.5z" fill="#000" fill-rule="nonzero" fill-opacity="1" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".2" filter="url(#a11)"/>
+      <path d="m33.5 173c-2.7588 0-5 2.2412-5 5 0 2.7588 2.2412 5 5 5 2.7588 0 5-2.2412 5-5 0-2.7588-2.2412-5-5-5z" fill="#000" fill-rule="nonzero" fill-opacity="1" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".6" filter="url(#a3)"/>
+      <path d="m33.5 172c-3.0347 0-5.5 2.4653-5.5 5.5 0 3.0347 2.4653 5.5 5.5 5.5 3.0347 0 5.5-2.4653 5.5-5.5 0-3.0347-2.4653-5.5-5.5-5.5z" fill="url(#a12)" fill-rule="nonzero" fill-opacity="1" stroke="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0"/>
+      <use xlink:href="#a15" transform="translate(-96 528)"/>
+    </g>
+    <g id="a14">
+      <path d="m122.5-366.2719l-.006 14.0227 4.0271-4.2507 5.4554.008z" fill="#000" fill-rule="evenodd" fill-opacity="1" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".6" filter="url(#a8)" clip-rule="nonzero"/>
+      <path d="m122-368l.0002 2.0019.0119 13.4365 4.4878-4.4463 6.2268.0218z" fill="#000" fill-rule="evenodd" fill-opacity="1" stroke="none" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-dasharray="none" stroke-dashoffset="0" opacity=".2" filter="url(#a7)" clip-rule="nonzero"/>
+    </g>
+    <g id="a15">
+      <path d="m122-367.959v15.4004L126.4434-357h6.2383z" fill="#fff" fill-rule="evenodd" paint-order="stroke fill markers"/>
+      <path d="m123-365.5v10.5273L126.029-358h4.282z" fill="url(#a10)" fill-rule="evenodd" stroke-width="2" paint-order="stroke fill markers"/>
+    </g>
+  </defs>
+  <use xlink:href="#a13" transform="translate(-23.9914 -159.9914)" fill="url(#a9)"/>
+  <g transform="matrix(.822804 1.132492 -1.132436 .822763 301.33634 -255.956027)">
+    <path d="m32.9995 283.5a2.5002 2.5006 0 0 1 1.2501-2.1656 2.5002 2.5006 0 0 1 2.5002 0" fill="none" stroke="url(#a4)" stroke-width="1.42877" stroke-linecap="round" stroke-dashoffset="1"/>
+    <path d="m36.7499 281.3345a2.5002 2.5006 0 0 1 1.2501 2.1656 2.5002 2.5006 0 0 1-1.2501 2.1656" fill="none" stroke="url(#a5)" stroke-width="1.42877" stroke-linecap="round" stroke-dashoffset="1"/>
+    <path d="m36.7499 285.6655a2.5002 2.5006 0 0 1-2.5002 0A2.5002 2.5006 0 0 1 32.9995 283.5" fill="none" stroke="url(#a6)" stroke-width="1.42877" stroke-linecap="round" stroke-dashoffset="1"/>
+  </g>
+</svg>

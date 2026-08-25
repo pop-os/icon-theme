@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <filter id="a2" x="-.110769" y="-.110769" width="1.221539" height="1.221539" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".6"/>
+    </filter>
+    <filter id="a3" x="-.205714" y="-.205714" width="1.411429" height="1.411429" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+    <linearGradient id="a4" x1="218" y1="-81" x2="234" y2="-81" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 81 238)" xlink:href="#a1"/>
+  </defs>
+  <path d="m9.5 6.5v.5 3.5h-4v5h4v4h5v-4h4v-5h-4v-4zm1 1h3v4h4v3h-4v4h-3v-4h-4v-3h4z" opacity=".6" filter="url(#a2)"/>
+  <path d="m9 5v1 3h-4v6h4v4h6v-4h4v-6h-4v-4zm2 2h2v4h4v2h-4v4h-2v-4h-4v-2h4z" opacity=".2" filter="url(#a3)"/>
+  <path d="m10 6v4h-4v4h4v4h4v-4h4v-4h-4v-4z" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square"/>
+  <path d="m10 6v4h-4v4h4v4h4v-4h4v-4h-4v-4z" fill="url(#a4)"/>
+</svg>

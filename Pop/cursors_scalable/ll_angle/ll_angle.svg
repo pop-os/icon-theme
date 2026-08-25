@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="a1">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <filter id="a2" x="-.112" y="-.112" width="1.224" height="1.224" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".7"/>
+    </filter>
+    <filter id="a3" x="-.21" y="-.21" width="1.42" height="1.42" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.4"/>
+    </filter>
+    <linearGradient id="a4" x1="27" y1="264" x2="43" y2="264" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -1 1 0 -264 47)" xlink:href="#a1"/>
+  </defs>
+  <path d="m3.5 5.5v.5 12 2.5H6 18.5v-3h-12v-12zm1 1h1v12h12v1H6 4.5v-1.5z" opacity=".6" filter="url(#a2)"/>
+  <path d="m3 4v1 12 3h3 13v-4H7v-12z" opacity=".2" filter="url(#a3)"/>
+  <path d="m3 4v1 12 3h3 13v-4H7v-12z" fill="#fff"/>
+  <path d="m4 5v12 2h2 12v-2H6v-12z" fill="url(#a4)"/>
+</svg>
